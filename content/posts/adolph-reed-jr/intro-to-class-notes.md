@@ -1,11 +1,11 @@
 ---
 title: "Introduction to Class Notes"
-author: Adolph Reed Jr. 
+authors: ["Adolph Reed Jr."]  
 date: 2023-02-12T02:15:15Z
 draft: false
 ---
 
-*the text here is an extract from adolph reed jr's 2000 work, "class notes". this work is the founding inspiration for the theme and title of this site.*    
+*The text here is an extract from adolph reed jr's 2000 work, "class notes". this work is the founding inspiration for the theme and title of this site.*    
 
 This book is built on commentary about current issues and events in american
 politics over most of the 1990s. as such, it expresses an on-going attempt to
