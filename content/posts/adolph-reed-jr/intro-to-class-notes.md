@@ -1,6 +1,6 @@
 ---
 title: "Introduction to Class Notes"
-authors: ["Adolph Reed Jr."]  
+author: "Adolph Reed Jr."  
 date: 2023-02-12T02:15:15Z
 draft: false
 ---
