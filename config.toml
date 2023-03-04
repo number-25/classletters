@@ -3,6 +3,5 @@ languageCode = 'en-us'
 title = 'Class Letters'
 theme = 'noteworthy'
 
-
 [author] 
-
+	name = "dejan"
