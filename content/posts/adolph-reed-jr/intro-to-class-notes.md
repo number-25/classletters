@@ -5,7 +5,9 @@ date: 2023-02-12T02:15:15Z
 draft: false
 ---
 
-*The text here is an extract from Adolph Reed Jr's 2000 work "Class Notes". This publication is the founding inspiration for the theme and title of this site here, long live Reed.*    
+*The text here is an extract from Adolph Reed Jr's 2000 work "Class Notes". This publication is the founding inspiration for the theme and title of this site here -- long live Reed.*   
+
+ 
 This book is built on commentary about current issues and events in american
 politics over most of the 1990s. as such, it expresses an on-going attempt to
 make sense of contemporary american political life from a critical perspective.
