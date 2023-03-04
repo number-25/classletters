@@ -2,3 +2,7 @@ baseURL = 'https://number-25.github.io/classletters/'
 languageCode = 'en-us'
 title = 'Class Letters'
 theme = 'noteworthy'
+
+
+[author] 
+
