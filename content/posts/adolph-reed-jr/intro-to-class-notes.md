@@ -3,7 +3,6 @@ author: "Adolph Reed Jr."
 title: "Introduction to Class Notes"
 date: 2023-02-12T02:15:15Z
 draft: false
-type: "post"
 ---
 
 *The text here is an extract from Adolph Reed Jr's 2000 work "Class Notes". This publication is the founding inspiration for the theme and title of this site here -- long live Reed.*   
