@@ -1,4 +1,4 @@
-baseURL = 'www.classletters.org'
+baseURL = 'https://number-25.github.io/classletters/'
 languageCode = 'en-us'
 title = 'Class Letters'
 theme = 'noteworthy'
