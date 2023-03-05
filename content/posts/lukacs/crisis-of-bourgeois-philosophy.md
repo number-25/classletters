@@ -1,0 +1,954 @@
+---
+title: "The Crisis of Bourgeois Philosophy"
+date: 2023-03-05T01:59:10Z
+author: György Lukács  
+draft: false  
+---
+
+Written in 1948.      
+
+The fact of the crisis has been stated not only by us Marxists. The concept of
+“crisis” has long taken root in bourgeois philosophy. When, for example,
+Siegfried Marck, a famous neo-Hegelian, wanted to define Rickert’s place in the
+development of philosophy, he called him a thinker of the “pre-crisis era.”
+Indeed, if we carefully trace the development of bourgeois philosophy in recent
+decades, we will see that literally every two years the foundations of
+philosophy are again and again called into question. It is no coincidence that
+this development was initiated by Nietzsche’s program: a reassessment of all
+values. This continues endlessly in modern philosophy; a year during which a
+crisis did not break out in some area of philosophy is a year without any
+events.
+
+But the most serious symptom of the crisis is the fact that at the end of this
+development stands the so-called “worldview” of fascism. And it can be argued
+that the resistance that was launched against it by bourgeois philosophy is
+equal to zero. Even the popularity of a significant part of those philosophical
+trends that fascism completely and undividedly contained in itself (think at
+least about Nietzscheanism), remained, as before, in wide circles of opponents
+of Nazism completely inviolable.
+
+So, the fact of the crisis can hardly be disputed. It is more difficult to
+characterize it and carry out criticism from a historical and, in a narrow
+sense, from a philosophical point of view. Here the question immediately
+arises: what in the philosophy of the era of imperialism turns out to be
+specifically new, is it radically new, and if so, how much?
+
+In such matters, we need to be careful. During the debates over the program of
+the Russian Communist Party, Lenin protested against the opinion shared by some
+that when analyzing the economic structure and laws of imperialism, one could
+supposedly abstract from them the general development of capitalism. I believe
+that this methodological statement of Lenin’s remains valid in the ideological
+and philosophical sphere. The philosophy of imperialism can be understood and
+criticized only within the framework of the general interconnections of
+capitalist society. After all, there is no doubt that, despite all the
+modifications, the impact of universal economic foundations is also expressed
+in philosophy.
+
+We can observe this relationship even at the most superficial level; for
+example, in the fact that modern philosophy constantly uses the systems of the
+past. So, in particular, the influence of Kant is obvious up to Chamberlain and
+through him to Rosenberg; Sartre uses Descartes, while German irrationalism
+asserts that modern philosophy, starting with Descartes, has gone astray, etc.
+In this eternal, restless search for more and more primary sources, signs of
+crisis also appear – on a historical scale. After all, these indecisive
+searches, this uncertainty betray an irresistible feeling that philosophy has
+gone astray.
+
+Where and when did it get lost? Where should it go back to find the right path?
+
+## I. Fetishized thinking and reality
+
+What’s new in the philosophy of the era of imperialism? On the whole, it is a
+mental reflection of imperialism itself as the highest and therefore the most
+contradictory stage of capitalism. The contradictions of capitalist society,
+which until now determined the path of development, the form and content of
+bourgeois philosophy, are now revealed at the height of their objective
+contradiction. This means not just a corresponding aggravation, since for the
+bourgeois class not to recognize this fundamental contradiction is a matter of
+life and death.
+
+Objectively, the deeper and more insurmountable the contradictions are, the
+faster becomes the process leading to the emergence of a crisis: the separation
+of development paths from philosophical thinking and social reality. But here
+we are also talking about something else. The problem lies not only in the
+opposition between the world of bourgeois thinking and the social reality of
+imperialism, but also in the real, essential course of development of this
+social reality and in the immediately visible surface that hides this reality.
+Therefore, perhaps, thinkers who, in the final analysis, are honest, in their
+writings completely turn social reality upside down, since they slavishly
+adhere to this deceptive surface.
+
+This opposition is an inevitable problem in bourgeois thinking. The fundamental
+ideological form of the phenomena of capitalist society is fetishization. This
+means, in a nutshell, that for individuals living in the vicious circle of
+superficial phenomena of capitalist society, relations between people, although
+often mediated by things, appear as things; human relations are reified,
+fetishized. The most obvious, elementary form of this fetishization is one of
+the fundamental phenomena of capitalist production, the commodity. A commodity,
+both in its origin and in its further functioning as a commodity, is a
+mediating link in specific human relations (capitalist and worker, buyer and
+seller). There must be absolutely specific social, economic circumstances, that
+is, completely specific human relations, so that the result of human labor, the
+product of the labor of human hands, becomes a commodity. As long as the
+capitalist social order hides these interconnections, makes them impenetrable
+and it is increasingly obscured by the fact that the commodity form of a
+product is only a reflection of a specific relationship between people, these
+relationships crystallize and become independent characteristics of the
+commodity (for example, price), they turn out to be characteristics of things,
+like some natural characteristics, they seem to be inherent in the commodity,
+like the sweetness of sugar or the color of a rose. And the farther a
+phenomenon is from real production, the more empty, soulless becomes a fetish,
+and the more it materializes, the more significantly it takes possession of
+thinking at the same time. The imperialist development of the capitalist world,
+in particular the transformation of finance capital into a governing force,
+increasingly intensifies the general fetishization, and the more difficult and
+unpromising becomes the task of exposing reification, since the
+interrelationships that underlie this fetishization as essential are more and
+more obscured by fog.
+
+Here it is important for philosophy that getting stuck in fetishization means
+moving in an anti-dialectical direction. The more often society in bourgeois
+thinking turns out to be a chaotic accumulation of dead things and material
+relationships, and not – in accordance with reality – a continuous and
+continuously changing reproduction of relations between people (classes), the
+more unfavorable for dialectical thinking such a position should become. This
+process, which begins in this way, is further intensified by the parasitism of
+the imperialist era. Most of the intelligentsia is so far removed from the
+labor process that determines the real structure and laws of movement of
+society, is so deeply embedded in the world of secondary or tertiary phenomena
+of aggregate social production, which it perceives as primary, that the
+intellectual exposure of fetishization becomes downright impossible.
+
+That is, the distance of thoughts reflecting surface phenomena from reality is
+so great that any change in social development reveals itself to thinking as an
+unexpected, gaping abyss, manifests itself as a crisis, as an endless series of
+crises.
+
+But if we assert that there is a constant philosophical crisis within
+imperialism, then, on the other hand, we must still distinguish between
+separate stages: before 1914, the philosophical crisis is relatively latent;
+and only after 1918 it becomes obvious to everyone.  
+
+## II. Major eras of bourgeois thinking
+
+All this is just a general ideological characteristic of the era of
+imperialism. However, philosophy is a special ideological form, the development
+of which does not always parallel the development of other ideological forms,
+for example, the exact sciences or literature. The peculiarity of philosophy
+consists, in short, in particular of its very subject, which covers existence
+and the ultimate questions of cognition, that is, a worldview raised to an
+abstract and generalized level. Whereas where the immediate subject is the
+immediately given social (or natural) reality (and not just its abstract
+embodiment, its generalized principles), a bold and impartial consideration of
+reality can often correct worldview distortions. For example, we often see in
+literature how individual writers, otherwise enclosed together with their
+opinions within a fetishized worldview, de-fetishize through their writings,
+through the depiction of life and reality what seemed to them a thing
+perceptible as a human relationship. In contrast, philosophy deals with the
+latter principles; here the material does not create such opposition. Its
+subject does not give the possibility of such a correction that breaks through
+the personal limited opinion of the thinker.
+
+Based on these considerations, we can now try to identify the main epochs in
+the development of bourgeois philosophy, so that with the help of this
+historical survey we can more clearly understand the special distinguishing
+features of the epoch of imperialism.
+
+The first era is classical bourgeois philosophy lasts somewhere until the end
+of the first third of the 19th century, up to a maximum until 1848. At this
+time, the most perfect intellectual expression of the bourgeois worldview, the
+intellectual denial of the feudal social order and its culture arises.
+Philosophy formulates the fundamental principles and universal worldview of
+this great, progressive liberation movement that is transforming society. A
+revolutionary breakthrough is taking place in logic, in the natural and social
+sciences, which expresses the universal nature of philosophy – the fact that it
+takes a fruitful part in solving key specific problems of the natural and
+social sciences and, on their basis, rises to the highest generalizations. This
+gives it the character of universality, fruitful for the sciences and opening
+up great prospects.
+
+What is this philosophy from the class point of view? The answer, it would
+seem, is simple, but in specific circumstances it is unusually confused: after
+all, it is the great universal world-historical interests of the class that is
+objectively called upon to transform the entire social world in a progressive
+direction to its very foundations. These interests are expressed in the works
+of classical philosophy. Therefore, this philosophy is closely connected with
+the great, world-historically significant goals and with the battles that are
+being fought for their implementation. This is the origin of a powerful and
+heightened sense of reality among the great thinkers of this era. Even the
+mistakes of these thinkers are mistakes of a world-historical nature, since
+they stem from heroic illusions necessary from the point of view of world
+history.
+
+From such a strong and deep intertwining of philosophers with the
+world-historical interests of the emerging bourgeois class follows their
+relative independence from momentary class tactics and especially from
+individual estates of this class. This provides serious opportunities for
+criticism. Criticism comes from within, since it is based on the great
+historical vocation of its own class, which gives philosophers the courage to
+clearly and decisively take a definite position. However, since this courage is
+not just individual, because, on the contrary, it is based in the most serious
+way on the connection of thinkers with the class they represent, insofar as,
+acting on behalf of this world-historical vocation, they are full of pathos in
+the awareness of the need to sharply criticize deviations from the necessary
+world-historical path.
+
+The revolution of 1830, and even more so the revolution of 1848, testifies to
+the fact that the bourgeoisie has ceased to be the leading progressive class.
+Thus, the process of disintegration of classical bourgeois philosophy begins,
+which completed itself with the revolution of 1848. Thus, philosophy is
+entering a new phase of development, which continued somewhere before the
+beginning of the era of imperialism. The onslaught of the bourgeois class
+against feudal remnants has come to an end; in relation to the rapidly rising
+proletariat defensive positions are taken. Another very important process of
+the era of bourgeois revolutions, the formation of national states, ended in
+the same way, and the formation of German and Italian national unity took place
+in a reactionary form. This time was the era of oppressive class compromises,
+the era of Napoleon III and Bismarck. The old bourgeois democracy has been
+steadily declining since 1848 and even disintegrating. Liberalism and democracy
+sharply diverge, oppose each other in a hostile way; liberalism turns into
+conservative “national liberalism.” The economic background of this process of
+the disintegration of democracy is the rapid offensive of capitalist production
+in Western and Central Europe. It would seem that from now on capitalism will
+move forward without any problems and boundaries. (These considerations do not
+apply to Russia. In economic and political development, and as a result of this
+also in the ideological struggle in Russia, 1905, by and large, corresponds to
+1848 in Western and Central Europe. Therefore, in the second half of the 19th
+century, such thinkers like Chernyshevsky and Dobrolyubov could still live in
+Russia.)
+
+The philosophy of this era is an intellectual reflection of class compromise.
+Philosophy refuses to answer key worldview questions. Agnosticism has become an
+intellectual, theoretical and cognitive expression of this tendency: we cannot
+know anything about the true essence of the world, reality, and it does not
+matter at all whether we know anything about it. What is important is that
+individual knowledge which is developed and accumulated by the isolated from
+each other special sciences and which serves to find absolutely necessary
+satisfactory solutions to problems that arise in everyday practical life. The
+role of philosophy is limited to ensuring that no one crosses the established
+boundaries of cognition of the essence, so that no one draws such conclusions
+from the economic and social sciences that would question capitalism as the
+only blessed social order, or might conflict with religious beliefs. This
+philosophy fundamentally rejects the worldview question as a question that
+science cannot approach, that is insoluble in the scientific sense.
+
+Of course, this philosophy, which is mainly expressed in the form of
+neo-Kantianism or positivism, is not the only philosophy of this era, it just
+occupies a dominant position there. Along with it, experiments have been
+carried out for some time on the last, philosophically defective renewal of the
+old mechanistic materialism (Moleschott, Büchner, etc.); along with it,
+especially in intellectual circles, Schopenhauer is extremely important as a
+philosophical exponent of the ideas of hopeless pessimism, who proclaimed the
+renunciation of a completely meaningless life.
+
+The dominant philosophy is the philosophy of the professors
+(Kathederphilosophie). Along with psychology that was developing then, its
+content was almost entirely the theory of knowledge. Philosophy itself becomes
+a special science, and this is just the other side of the decisive, principled
+rejection of any ideological issues. Thus, it renounces its former social role
+of being a form of intellectual expression of the great world-historical
+interests of the developing class. Due to the fact that it is ready to occupy a
+borderline ideological post, necessary for the then bourgeoisie and inevitable
+from the point of view of a lasting class compromise with the reaction, the
+bourgeoisie is becoming increasingly indifferent to individual steps and
+results, methods and content of “special philosophical science.” The
+bourgeoisie fully entrusts the elaboration of these details to the
+intelligentsia, and in the first place to the intelligentsia involved in the
+bureaucracy, in the state apparatus. So this stratum, which has become
+relatively independent in accordance with the developing capitalist division of
+labor, turns into a social carrier of such a new philosophy.
+
+However, this independence is very relative; its sine qua non is the faithful
+performance of the aforementioned “border post” service. Thus, in a new period
+in the development of bourgeois philosophy, the intelligentsia, which has
+become relatively independent, turns into a social agent of philosophy, and the
+form and content of philosophy, in fact, are determined by the special problems
+of this stratum. However, in that era, not only did the spirit of philosophy
+radically change, but (in what precisely determines the change in its spirit)
+the social function of the intelligentsia, directly creating philosophy, did
+not remain the same. Previously, it spoke on behalf of the great
+world-historical perspectives of the progressive, nascent bourgeoisie. These
+prospects were destroyed during the defensive battles that were fought against
+the proletariat, within the class compromise after 1848. The philosophical
+claims of the bourgeois class have narrowed to principles that draw clear
+boundaries, have become negative. Within these boundaries, the intelligentsia
+and individuals belonging to it could, as it seemed, move relatively freely,
+without being attached to anything. Philosophy became more and more an internal
+affair of the intelligentsia. The bourgeoisie is completely indifferent to what
+doctrines individual professors proclaim, provided that they adhere to the
+boundaries that have been set for philosophy. Philosophical departments are
+sinking deeper and deeper into the vacuum of social indifference.
+
+How does the philosophy of the era of imperialism relate to its predecessors?
+It would seem that the rise begins. Philosophy again becomes “interesting,” of
+course, only for wider circles of the intelligentsia. The bourgeois class will
+remain extremely indifferent to it in the future. From an external point of
+view, the new philosophy acts as an opponent of Kathederphilosophie, which
+continues to live to this day, and to a large extent in the old style. Many
+leading philosophers of this time spoke outside the universities (Nietzsche,
+Spengler, Keyserling, Klages). Simmel and Scheler have also been outsiders for
+a long time. Gradually, the new trend spreads to some universities, and there
+“interestingness” also becomes a principle of choice (Croce, Bergson, Huizinga,
+etc.). Has there been a radical change here? We believe not. In fact, there was
+an even greater shift in the direction that emerged after 1848: the
+intelligentsia makes philosophy for the intelligentsia. However, even here, as
+we will see later in a detailed analysis, a strictly bourgeois
+class-determinism exists, but now it does not act as a factor that directly
+determines the forms and content, but as a reflection of the space of
+possibilities of movement that corresponds to this class and is limited by
+virtue of its interests, in which the intelligentsia, it would seem, can freely
+create. This class definiteness takes a concrete form in fascism. Fascism
+translates all “achievements” of imperialist philosophy into the most
+reactionary language of the national and social demagogy of monopoly
+capitalism, the most reactionary of all; from the pulpits, from salons, from
+the coffee shops, fascism brings them out into the streets.  
+
+## III. Old and new in the philosophy of the era of imperialism
+
+What does the “interestingness” thus arising, the relative independence of
+philosophy mean? It means that the bourgeois intelligentsia proceeds from its
+special position, touches upon its own special problems, and more decisively,
+more consciously than in the times preceding imperialism. (Here the fact is
+also expressed that now the role of the free intelligentsia is more significant
+in comparison with the role of the bureaucratic intelligentsia of the previous
+era.) Proceeding from this, philosophy poses its own individual concrete
+questions, which from time to time are in apparent opposition to the bourgeois
+class, although the reserved zone of bourgeois class interests is still
+completely seeure.
+
+What follows from what has been said regarding the content and form of the new
+philosophy? First of all, we see that the basis of bourgeois existence is never
+subjected to any genuine criticism. After all, the knowledge of the economic
+foundations of bourgeois society among representatives of the new philosophy is
+increasingly declining, even a simple intention to seriously get acquainted
+with them and critically examine them as philosophical problems is becoming
+increasingly rare. At the same time, the voice of criticism seems to grow
+louder, but this criticism concerns almost exclusively private morality and
+culture in a narrower sense, that is, those issues that most directly concern
+the intelligentsia. This consistent evasion, avoiding any problems of the
+economy, society, social life is precisely the strict observance of boundaries,
+established by the imperialist bourgeoisie for the field to which philosophy
+extends, and thereby provided it with a platform, free space for its special
+problems, in which it could again be “interesting” and even make revolutionary
+gestures. (This evasion of economic, social problems, problems of social life,
+although it coincides objectively with the class requirements of the
+imperialist bourgeoisie, at the same time it spontaneously grows out of the
+very existence of the intelligentsia in the society of the imperialist era.
+Therefore, it is possible that some philosophers unconsciously submitted to the
+wishes of the imperialist bourgeoisie in spite of the faithful observance of
+the boundaries set by the class; however, objectively this is the case, even if
+subjectively it happened for some unconsciously and with the best intentions.)
+
+But this is precisely why the fundamental independence, the fundamental
+critical attitude, will become increasingly weaker (think, for example, of
+Hobbes, Rousseau, or Fichte in the classical era). There are many utopias about
+the transformation of culture, perhaps in a “more revolutionary” form than
+Nietzsche’s, but the economic and political foundations of capitalism remain
+intact. Nietzsche most sharply criticizes the cultural symptoms of the
+capitalist division of labor, but he, however, does not intend to encroach on
+the capitalist system of labor itself.
+
+The focus of philosophical criticism, often with a “revolutionary” sweep taken
+almost to the extreme, is the criticism of the idea of progress. However, no
+one says (in many cases, neither the thinker nor his intelligent public knows
+anything about this) that such a “risky” statement of the question is only an
+ideological reflection of the hostile bourgeoisie towards the progress of
+development, its compromise with reactionary remnants of society that this
+question in the era of imperialism takes on such acute forms because within
+imperialist monopoly capitalism the alliance of the leading class of capitalist
+production with all reactionary social forces is significantly strengthened.
+Reactionary content and revolutionary gestures form an original and curious
+marriage. Let’s think about Lagarde, Nietzsche, Sorel, Ortega y Gasset. On the
+eve of the seizure of power by fascism, Hans Freyer summed up the results in a
+short slogan: revolution on the right.
+
+In connection with this development, in parallel with the fact that worldview
+issues come to the fore, the attitude of philosophy to religion is also
+changing. In the previous era, agnostic boundaries served only to make
+materialist atheism philosophically impossible and discredit it. The turn to a
+positivist worldview leads partly to a new justification of religion, partly to
+the creation of a new religious atheism, whose worldview and moral content,
+however, forms the complete opposite of materialist atheism. We can trace these
+changes from Nietzsche to the existentialism of Heidegger and Sartre.
+
+At the same time, in the era of imperialism, the natural sciences, in the main
+direction of their popularization, are turning into a weapon of the reactionary
+world outlook. In the preceding epoch, reactionary philosophy initially took a
+defensive position here. Agnosticism, “ignorabimus” by Emile du Bois-Reymond,
+was just one more counterweight to the worldview conclusions of Haeckel’s
+materialism. However, in the school of Mach-Avenarius-Poincaré, an open defense
+of reactionary views was spreading. In the era of imperialism, this trend was
+constantly increasing, philosophy interpreted each new achievement in the field
+of natural sciences as confirmation of a reactionary worldview, supposedly
+based on facts.
+
+Speaking about the theoretical and cognitive basis of all these phenomena, it
+should be noted: the subjective idealism of the previous era is still the main
+theory of knowledge. This is not an accident, since idealism is a “natural,”
+spontaneously growing worldview of the intelligentsia, especially the free
+intelligentsia. Labor, which ultimately determines people’s attitude to the
+world, in its essence has a double bottom: labor itself demonstrates a state of
+affairs in which the existence of the material world does not depend on
+consciousness; but at the same time, any labor process has a teleological
+character, that is, a person is aware of a mentally imagined goal before the
+material labor process begins. As the intelligentsia is increasingly moving
+away from the material process of labor, in her consciousness, to an ever
+increasing degree, the second moment is almost exclusively at work. The more
+the intellectual class is removed from real labor, from practical contact with
+the material categories of reality, the more this motive affects it. Therefore,
+it may happen that natural scientists in their special work – often contrary to
+their own philosophical convictions – turn out to be spontaneous materialists.
+Rickert, for example, regrets that prominent scientists in their field have
+recognized themselves as supporters of “naive realism.” The wider the
+independent, special role of the intelligentsia in philosophy becomes, the more
+significant is subjective idealism in the theory of knowledge.  
+
+## IV. Pseudo-objectivity
+
+But even if we assert that this theoretical and cognitive basis remained
+intact, at the same time, we must take into account that – in comparison with
+the previous era – there has been a significant change in the philosophy of the
+era of imperialism. The most important moments of this change are: a feigned
+striving for objectivity, then, the struggle against the formalism of the
+theory of knowledge, its apparent overcoming and the associated triumph of
+mystical intuition, which is brought into the spotlight as a new instrument of
+philosophical knowledge, and, finally, a new formulation of the ideological
+question instead of the consistent agnosticism of the previous era.
+
+All these moments arise from the needs of the era of imperialism. They are all
+symptoms of a crisis in philosophy. Satisfaction with the eternal, seemingly
+unshakable social environment, the appearance of a calm social and political
+upsurge (the so-called Sekuritat, that is, security) formed such a spiritual
+attitude and such a course of action in philosophy that made it possible to
+convey all substantive problems (all reality) to special sciences, industrial
+development and, last but not least, to the “wise managers” of the state
+apparatus, of course, with strict observance of theoretical and cognitive
+boundaries.
+
+The fact that the need for a worldview comes to the fore is already a sign of a
+crisis, or at least a harbinger of it. It is felt that, despite the apparent
+stabilization, even the strengthening of the surface, the foundations were
+shaken. Most importantly, the intellectual class, inclined to philosophical
+generalizations, reacts sensitively to the impending crisis; long before 1914,
+this problem was becoming tangible in a significant part of imperialist
+philosophy. One way or another, by this time the signs of the crisis have
+finally become universal; they are embodied mainly in anxiety about the
+preservation of the integrity of individuals in the face of disunity due to the
+capitalist division of labor, in the discovery of insoluble contradictions,
+arising within the capitalist and imperialist culture (however, here the
+contradictions of capitalist culture are not discussed, as elsewhere, but the
+contradictions of culture as a whole). The most prominent exponent of the
+philosophy of this latent crisis is Simmel.
+
+It may sound paradoxical if we say that the need for a worldview is a sign of a
+crisis. But the truth, as always, is concrete. Therefore, let us look at the
+social function of the question of worldview in the three eras of bourgeois
+thinking described above. A powerful, comprehensive worldview developed in
+classical bourgeois philosophy; philosophy at that time was the most
+influential, basic and generalizing science, and in accordance with this, the
+worldview was the last content of scientific philosophy, which organically
+ascended on the rise of bourgeois society and which led scientific activity at
+certain stages of development to its highest point and completed it. The
+economically favorable epoch of class compromises cowardly and sluggishly
+turned away from any ideological issue, considered dealing with these issues
+excessive, characterized, with a shrug, the desire for the worldview of the
+previous great era as unscientific. In contrast to this, the intelligentsia,
+irresistibly approaching a crisis and ultimately dragged into a whirlpool of
+crises, rapidly replacing each other, hoped to find in the ideology, which it
+fanned out to a worldview, consolation, reassurance and reconciliation with
+fate.
+
+But, thus, we again come to a paradox: how can the gloomy pessimism of
+Nietzsche or Spengler, Klages or Heidegger provide consolation? This paradox is
+originally inherent in the impact of philosophical idealism due to the fact
+that idealism – in an anti-historical, abstract spirit – depicts the special
+fate of a person in the era of imperialism as an eternal fate and creates a
+philosophical method that acts in a similar way. After all – as paradoxical as
+it may sound – it is in such resignation to fate that consolation lies; think
+about amor fati (love of fate) in Nietzsche, about life directed towards death
+in Heidegger, about “heroically” embellished pessimism and fatalism in
+proto-fascism (Spengler) and among the fascists, etc. (Schopenhauer and
+Kierkegaard are the harbingers of these directions). People are not expected to
+be satisfied when there is no reason for this, when for thinking people the
+feeling of satisfaction is completely impossible. Although it should not be
+forgotten that modern thinkers, such as Keyserling or Jaspers, have pointed to
+a similar closed private life that excludes any sociality, which is satisfied
+with itself, the ideological basis of which is built precisely on deep
+pessimism in relation to the general world process.
+
+At the same time, the dissatisfaction caused by the crisis never turns against
+the capitalist foundations. The bourgeois intelligentsia, under the impression
+of the crisis, does not oppose the economic and social order of capitalism.
+This once again testifies to the fact that the nucleus of modern philosophy
+lies within the intelligentsia itself. Here, the direct and crude praise of the
+capitalist order no longer comes to the fore, as was the case with hired and
+voluntary agents. On the contrary, one of the central philosophical themes, the
+importance of which, moreover, is increasing is the seeming criticism of
+capitalist culture, always oriented only towards secondary symptoms. During the
+crisis, the ideology of the “third way” increasingly brings to the fore in the
+public sense the worldview in which it is declared, that neither capitalism nor
+socialism is the correct direction for the development of mankind. (By default,
+the precondition of this concept is the recognition that it is impossible to
+theoretically defend the capitalist order as it is.) Since capitalism becomes
+philosophically indefensible directly, the purpose of the “third way” in the
+philosophy of history is to keep the intelligentsia in crisis from making
+socialist conclusions. Thus, this “third way” also becomes a pillar of
+capitalism, its defense, only now it is not through direct, but through
+indirect apologetics.
+
+So, in the worldview of the era of imperialism, the struggle against socialism
+is increasingly becoming its main problem; it is a philosophical struggle
+against dialectical materialism, that is, both against materialism and against
+dialectics. In terms of worldview, this means, first of all, the exclusion of
+economic and social positions from philosophy. Since philosophy is not able to
+make serious arguments against the social views of socialism, it poses the
+question as if Marxist political economy had been “refuted long ago” by the
+bourgeois economic sciences, and, thus, the task of philosophy is limited to
+belittling the worldview significance of economic and social positions, to
+slander them. And since bourgeois sociology is also “scientifically” isolated
+from economics, as it becomes a completely separate science, the relationship
+of philosophy to sociology is radically changed in comparison with the past.
+The philosophy of that time refuted the scientific validity of sociology, the
+current philosophy accepts it. Indeed, during an acute crisis, sociology is
+increasingly becoming (mainly as the “sociology of knowledge” by Scheler and
+Mannheim) even an instrument of worldview relativism. The often reactionary
+sociology that emerged from it later (Fryer, Carl Schmitt) falls straight into
+the fascist worldview.
+
+Another theater of the ideological war in which the battle against socialism is
+being fought is the deployment of philosophical theories hostile to progress.
+Here we are also talking about the fact that bourgeois philosophy, since it
+cannot bring up any serious and convincing counter-arguments against the
+progressive prospects of socialism, seeks partly to destroy the ideas of
+progress itself, both in the natural and social sciences, and partly to mystify
+development, at the same time, it goes into those perspectives that become
+comprehensible for the crisis-ridden intelligentsia and correspond, if not to
+the real history, then at least to its [the intelligentsia’s – G. L.] dreams.
+From the unification of the two trends in the ideology of fascism and its
+predecessors, racial theory emerges as a mythical solution to the “secrets” of
+society and history.
+
+It is clear, firstly, that all this means a challenge to historical materialism
+also in the event that we do not find in some particular philosopher an
+explicit polemic against it. Secondly, the fact is that the socialist worldview
+in Western and Central Europe did not have such a profound and powerful
+influence on the intelligentsia as it should have been in accordance with the
+general influence of the labor movement. This successful influence of bourgeois
+philosophy was greatly facilitated by reformism. First of all, reformism
+challenges the ideological character of Marxism; it considers Marx to be a
+“narrow specialist” in economics and sociology, and such a narrow specialist,
+whose methods and results of research, thanks to scientific development –
+partially or completely – are already outstripped. Therefore, reformism is only
+consistent when its ideologists try to “supplement” Marxism with Kant (Max
+Adler) or Mach (Friedrich Adler); the most consistent representative of
+reformism (Bernstein) takes a resolute anti-dialectical position, considering
+dialectics an outdated and misleading method. There is strong opposition to
+reformism as a political outlook in Central and Western Europe, but as a world
+outlook, the defenders of dialectical materialism could not force themselves to
+be heard seriously. This ideological weakness of the labor movement in Central
+and Western Europe affected the world outlook of the still poorly represented
+bourgeois-democratic, anti-imperialist opposition. And here there is no serious
+resistance to the general reactionary philosophy of imperialism.  
+
+## V. The “third way” and myth
+
+In this regard, we can move on to the main issues of the era of imperialism. To
+begin with, let us examine the problem of objectivity that arises at the basis
+of the subjective-idealistic theory of knowledge. We have already mentioned the
+“third way” in the theory of knowledge. On the one hand, it appears in
+Nietzsche, on the other, in Mach and Avenarius, from there it leads through
+Husserl to the ontology of existentialism, which, although it recognizes an
+existence independent of consciousness, nevertheless adheres to the old
+idealistic methods in its definition, cognition and interpretation. The theory
+of knowledge of the previous epoch resolutely rejected the cognizability of
+objective reality. The “third way,” while retaining all the principles of the
+subjective-idealistic theory of knowledge, blurs the boundaries and poses
+questions as if ideas and concepts that exist only in consciousness are already
+objective reality themselves.
+
+What does that reality mean, that reality about which this philosophy is
+talking? (Bourgeois philosophy always distinguishes between idealism and
+“realism.” The word “materialism” is condemned and never uttered.) Mach and the
+neo-Kantians, marking the transition to the era of imperialism, create a theory
+of knowledge that makes terminological concessions to the practice of natural
+scientists and together at the same time dulls the philosophical edge of their
+“naive realism.” If, following Berkeley, we identify reality with
+representation, then in this case, at least in the statements of philosophers,
+there is only a uniform reality; but it is essentially identical with
+subjective idealistic reality. Thus arising agnosticism is, however, radically
+different from the agnosticism of the previous era. Engels could rightfully
+call it “shy materialism,” since the doctrine of the unknowability of reality
+would mean here only that philosophy did not even wish to comprehend the
+achievements of the natural sciences in a world outlook. The Mach school goes
+beyond this negative attitude; its agnosticism means that the achievements of
+natural science are wholly and completely consistent with any reactionary
+worldview.
+
+However, development did not stop there either. In its modern form, agnosticism
+turns into mysticism and myth-making. From this point of view, the figure of
+Nietzsche is of decisive importance for the entire development of imperialism.
+One could even say that he created a model for constructing myths for the
+entire imperialist era. Here we can draw the reader’s attention only to some of
+the leading motives. First of all, the role of “body” and “corporeality” should
+be noted. Nietzsche breaks with the abstract “spirituality” of university
+philosophy and its philistine morality. He invents such a theory of knowledge
+and morality, which takes under the protection of the rights of sensual life
+and yet does not compromise with philosophical materialism. It goes without
+saying that the form of philosophy of such an immaterial body can only be
+mythological.
+
+But this is only a part of Nietzsche’s biologism and the psychology allegedly
+growing out of it, which in Nietzsche takes the place of social science. This
+foundation is supplemented and brought to its logical conclusion by the
+mythical perspective of human development, the world process, the approval of
+imperialism, the creation of a new aristocracy and opposition to socialism with
+the help of a biological myth. (This laid the philosophical foundation for
+racial theory.)
+
+This is not the place to analyze other myths (Bergson, Spengler, Klages, etc.).
+We just want to add some fundamental remarks. The myths that arise in this way
+should not be confused with those elements of some ancient philosophical
+teachings that, on a superficial examination, function as myth. Any idealism,
+not being highly agnostic, immediately turns into a myth as soon as it tries to
+explain real phenomena, for it is forced to ascribe a real role to mental
+constructions in reality.
+
+The more philosophy approaches objective idealism, the stronger the
+construction becomes in it, turning into a myth. In Fichte’s “absolute I” it is
+expressed more distinctly than in Kant’s “pure consciousness,” and in Hegel’s
+“world spirit” it is even stronger than in Fichte’s. But even these mental
+constructs, accepted as reality, still contain elements of its serious study.
+Everywhere here one can recognize those real elements for which these
+constructions are their first discovery and at the same time a mental
+distortion. These thought constructs, which function as myths, create a
+philosophical fog prior to the sunrise of true knowledge.
+
+A completely opposite situation is unfolding in the philosophy of the era of
+imperialism. The mental construction, the myth, turns here against the already
+victorious scientific knowledge; the first task of the myth is to obscure the
+social consequences of scientific knowledge. Already at the very beginning of
+this development, this happens with the conclusions of Darwinism in the
+mythologization of Nietzsche. The myth appears – with a certain naivety – not
+as one of the parts of scientific cognition, as in the classical era, but as a
+supposedly qualitatively higher one and, if necessary, disavowing scientific
+attitude to the world.
+
+The social function of this “worldview,” that is, the myth, is to instill a
+socially acceptable picture of the world where science is unable to provide a
+perspective, or, wherever the perspective of science is opposed to what is
+defended by imperialist philosophy, to instill a socially acceptable picture of
+the world, instead of scientifically contradicting it.
+
+This is how the paradoxical essence of imperialist philosophy arises: on the
+one hand, the agnostic subjective-idealist theory of knowledge remains
+inviolable, on the other hand, diagnostics receives a completely new function;
+by turning into a myth, by passing into a myth, it creates a new, imaginary
+objectivity.  
+
+## VI. Intuition and irrationalism
+
+The new concept of objectivity presupposes a new tool of cognition. The central
+problem of the philosophy of the era of imperialism is what is cognition acting
+in a new way and its instrument is intuition, which is opposed to conceptual,
+rational thinking. In fact, it is the case that intuition constitutes the
+psychological element of any working method of science. And with regard to
+intuition, psychologically, there arises an immediate semblance that it is
+supposedly more concrete, more synthetic than abstract, discursive thinking
+that works with concepts. However, this is only an illusion, since from a
+psychological point of view, intuition is nothing more than a sudden awareness
+of an unconsciously occurring thought process.
+
+And for conscientious scientific thought, a serious task will be, firstly,
+verification of these intuitively achieved results in order to clarify their
+scientific validity and, secondly, their organic introduction into the system
+of rational concepts so that later it would be impossible to distinguish which
+of them were discovered with the help of the discursive ability of a person
+(that is, consciously), and which ones through intuition (which arises first at
+the threshold of consciousness and only then becomes conscious). Intuition here
+is, on the one hand, an addition to conceptual thinking, and in no way its
+opposite; on the other hand, the intuitive detection of a connection will never
+turn into a criterion of truth. With a superficial observation of the process
+of scientific work, the illusion arises that intuition is an organ of cognition
+independent of abstract thinking, designed to comprehend higher or deeper
+relations.
+
+This illusion, which is supported by the general subjectivism of the philosophy
+of the era of imperialism, appears as a result of the acceptance of the
+subjective working method for an objective method and becomes the basis of the
+modern theory of intuitionism. This illusion, due to the substitution taking
+place here, rises to dialectical knowledge. From a subjectivist perspective, it
+is reasonable to assume that dialectical contradiction is realized on the path
+of concepts, while we owe intuition to its synthetic resolution and release
+into a higher unity. Of course, this is an illusion, for real dialectics
+expresses each of its synthesis only with the help of concepts, and none of its
+synthesis can be considered as a final given. Genuine scientific dialectical
+thinking, since it is a correct reflection of objects of the real world, always
+contains conceptual connection and conceptual analysis of ideas. Therefore,
+intuition is not an organ of cognition and not an element of the scientific
+method. All these arguments were clearly stated by Hegel in the preface to the
+Phenomenology of Mind, opposing Schelling.
+
+In the philosophy of the era of imperialism, intuition, on the contrary, is
+given a central place within objective methodology. The need for this arises,
+first of all, because thinkers reject the formalism of the theory of knowledge
+of the past era. They should abandon it, since the very search for a certain
+“worldview” already presupposes a meaningful posing of questions. However, the
+subjective-idealistic doctrine of cognition, by virtue of necessity, is engaged
+in a purely formal analysis of concepts, and not in their dialectical, mental
+expression. If thinking crosses these boundaries and strives for philosophical
+knowledge of the real content, then, on the one hand, it must rely on the
+materialist theory of reflection and, on the other hand, on the dialectical
+conceptual coherence of the world, and on such a coherence of the world which
+is understood not only as a static relation between objectivities and
+structures, but also as a dynamic relation in development (or in forward
+motion) and thus in a reasonable history. For modern philosophy, intuition is a
+tool that helps to abandon the formalism of the theory of knowledge and, at the
+same time, from subjective idealism and (imaginary) agnosticism, without the
+slightest shock of their foundations.
+
+Such a philosophy will constantly encounter a contradiction, since the content
+to which it seeks, and the worldview reality that it wants to achieve, is
+regarded as impossible for expression in a concept and as a qualitatively
+different, higher reality. In this regard, the simple fact of intuition gives
+rise to an imaginary idea that it is, they say, a symbol of illumination and
+understanding of this higher world. This gives rise to the problem of refuting
+criticism from the side of conceptual analysis, which is vitally important for
+the new philosophy. This ability for self-defense appears in intuition already
+at the level of the aristocratic theory of knowledge in a similar form in
+ancient philosophy (and even partly in ancient religious mysticism). This is
+evidenced by the point of view, according to which not everyone is given an
+intuitive comprehension of the highest reality. That is, the one who is looking
+for conceptual criteria for intuitive understanding only confirms that he is
+denied the gift of discretion of the highest reality. Such criticism is just
+the exposure of its own inconsistency, just as in Andersen’s fairy tale, every
+person was wrong if they did not see a beautiful new dress on the naked king.
+Such a “theory of knowledge” is necessary for intuition, if only because, in
+fact, any “reality” thus comprehended is arbitrary and uncontrollable.
+Intuition as an organ of higher knowledge is at the same time a justification
+for this arbitrariness.
+
+So, we have approached the essence of the worldview of the era of imperialism.
+Once again, we recall that for classical philosophy, the worldview was the
+problem of scientific knowledge and was a scientific picture of the world; but
+the transitional era rejected the scientific worldview and found insurmountable
+difficulties where special scientific knowledge turned out to be insufficient
+for understanding the phenomena. Imperialist philosophy continues to pile up
+obstacles in the theory of knowledge and completes the process by creating a
+super-scientific worldview hostile to science with the help of a new organ of
+cognition, that is, with the help of intuition.
+
+The main feature of the new worldview is the overthrow of the domination of
+reason, its debunking. Romanticism, Schopenhauer, Kierkegaard are the
+predecessors of this trend, Dilthey marks the transition to a new era;
+Nietzsche, Bergson, Spengler, Klages and, finally, existentialism appear as the
+most important stages of this development. We repeat: the basis of the theory
+of knowledge is invariably formed by agnosticism and the accompanying
+relativism. If in the past epoch it was possible to be content with this
+statement of the fundamental unknowability of reality, then the new philosophy
+goes further than this; it begins to fight against rational thinking and
+against reason. Simmel, in one of his works, examines the latest results of
+modern science from the position of relativistic criticism and compares it with
+the criticism with which the Enlightenment approached superstition, magic, etc.
+Based on this, he considers it possible to conclude: We have good reason to
+believe that the coming centuries will view the significant results of modern
+science in the same way as we view superstition. Relativistic agnosticism and
+doubt in everything, consistently carried to the end, open the way that leads
+to the myth of the new world and to a world that is essentially hostile to
+reason, or at least irrational, if not superintelligent. On the eve of World
+War I, Bergson formulated this philosophy most emphatically. During the general
+crisis after 1918, hostility towards reason is embodied in a concrete
+philosophy of history, which, through Spengler, Klages and Heidegger, leads to
+a diabolical, fascist vision of the world.
+
+If we examine the specific content of this irrationality, then we will see its
+close connection with the philosophical teachings of antiquity and see that it
+only enriched the weak sides of bourgeois philosophy in general with timely
+accents. This philosophy, which is not dialectical and therefore not truly
+creative in the historical sense, generalizes the essence of reality, fanning
+modernity to “eternal law” and “eternal existence.” At the time of the belief
+in the eternity of capitalism, even before the eyes of historians inclined to
+empiricism (Mommsen, Pelmann), the whole history was unfolding within
+capitalist forms of life; the abstract ethics of Kantianism supported this
+trend. In times of the crisis of imperialism, when everything is unstable,
+everything is in disarray, when the bourgeois intelligentsia is forced to
+observe, as the next day refutes what seemed indestructible today, it is faced
+with a choice. It must admit either its own defeat or the defeat of reason. The
+first path means recognizing your inability to comprehend reality in thought.
+Here it would be the turn of reason, but it is from this rationality that
+bourgeois thinking must withdraw. It is impossible to recognize this defeat
+from a bourgeois standpoint, for that would mean a transition to the camp of
+socialism. Therefore, at the crossroads, the bourgeois intelligentsia must
+choose a different path; it must proclaim the collapse of reason. Of course,
+this is possible in such a form in which philosophy allows reason to be
+possible as the subjective side of the relationship to the real world, but as
+the subjective side of such a connection, in which the subjective mind is
+refuted every moment by reality (Scheler: powerlessness of reason; Benda,
+Valery). However, this is not a general path, not the dominant direction of
+crisis philosophy. For the leading bourgeois thinkers, reason does not exist at
+all in reality; true reality, the highest reality, is irrational, hostile to
+reason. Philosophy must recognize this fundamental fact of human life, and this
+is how a new worldview of crisis philosophy arises – irrationalism.
+
+This development is facilitated and accelerated by the fact that capitalism,
+especially in its imperialist stage, unusually narrows the concrete space for
+the realization of the individual in life. If we look at this question in the
+abstract, there are two possibilities for reaction. It can understand the
+relationship of this position with capitalist society and economy and draw
+conclusions from it. Timid attempts at such activities are present at the
+beginning of the era of imperialism, in places somewhere in Nietzsche’s
+Romantic criticism of capitalist culture, in Simmel’s general criticism of
+culture, in his theory of the “tragedy of culture.” But everywhere here the
+mythologized, indirectly apologetic “third way” is being realized. In Nietzsche
+it is like a mythical vision of a “new society.” With Simmel, it is like a
+perfect inward-turning, the exclusive individual turning-in-oneself, moreover,
+the external world, the soulless fetishization of capitalist society, directly
+contributes to the problems of pure internal individualism. The soulless
+“rationality” of the fetishized capitalist world thus becomes for Simmel a
+launching pad for the individual’s transition to higher irrationality, to the
+higher reality of pure individual inner being. Here the most important motive
+of the irrationalist worldview is already appearing – the desire to mystify the
+situation of people under imperialist capitalism as a “common human destiny.”
+Parallel to this, there is a methodological division into two parts. Everything
+that is natural from a social point of view, that corresponds to reason, is
+now, according to this philosophy, hostile to the individual, inhuman. The
+individual is inherently hostile to reason, irrational (this idea appears
+already in the imperialist neo-Kantianism of Windelband and Rickert). To dress
+up this concept in multi-colored myths and paint it – this is what fully
+corresponds to the general need of the time, first of all, the “third way” in
+social thought. Proceeding from the perspective of opposing the base inhuman
+reason and the highest, human irrational reality, capitalism and socialism are
+completely analogous, they even coincide; both are systems of the soulless
+mind. In the name of individual irrational experiences, an ideological struggle
+should be waged against both (the school of Stefan George, Klages). Fascism
+adopts this method from head to toe, however, with some demagogic, roughening
+additions (Romantic-reactionary criticism of liberalism combined with
+anti-Semitic social demagogy!).  
+
+## VII. Symptoms of the crisis
+
+Let’s look at least a little at the methodology of irrationalism. Even Hegel
+showed that if in formal thinking the necessary contradictions of reason are
+revealed (it does not matter whether it is in the course of logical reasoning
+or in a collision with reality), then the appearance of irrationality is the
+direct form of the phenomenon of the problem. The task of dialectics is
+precisely to show here a higher unity of opposites; and if ιτ succeeds, then it
+turns out that it is precisely in the contradictions of reason, in bringing
+them to the limit, in the appearance of irrationality, that hints of a higher
+rationality are laid, that they contain an incentive to achieve a higher level,
+a higher form of reason. But from the philosophy of imperialism, as we have
+seen, the dialectical method was expelled from the very beginning.
+
+We are faced with a similar problem in the science of knowledge, generated by
+the capitalist division of labor, in connection with the attitude to certain
+special sciences. Here they appear before us strictly and clearly separated
+from each other. For each of them, reason, on the basis of its non-dialectical
+categories, creates a special formal method. Therefore, the relations that in a
+particular science can be considered in accordance with reason, as soon as they
+appear in another science, begin to seem to have an irrational content,
+indicating irrationalism is immutable. In order to give a typical example, I
+will point to the philosophy of law of the famous neo-Kantian Kelsen. In his
+struggle with the problem of legislation, that is, the emergence of the content
+of law, – a problem which modern sociology, at the very least, but considered
+as its own special problem – he concludes that the emergence of the content of
+law is a “big secret” for the science of law. On the other hand, the formal
+validity of law becomes exactly the same secret for bourgeois political
+economy, etc.
+
+As soon as the need for a common perception of the world, a world order arises
+in society, “science of the spirit” and “history of the spirit” appear as
+overcoming such scientific and theoretical difficulties. In contrast to the
+preceding epoch and its epigones, a certain interconnection, totality is
+sought, but, as clearly follows from what has been said above, on a false
+basis. For a universal basis of individual sciences can be found only where it
+is not sought: in a uniform, economically determined, socio-historical
+development. It is clear that bourgeois thought cannot follow this path,
+because it would require the revision of each separate science on the basis of
+the dialectical-materialist method. The new era could not and did not want to
+touch upon those fundamental contradictions that, due to the non-dialectical
+nature of their method, faced specific sciences that arose on the basis of the
+capitalist division of labor: after all, as we have seen, it has completely
+adopted the subjective-idealist theory of knowledge, which creates the
+philosophical basis of its methods.
+
+Therefore, the synthesis carried out by the spiritual sciences can offer
+something new only if it extols irrational relations as a myth. Since the time
+of Dilthey’s “brilliant views,” intuition has everywhere become the dominant
+method of synthesis in the sciences of the spirit. The result is that in the
+course of intuitive comprehension, new fetishistic symbols appear, which are
+inflated by a new renewed fetishization, a new mythologization to (true, purely
+“individual,” irrational) images of reality. Although the history of the spirit
+can also achieve certain specific historical results, but only when it departs
+from its own method, when it turns to the real comprehension of society. (We
+find separate studies of this kind already in Dilthey.)
+
+The result is a vivid, in places spiritualized imaginary solution to all
+philosophical problems. The “ingenious” arbitrariness of intuition is becoming
+the generally accepted method of philosophy. Nietzsche still spoke about this
+arbitrariness quite openly, later more and more attempts were made to disguise
+it, to throw a veil of objectivity on it; in its most refined form, this occurs
+where completely speculative phenomenology becomes the study of reality, the
+science of reality, ontology (existentialism). The fact that here we are
+talking about an imaginary solution is evident from the fact that, despite new
+methods, despite radiant fantasies or dark, “deep,” logical and at the same
+time antilogical philosophical and historical myths, all questions of
+philosophy remain unresolved; even from the fact that philosophy lags far
+behind in comparison with the results that were achieved in the classical
+period.
+
+A similar question is, first of all, the relationship between thinking and
+reality, and in the closest connection with it – the problem of the internal
+construction of logic itself. Irrationalism means a return to the old; it fixes
+the opposition between reality and the categories of reason, that is, not yet
+dialectical, based on the formal logic of thinking, as the last, irresistible
+opposition. As we have seen, irrationalism means partly a philosophical
+“justification” of arbitrarily created myths, partly that theoretical
+philosophy gets stuck in formal logic again. The very claim of intuition to a
+special aristocratic greatness, to an understanding of the “higher,”
+inaccessible to an ordinary person, puts theoretical philosophy in the prison
+of formal logic, which the philosophers of the classical period have already
+destroyed.
+
+Hence the problem of freedom and necessity arises. While classical philosophy
+has significantly clarified its true position, since it concretized it (Hegel),
+now again the abstract, absolute – and in this absoluteness has become
+meaningless – concept of freedom opposes frozen and mechanical fatalism. This
+is most clearly seen in Nietzsche, Spengler, and more recently in Sartre. The
+so-called “worldview” of fascism is a caricature of this abstract, frozen, that
+in its frozen abstraction has lost its meaning.
+
+Fascism is in fact a caricature of the crisis of modern philosophy. But at the
+same time, this caricature has long been a protracted, bloody reality. And an
+important symptom of the crisis of bourgeois philosophy is the fact that the
+so-called “worldview” of fascism originates from it, that it brought nothing
+but demagogic coarsening and simplification of the ideas of imperialist
+bourgeois philosophy, which Nietzsche began to develop. But this is precisely
+why only dialectical materialism offered serious resistance to fascism in the
+ideological struggle. Although the anti-fascist humanism of bourgeois
+ideologists protested against certain manifestations of fascism and even
+against the fact of its barbaric existence, it was never able to oppose to the
+imaginary fascist worldview – to this irrationalist myth inflated into the
+scale of a worldview – a new, truly progressive worldview. French
+existentialism differs socially from the proto-fascist Heidegger in that its
+first abstract “no” does not speak to the crisis reality in general, but to
+fascism. However, this “no” is still completely abstract.  
+
+And this is no coincidence. After all, the overwhelming majority of
+anti-fascist thinkers proceed in their worldview and method from the same
+position from which the enemy proceeded. But if they nevertheless set
+themselves the goal of proving that Schopenhauer and Nietzsche were humanists,
+that their ideas are interpreted humanistically, then this new interpretation
+will necessarily be helpless in comparison with fascism, which, albeit
+vulgarly, developed the main tendencies in Schopenhauer’s and Nietzsche’s
+ideas.  
+
+The crisis of bourgeois philosophy continues. A clear symptom of the crisis is
+the fact that liberation from fascist intellectual terror did not lead to any
+changes in bourgeois philosophy. Bourgeois philosophy (as opposed to advanced
+literature) continued its path from where it left off before the advent of
+fascism. From this point of view, the emergence of existentialism is also
+indicative of a crisis. The problems of the new world are reflected today only
+in dialectical materialism, only here they have clear, ideological outlines.
+This is also no coincidence. Today, no one knows how long capitalism will be
+able to hold out until socialism replaces it all over the world. However,
+nothing indicates the ability of today’s bourgeoisie to build an independent,
+comprehensive, progressive worldview.
