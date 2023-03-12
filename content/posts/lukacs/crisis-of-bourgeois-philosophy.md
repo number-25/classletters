@@ -1,7 +1,9 @@
 ---
 title: "The Crisis of Bourgeois Philosophy"
 date: 2023-03-05T01:59:10Z
-author: György Lukács  
+author: "György Lukács"  
+description: "Excerpt from"
+type: "post"
 draft: false  
 ---
 
