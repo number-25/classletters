@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Class Letters</title>
-    <link>https://number-25.github.io/classletters/tags/</link>
+    <link>https://classletters.org/tags/</link>
     <description>Recent content in Tags on Class Letters</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://number-25.github.io/classletters/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://classletters.org/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
