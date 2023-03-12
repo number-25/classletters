@@ -1,7 +1,9 @@
 ---
 author: "Adolph Reed Jr."  
-title: "Introduction to Class Notes"
+title: "Introduction to Class Notes by Adolph Reed Jr."
 date: 2023-02-12T02:15:15Z
+tags: ["adolph-reed-jr", "identitarianism", "political-philosophy", "neoliberalisation", "PMC"]
+type: "post"
 draft: false
 ---
 

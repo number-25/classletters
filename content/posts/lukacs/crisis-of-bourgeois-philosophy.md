@@ -1,5 +1,5 @@
 ---
-title: "The Crisis of Bourgeois Philosophy"
+title: "The Crisis of Bourgeois Philosophy by György Lukács"
 date: 2023-03-05T01:59:10Z
 author: "György Lukács"  
 description: "Excerpt from"
