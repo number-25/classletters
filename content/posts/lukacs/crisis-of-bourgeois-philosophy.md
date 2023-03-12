@@ -3,7 +3,8 @@ title: "The Crisis of Bourgeois Philosophy"
 date: 2023-03-05T01:59:10Z
 author: "György Lukács"  
 description: "Excerpt from"
-type: "post"
+tags: ["lukacs","bourgeoise", "philosophy", "irrationalism"]
+#type: "post"
 draft: false  
 ---
 
