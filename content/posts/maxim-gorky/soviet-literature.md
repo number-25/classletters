@@ -2,7 +2,8 @@
 title: "Soviet Literature by Maxim Gorky"
 date: 2023-03-22T08:06:39Z
 author: "Maxim Gorky"
-draft: true
+draft: false
+tags: [maxim-gorky, ussr, literature, soviet-literature, culture-critic]  
 ---
 
 THE ROLE of the labour processes, which have converted a two-Legged animal into
