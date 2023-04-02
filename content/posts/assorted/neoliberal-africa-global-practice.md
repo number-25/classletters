@@ -1,0 +1,614 @@
+---
+title: "Global Neoliberal Practice: Institutions and Regulation in Africa by Graham Harrison"
+date: 2023-04-01T22:51:40Z
+author: "<no value>"
+type: "post"
+tags: ["neoliberalism", "IMF", "world-bank", "imperialism", "africa"] 
+draft: false
+---
+
+This is a chapter out of Graham Harrison's Book "Neoliberal Africa: The Impact
+of Global Social Engineering". Although the book is more of an essay containing
+fragmentary thoughts, I found this chapter substantial in the sense that it
+clearly outlined the various institutional avenues in which projects such as
+neoliberalism cement their ideology.     
+
+This chapter considers the global emergence of neoliberalism. It looks at the
+ways in which neoliberal practice has emerged, expanded and established for
+itself ‘paradigmatic’ status.  In other words, it shows how neoliberalism has
+shifted from an ambitious and embryonic set of policy interventions to
+something resembling a framework or set of premisses within which policy is
+articulated. The practices of neoliberalism have been iterated over such time
+as to shift the habits, conduct and repertoire of development practice tout
+court. The layering of large numbers of neoliberal policies has not only led to
+a progressively more totalising implementation of liberalisation; it has also
+defined the terms upon which policy and development are thought about and
+articulated per se. This is, of course, not a completed process (in the last
+chapter we developed a framework which is anathema to the idea of completed
+processes, preferring instead a series of practices in place of means–ends
+distinctions), but it has enabled neoliberal ideas to aspire to
+‘meta-development’ status: that is, as the terms upon which development is
+discussed rather than solely as a predominant model of development. At the
+level of ideas, this shift or tendency is rather like the analysis of Hay in
+which neoliberalism moves from normalising to normative (Hay 2004).   
+
+Thus, this chapter concerns itself with neoliberalism at the international
+level – its history of ratcheting up the ambitions of liberalisation since the
+late 1970s. But, there is a danger here. As suggested in chapters 1 and 3, it
+is this kind of concern that most tempts writers to endow neoliberalism with
+agency. After all, it is at the global-historical level that neoliberalism
+seems to be an idea that does shape history. Furthermore, at the global level,
+any project to identify the substantially more complex realm of agency and
+practice will very quickly produce a certain degree of bewilderment:
+neoliberalism has been realised through a nebulous, formal and semi-formal, and
+complex series of meetings, rulesetting, lending mechanisms, research outputs
+and exertions of political pressure. In this sense, abstracting an idea-agency
+called neoliberalism to encompass the global sweep towards liberalisation seems
+very tempting. However, it is not the task of this book to detail a global
+history of neoliberal practice. Our focus is on neoliberal practice in Africa
+and this necessarily takes us centrally to African states and questions of
+development policy practice.  Therefore, what we need to do in this chapter is
+to narrate the key developments in the expansion of neoliberalism, but with a
+wariness of allowing neoliberalism to ‘take flight’ and become history in
+itself.   
+
+This chapter will analyse the international construction of neoliberal
+regulation in this spirit. It pays particular attention to institutional change
+and the emergence of neoliberal norms of regulation. This serves to foreground
+vital aspects of the repertoire of development practice in African states.   
+
+## Global neoliberalism: free markets and political power    
+
+*Persistent practice*    
+
+The last twenty years have witnessed the globalisation of neoliberal economic
+reform, from specific electoral victories in the United States and Britain to
+the ‘common sense’ that lies more or less implicitly behind the thought and
+action of practically all states and international organisations (Robison 2006;
+Demmers et al. 2004). Through a range of processes, post-communist states,
+post-colonial states, the international finance institutions and UN agencies
+have all cleaved to the same neoliberal fundamentals (Demmers et al. 2004; Fine
+et al. 2001; Lee and McBride 2007; Roy et al. 2007). A rough but revealing
+expression of this can be found in the narrowing of questions in international
+development discourse: no longer questions about the relative merits of market
+and non-market forms of economic organisation, but how to make the expansion of
+the market work for the poor; no longer questions about the comparative
+benefits of public or private ownership, but how to make privatisation more
+efficient (McDonald and Ruiters 2005). How did this happen?  
+
+The global economic slowdown of the 1970s, accompanied by increasing
+instability and the heightened class tensions within many national contexts,
+created an enabling environment for politicians, intellectuals and policymakers
+to develop the foundations of neoliberal ideas and practices – what might
+retrospectively be called first-generation neoliberalism (circa 1979–95) (see,
+for example, the reflections of Williamson 2000).   
+
+First-generation neoliberalism was prosecuted by a group of intellectuals who
+had espoused critiques of the pre-existing ideas of regulation, social
+democracy and statist development. These critiques had persisted throughout the
+post-war period (Bauer 1972), and indeed many staff in the IMF cleaved to
+notions of monetarism, economic liberalism and anti-statism. What emerged in
+the early 1980s was an enabling of neoliberal ideas (Brett 2008: 340). The IMF
+attained an increasingly dominant and aggressive role as macroeconomic keeper
+of economies in increasingly dire straits (Havnevik 1987). The party
+ideological atmosphere in many economically powerful Western states moved to
+the right, lending the ‘free market’ a revived ideological cachet (Turner
+2008). Economic recession created a context in which development orthodoxies
+looked increasingly fragile and alternative – even radical – solutions became
+increasingly thinkable.  This was because the global slowdown and instability
+of the late 1970s could be readily shaped as a crisis of Keynesian and
+developmental approaches (whatever the precise linkages between social
+democratic or statist-nationalist paradigms and ‘crisis’) and alternative
+approaches advocated.    
+
+We can readily see that the early 1980s was a period of tensions and mismatches
+between political institutions, class relations and patterns of socio-economic
+interaction. Duménil and Lévy (2001, 2004) demonstrate how the 1970s had
+produced a fall in rates of profit, which put pressure on capital and states to
+disempower workers and reduce labour’s influence over government, particularly
+in favour of finance capital. Kotz (2008) also focuses on the shifting
+institutional forms that neoliberal regimes produce, arguing that governments
+attempted to address economic decline and profit squeeze by removing controls
+on capital, adjusting fiscal policy in favour of capital, and putting the state
+more forcefully to work to support finance, property and capital mobility.   
+
+What these analyses show us is how structural shifts in the global economy were
+realised through a series of interrelated debates and policy changes in many
+states and international organisations that enabled advocates of economic
+liberalisation to shape the direction of economic orthodoxy towards the
+practices and premisses of neoliberalism. This was not an inevitability; it was
+a piecemeal and contested project. The 1980s proved to be an extremely
+turbulent decade, characterised by attempts to liberalise, resistance against
+the latter, reform ‘slippage’ and indeed in some cases social collapse, not
+only in Africa but in myriad ways throughout the world (Kozul-Wright and
+Rayment 2007; Bond 2004; Fisher and Ponniah 2003).    
+
+Within an enduring state of economic sluggishness and social turbulence, the
+persistence of the intellectuals and practitioners of liberalisation maintained
+an open field for neoliberal practice. In the absence of a powerful rival set
+of practices and ideas, neoliberalism became in this strict sense ‘necessary’,
+and its repeated failure to stabilise societies or reinvigorate the global
+economy did not so much disempower the advocates of neoliberalism (whose
+numbers were growing) as much as harden and recapitulate neoliberal practice.
+This is perhaps the historic import of Margaret Thatcher’s apocryphal phrase
+‘there is no alternative’. Neoliberal practice was endlessly asserted despite
+its inability to produce stable growth and social peace (Chapter 2) because it
+had no alternatives that so effectively conjoined ideology and policy practice.      
+
+*Dark victories*    
+
+At the time when Walden Bello used the phrase ‘dark victories’ (Bello 1993),
+there was a sense that neoliberalism was being imposed on suffering societies
+in ways that were nothing short of coercive. That this neoliberal project
+brought much hardship and political turbulence is both evident and
+unsurprising. However, efforts to implement neoliberalism have endured the
+1980s, bringing in new policies and modes of intervention. This has led some to
+speak of a twofold sequencing of neoliberal implementation: first- and
+second-generation reform. First generation-reform (FGR) is characterised as
+being a period of compulsory adjustment to market ‘realities’;
+second-generation reform (SGR) is seen as a subsequent and less troubled period
+in which the ‘basics’ (some version of the Washington Consensus) are in place
+and it remains to use these basics as the guidelines for broader projects of
+social engineering – within both states (Chapter 5) and societies (Chapter 6).
+The notions of first- and second-generation reform are in a sense misleading:
+this stadial account of neoliberal implementation gives a sense of a completed
+first stage followed by a more sophisticated second stage. This leads us to a
+teleology, functionalism and consequentialism again. For those advocating
+neoliberalism, the presence of second-generation reform is evidence that a
+state has ‘graduated’ beyond the basics of fiscal discipline and liberalised
+prices. It enables bolder and more expansive neoliberal practice under the
+assumption that a ‘critical velocity’ or ‘fundamentals’ have been attained, in
+which resistance and recidivism against neoliberalism have been bypassed.    
+
+However, there is a way in which the distinction between firstand
+second-generation reform is analytically useful. This is to highlight the
+process already sketched in the section above: a tendency for neoliberal ideas
+not only to produce powerful models of development but also to produce
+development itself. As an expanding bundle of practices, neoliberalism’s
+second-generation status is premissed on the political consolidation of a
+‘common sense’. The common sense that SGR requires is that first-generation
+reforms are both in place and uncontested. This is aptly encapsulated by the
+World Bank in its millennial Development Report:   
+
+> Supporting good policies is important but it is not enough. We
+learned in the 1990s that process is as important as policy.… The way donors
+and recipients interact strongly influences the effectiveness of development
+co-operation. Relationships have tended to follow the preferences of donor
+countries, leaving recipients with little sense of ownership.… If development
+co-operation is to attack poverty effectively and efficiently, donors will need
+to … provide sustained support for policy and institutional environments.
+(World Bank 2000/2001: 191–2)     
+
+In the World Development Report of 1997, the World Bank sets out a model of
+first- and second-generation reforms in which the latter are seen as
+constituted in ‘deep institutional reforms’, moving out of ‘enclaves’ of reform
+to entire public institutions (World Bank 1997: 152–3).    
+
+This section maps out this movement, from persistent and combative practice
+towards (but never completing) consensual paradigm. The section is nothing more
+than a sketch; more detail will be provided in following sections that look
+more closely at institutional practice and interaction.     
+
+Despite the unstable condition of neoliberal policies throughout the world, the
+1980s witnessed a profusion of more-or-less shortlived neoliberal experiments.
+As argued in Chapter 1, this African experience represents an extreme image of
+a global process of purposeful neoliberal implementation. In Chapter 2 we saw
+how fragile the evidence was of ‘success’ during the first decade of neoliberal
+reform. This allowed us to highlight the persistence and determination of
+largely Western advocates of neoliberalism. But ‘success’ and ‘failure’ premiss
+themselves on a simplistic means–ends distinction which removes our focus on
+the development of reform habits constituted by practices. In this sense, what
+the 1980s show are iterations: repeated and modified exactions to liberalise
+and reconfigure development management. Thus, the profusion of SAP produced
+increasingly integrated and institutionally complex practices of implementation
+regardless of the fragile and unstable economic growth that characterised the
+decade. So, how did the institutions of neoliberal implementation emerge?    
+
+In spite of some distinctions and differences between the two Bretton Woods
+Institutions, the World Bank and the IMF accustomed themselves to working in
+close coordination throughout the 1980s (Taylor 1997). The consolidation of
+neoliberalism has been effected through the growth of a powerful and nebulous
+international structure of publicly constituted regulative authority.  The
+World Bank, largely due to the implementation of a regime of structural
+adjustment in the global South, transformed itself from a project-lending
+international bank to a key influence within policymaking and macroeconomic
+management throughout the developing world (Please 1984). The IMF moved from
+short-term exchange-rate creditor to policy-based lender as well, and has also
+acted to lend large tranches of conditional dollars to emerging market
+economies experiencing currency crashes.     
+
+We will come back to these developments in more detail in the next section. The
+point here is to signal that the global rise of neoliberalism has involved the
+elaboration of a new international architecture of regulation, still very much
+in construction (Soederberg 2002a, 2002b). The age of neoliberalism is
+characterised by two closely interrelated, but apparently conflicting trends: a
+powerful consolidation of neoliberal economic fundamentals based on rolling
+back the state and ‘freeing’ the market; and the generation of a powerful
+international institutional network of public authority, bound together more or
+less formally through a policy consensus on issues such as macroeconomic
+reform, anti-corruption measures and trade policy. One can frame this as a
+paradox: an integrated ascendance of international public institutions to usher
+in a ‘marketised’ global order. But, from a pragmatist point of view, this
+paradox is only apparent. Because all development practice is political, it is
+a logical impossibility to imagine an unregulated social practice. In this
+light, liberalisation can only be understood as a bundle of actions which
+attempt to create novel habits – in other words, different regulative effects.
+Thus, implementing liberalisation is simply the international practice of
+neoliberalism with specific attention to the ‘first-generation’ efforts to
+replace previous habits.    
+
+## Implementing liberalisation, imposing practice    
+
+From 1980 onwards, the World Bank would develop an progressively more pervasive
+and detailed set of conditional lending mechanisms under the rubric of SAP.
+Although these SAPs would vary in some degree between countries, it was
+certainly the case that all were based on a desire to liberalise economies. The
+drive of SAP in its early implementation was to remove price subsidies within
+internal markets, to abolish quotas, and to allow exchange rates to float
+freely. Beyond these core components, all SAPs would also involve policy
+commitments to many of the following: privatisation, tariff reduction, the
+removal of state marketing boards, reducing money supply with a view to
+reducing inflation, encouraging foreign investment, reducing the government
+payroll, and introducing user charges for public services. Each of these
+specific aspects of reform, especially when taken collectively, reveal how the
+World Bank employed loan conditionalities to remove the state from the economy
+and to provide more freedom to the workings of market signals and capital.    
+
+This in itself is well known and hardly contentious. Indeed, the World Bank
+repeatedly and explicitly represents itself as promoting marketisation through
+its macroeconomic policy-based lending.  What this section aims to do is simply
+map how this liberalising drive, encoded into SAPs, was also integrated into a
+broader and extremely powerful network of international institutions.    
+ 
+From the 1980s, the IMF’s lending also became conditional on liberalisation.
+For the IMF, this was less of a change in policy than it was for the World
+Bank: the IMF had been concerned with macro­economic indices since its
+inception. What was more significant was the expansion in the IMF’s remit and
+its emerging role as lead agency in a constellation of external advocates of
+neoliberalism. The IMF’s chief concern was the stability of exchange rates, and
+it lent money to countries that needed to adjust rates to reflect their ‘real’
+(that is, market-determined) value. During the 1980s, the IMF incorporated a
+series of macroeconomic ‘headlines’ concerning budget deficits, rates of
+inflation and currency devaluation into its concerns. The IMF’s role
+complemented the World Bank’s in that it lent to lock in and stabilise discrete
+adjustments to baseline macroeconomic reforms, whereas the World Bank
+maintained a focus on more programmatic and ‘developmental’ aspects of reform,
+for example encouraging foreign investment or reforming public services. In
+practice, the World Bank and the IMF worked closely together and their
+respective remits became increasingly indistinct, not least because these two
+institutions worked together in each country setting.    
+
+The IMF also developed an increasingly powerful role as auditor.  Again, this
+was not entirely novel: the IMF had a long-standing role as a respected
+‘scientific’ institution which produced statistics on national economies. What
+emerged in the 1980s was that key economic indices (inflation, interest rates,
+current account deficits, exchange rates) became the material through which the
+World Bank and the IMF would rank-order national economies according to the
+extent that they had liberalised. It also provided an evidential base for the
+IMF to categorise states according to their progress in neoliberal reform.
+Those countries in a state of delinquency would raise concerns not only for the
+IMF or the World Bank, but also a raft of other international agencies,
+bilateral, multilateral, private and public. ‘Off track’ would lead to frozen
+or cancelled grants or loans, and a likely adjusting down of other indices
+concerned with investment risk and creditworthiness, as ten countries were in
+the early 2000s, with Zambia undergoing severe delays in the release of
+tranches (Jubilee Research 2003: 18). The World Bank also produces rankings
+according to Country Policy and Institutional Assessments, which evaluate six
+aspects of policy, much of which clearly translates into a fealty to neoliberal
+reform. Again, these indicators affect donor and perhaps also international
+companies’ interest in any specific country. And, if the latter require more
+neoliberal rank-orderings of potential sites for investment, the Bank also
+offers a ‘Doing Business Index’ which is, again, entirely dedicated to the
+rights of property.     
+
+Liberalisation was also pursued – albeit awkwardly – through trade reforms,
+largely through the final GATT round. This final round – dubbed the Uruguay
+Round – aimed to agree a range of principles that would then usher in a new
+institution: the World Trade Organisation. The WTO was designed to produce a
+universal and semi-independent body to ensure equal treatment between trading
+nations and a progressive ratcheting down of tariffs, nonpreference and other
+controls of trade – not only in goods but also in services and knowledge. Thus,
+we can see that neoliberalism emerged centrally through the increasing
+prominence of the World Bank and the IMF and their use of conditionality
+effectively to define the repertoire of social and economic policy.    
+
+From these core institutions, a raft of international institutions have
+developed a series of neoliberal practices. These practices are not perfect
+scientific instruments to forge a global market society: like all practice,
+neoliberal practice is ‘dirtied’ by individual dispositions, institutional
+traditions and cultural forms. Nevertheless, one can discern the ‘momentum’
+incorporated into these practices – the movement towards a neoliberal social
+order – and one can also identify interlinkages that bind discrete practices
+together.  As a bundle of practices, neoliberalism can be seen as a global
+project in which each specific reform, intervention and initiative gains a
+‘value added’ in terms of its purchase or effectiveness by virtue of its
+affirmation of the broad sway of programmatic and policy change.     
+
+The rest of this chapter looks at the emergence of this bundle of practices as
+a historically constructed and multilevel phenomenon.  It does so with
+particular attention to the World Bank, partly because of the salience of this
+institution as a producer of development practice and also because the World
+Bank has been the key agency in neoliberal intervention in Africa.    
+
+## The World Bank and Africa    
+
+By the time of the second OPEC oil-price hike in 1979, the developmental
+project was in tatters. Levels of debt had become sufficiently high to make it
+difficult to imagine how some states could ever escape from indebtedness. The
+international economy, which had expanded constantly during the 1960s and
+slowed in the 1970s, was now clearly in recession. The ‘long downturn’ (Brenner
+1998: 138ff.) that commenced in 1973 was addressed from 1979 by a strong shift
+towards monetarist economic management within the United States and the UK,
+with other states moving (more or less willingly – see especially France in
+1981) in a similar direction over the next decade or so. Perhaps an initial
+event which starkly announced the shift in the ‘policy logic’ of regulation was
+the substantial rises in interest rates from 1979 in the USA, which in turn had
+severe recessionary effects in the West (Brenner 2001: 24ff.).    
+
+Globally, the rise of economic liberalism produced a radical change in forms of
+regulation. The IFIs came under strong pressure – especially from the USA (Wade
+and Veneroso 1998) – to act as institutions to consolidate and ‘lock in’ a
+neoliberal architecture.  As already argued, the neoliberal project has
+involved just as much concerted political intervention as did the previous
+embedded liberal project, which is why Gill (1995) calls is disciplinary
+neoliberalism. The IFIs increased their capacity to intervene and invigilate,
+remaking themselves as the active champions of the regulative revolution,
+reframing ‘development’ as liberalisation and bringing this ideology into the
+indebted states of the world.  There was no region of the world more vulnerable
+to these global regulative changes than Africa (Abrahamsen 2000).     
+
+The economic slowdown in the West produced magnified crisis and vulnerability
+in the global South, especially Africa. Recession in Western economies dampened
+demand for primary commodity exports from the post-colonial economies, creating
+a decline in Africa’s external terms of trade from 160.2 in 1980 to 110.5 in
+1990 (base year 1995 = 100; Table 5–17 in World Bank 2000a). SubSaharan
+Africa’s share of foreign direct investment declined from its already very
+marginal levels. Total external debt increased from $61 billion in 1980 to $177
+billion in 1990, imposing severe pressure on public expenditures – social
+spending declined by 26 per cent from 1980 to 1985 (Riley and Parfitt 1994:
+139). The details of the crisis that this produced in Africa are complex.
+Szeftel summarises as follows: ‘The crisis of accumulation which has beset the
+world capitalist order [since the debt crisis] … has been particularly severe
+in its impact on the poorest and most peripheral societies’ (1987: 87).
+Metaphors such as the ‘lost decade’ of the 1980s and the ‘death of development’
+signal the evaporation of purposive public action and a succession of ad hoc
+and crisis-management measures.     
+
+Thus, the incipient tensions of the previous period were brought to a
+conclusion in the form of a general economic recession, producing nothing short
+of a development crisis in many African countries. The Bank could no longer
+continue project lending to political economies that were reaching economic and
+social crisis.  The result was a change in Bank strategy, starkly presented in
+the ‘Berg Report’ mentioned in Chapter 1 (World Bank 1981), and closely
+integrated into the rise of neoliberalism after 1979 in the West (Stern and
+Ferreira 1997: 537ff.). The ‘Berg Report’ set out a critique of the
+post-colonial state as a bloated, rent-seeking set of institutions which
+distorted price mechanisms in order to feather the nests of political elites.
+The solution was, in simple terms: less state, more market.    
+
+This overarching new agenda was implemented through the creation of structural
+adjustment lending in 1980. Moving from project support to support for
+macroeconomic restructuring, the Bank lent on the condition that states would
+implement the new orthodoxies of neoliberal economics: low rates of inflation,
+devaluation, high rates of interest, divestment of state property, an economy
+open to global markets and capital, and a general reduction in public
+expenditure. In essence, the fragility of African states after 1979 created an
+unprecedented opportunity for external regulative intervention, expressed
+through those institutions most heavily involved in sub-Saharan Africa: the
+World Bank and (later) the IMF.     
+
+SAPs were effected through the mechanism of conditionality: credit would only
+be forthcoming if governments implemented the ‘correct’ policies. This produced
+a very different relationship between the World Bank and indebted states to
+that of the debt-led development model.    
+
+The conditionality mechanism created considerable tension between governing
+elites and the Bank. In Tanzania during the early 1980s the tension between
+conditionality and the government was most clear in Nyerere’s resistance to the
+devaluation of the Tanzanian shilling, manifested in his broadsides against the
+IMF (or the ‘International Ministry of Finance’, as he dubbed it) (Campbell and
+Stein 1992). Similar tensions between African governments and the IFIs existed
+throughout Africa, manifest in the tendency of ‘adjusting’ states to evade or
+abandon the policy reforms that the Bank and Fund made conditions of loans
+(Mosley et al. 1995).     
+
+Finally, it is vital to note that adjustment did not usher in any clear signs
+of economic recovery in sub-Saharan Africa (Mosley and Weeks 1993; Schatz 1994;
+Weeks 2001: 271). Perhaps one of the most successful intended consequences of
+structural adjustment was the erosion of (formal) state capacity, the effect of
+which was to make management of the economy and society increasingly difficult
+(Moore 1998). In sum, imposing neoliberalism produced its own delegitimising
+contradictions: it was effective as a strategy to ensure a global revolution in
+development thinking, but it failed as a strategy of economic development.     
+
+In sum, the 1980s encapsulated an effort to resolve the problems of economic
+slowdown and a weakening of global regulative architecture, manifest from 1973.
+The shift towards neoliberalism attempted to re-establish profitability as a
+prerequisite to reinvigorated growth. It produced a political and institutional
+response from the IFIs (strongly pushed forward by the USA) which established
+neoliberalism as a near-synonym for ‘development’ (described as
+meta-development earlier) and, through its own techniques of intervention,
+attempted to universalise neoliberal reform throughout a wide range of states
+facing more or less severe economic crisis.    
+
+But the 1980s was not a period of harmonisation – far from it. It was clear
+that the neoliberal revolution failed to legitimise itself within the states of
+the global South: it produced economic instability, was perceived as an
+external imposition (demonising the World Bank and the IMF in the process), and
+made indebted economies increasingly extroverted to a hostile global economy.
+It is the failure of the neoliberal project of the 1980s that has led the World
+Bank and others to innovate a new regime of development, based on the
+‘post-Washington Consensus’, governance and poverty reduction.    
+
+## The contemporary global architecture of development    
+
+From the 1980s neoliberalism has pervaded all forms of international
+regulation, making imposition less pressing than reproduction and
+consolidation. This is the conjuncture that produced the so-called
+post-Washington Consensus (PWC). The PWC constitutes a rubric for a range of
+innovations that have a common purpose in imagining the social embeddedness of
+the free market (Sorensen 1991). Thus, we have information-theoretic economics
+and institutionalism (Fine et al. 2001), social capital (Edwards 1999), civil
+society (Landell Mills 1992), and governance (Williams 1996). Each of these
+themes contributes to a model of a society in which people act as
+self-interested individuals, harmonise their actions through information
+exchange and commonly accepted rules (either established in law or through
+‘trust’), and generate positive-sum effects in the polity and economy by
+respecting each other’s rights. States rule transparently under the principal
+motivation of promoting the social relations of the market and the
+participation of the citizenry in that project. In contradistinction to the
+previous periods, these ideas collectively produce a discourse that represents
+neoliberal markets as embedded in societies. There is no rejection of
+liberalisation, but there is a central concern with how the state manages and
+schedules liberalisation, as well as ‘an emphasis on the non-economic “glue”
+that holds society together’ (Fine et al. 2001: xiii). The projects of the
+contemporary regulative architecture is to secure development – still forged in
+neoliberal fundamentals – in its relegitimisation through the post-Washington
+Consensus.     
+
+Embedding neoliberalism requires a bold repertoire of intervention and an epic
+vision – requirements that the World Bank has been aspiring to (Cammack 2002;
+Williams 1999; Cahn 1993; Einhorn 2001). Most writers generally accept that the
+period of embedded liberalism, say from 1958 to 1968, represented a period
+during which capitalism was successfully managed through an intermeshing of
+domestic and international regulation, underpinned by expansive national and
+global economies.  However one understands the (brief) ‘golden age’ of
+capitalism, its relative success seems plainly clear: Milanovic’s (2003) recent
+and sharp critique of celebratory accounts of globalisation is explicitly
+juxta­posed against the ‘golden age’ as a period of more expansive and
+developmental capitalism. ‘Something is clearly wrong’ with contemporary
+globalisation, he concludes (2003: 679).     
+
+As Robert Wade has shown, these interests can produce forms of regulation which
+are detrimental to development strategies (Wade 2003). Debt and trade
+structures systematically dis­advantage weak states that rely on primary
+exports for hard currency. The figures exemplify some of the economics of
+Western dominance of the neoliberal agenda: from 1992 to 1998 Highly Indebted
+Poor Countries transferred $5.8 billion to the World Bank over what they
+received in new loans and credits (Pettifor and Garrett 2000); First World
+countries impose 50 per cent higher import barriers against the Third World
+than they do among themselves (Nares 1997: 18); Africa’s income fell by about 2
+per cent as a result of the conclusion of the Uruguay Round (Stiglitz 2002:
+61); ODA from the West fell by 50 per cent between 1990 and 1998 (Pincus and
+Winters 2003: 22). Wade is critical of the developmental possibilities of TRIPS
+(Trade-Related Aspects of Intellectual Property Rights), TRIMs Trade-Related
+Investment Measures), and GATS (General Agreemet on Trade in Services) (Wade
+2003; see also Picciotto 1999). Add to this the specific national
+protectionisms that emerge from the Europe and America (steel, cognac, the CAP
+etc.) and one has a very dour image of the developmental prospects of global
+regulation.    
+
+Embedded liberalism ‘worked’ because it defined a functional and reasonably
+coordinated relationship between national models of economic management and the
+global economy. In light of this, embedded neoliberalism appears to be a
+project facing serious difficulties. The World Bank is ‘projectising’ embedded
+neo­liberalism into African states with no facilitating context that might
+allow states to legitimise a core set of developmentally purposive policies.
+This makes the persistence of neoliberalism – prevalent in development thinking
+and policy, as well as governance discourse and practice – all the more
+intriguing. The next chapter explores the nature of neoliberalism’s failures in
+more detail, allowing subsequent chapters to understand the ways in which
+neoliberal practices persist.   
+
+## Global social practice    
+    
+So far, we have identified an emerging institutional project at the global level
+– one that has profoundly shaped the global political economy in ways that have
+pushed most parts of the world towards liberal economic policy. For Africa,
+this global project has been manifest especially in African states’ relations
+with the World Bank. This section will show how this global project is based in
+social practice rather than epochal ideational forces or abstracted capitalist
+logic – although clearly both of these analytical drivers are intertwined with
+the way social practices emerge and change.  And, at this more grand level, it
+is only possible (in this book at least) to identify key aspects of practice in
+their generalities.  It is important to start by recognising that there is a
+global social practice. There has emerged an interconnected institutional and
+discursive neoliberal project which – although far from omnipotent or perfectly
+unified – has become increasingly prominent over the last thirty years and can
+now be identified in an impressive range of international organisations.     
+
+Theorists of international political economy often speak about international
+regimes to identify a set of global interconnections.  Perhaps the clearest
+example of an international regime outside of our concerns here is ‘the long
+1960s’ in which a social-democratic developmentalist regime emerged through the
+UN system and the politics of Independence, say from the Bandung conference in
+1955 to the first Lomé agreement in 1975. During this period, a panoply of
+statements, institutions, financial mechanisms, rules and coalitions were
+formed around the basic premiss that the ‘Third World’ (to use the vernacular
+of the time) required ‘differentiated and preferential treatment’ (to use the
+vernacular of our time) in order for all nations to develop. This period
+witnessed the creation of the ‘Paris Club’ of bilateral aid donors; the
+creation of the ‘soft’ lending arm of the World Bank, the International
+Development Association; the declaration of a ‘development decade’ by the UN;
+the creation of the Development Assistance Committee within the OECD, the
+inauguration of the Non-Aligned Movement, the creation of the UN Conference on
+Trade and Development, the emergence of the Group of 77 post-colonial states
+within the UN General Assembly, the creation of the UN Development Programme,
+UN Covenants on Civil and Political Rights and Social and Economic Rights,
+price stabilisation funds for primary commodities, and the Declaration of a New
+International Economic Order.     
+
+The point is not to argue a certain degree of success or failure for this
+regime. Rather, it is to provide an analogy with the current neoliberal
+international regime. And, indeed, one can identify a similar period in which
+international ‘regimental’ activities produce a constellation of institutions,
+discourses and practices that shift international politics away from
+social-democratic developmentalism towards neoliberalism – in this latter case
+over a longer period.   
+
+Throughout the last twenty years, a massive global alignment has taken place.
+The Lomé agreements between the EU and the ACP groups of post-colonial states
+has been determinedly liberalised since Lomé III (1983); the USA left the
+‘developmentalist’ UNESCO in 1984, commencing an undermining of the UN
+organisations that grew during the previous regime; the World Bank created
+MIGA, which clearly sees development not through concessional lending for
+social and economic public projects but through the incentivisation of private
+capital; the GATT Uruguay Round commenced in 1986, ending of course with the
+creation of the WTO; price stabilisation funds were abolished or underfunded
+(for example, the International Coffee Agreement ended in 1989); the World Bank
+and the IMF developed a range of lending programmes based on ‘systemic’ and
+macroeconomic neoliberal reforms; G7 and G8 meetings became more regularised
+and important; NAFTA was created; the Basle ‘Core Principles’ of international
+banking were created; a Financial Stability Forum was created; World Bank, IMF,
+and WTO annual summits, World Economic Forums, G8 pre-summit meetings and
+‘green room’ politics, and so on produce a networked and powerful international
+neoliberal ‘architecture’, which, by the 2000s, has produced the best evidence
+of social globalisation that we have.   
+
+The extent of integration between different international organisations is high
+and indeed difficult to map out fully precisely because of the complexity and
+density of interconnection – both formal and informal. Furthermore,
+interconnections work across and between governments, intergovernmental
+organisations, and private agencies such as bond rating agencies, associations
+of banks, accounting standards agencies and so on. We can provide a flavour
+here before moving on to a more reflective understanding of the nature of
+social practice. It is not my intention to encompass all aspects of this global
+neoliberal networking; rather, I wish just to provide a convincing sense of the
+level and intensity of interconnection.      
+
+The World Bank and the IMF have become closely intertwined since the creation
+of SAP. Currently, HIPC and the PRSP both require Bank–IMF co-production: each
+institution has related funding mechanisms (PRSC and PRGF), joint evaluation of
+PRSP is required, and currently PRSPs are integrated into a World Bank/IMF
+Integrated Framework. The World Bank and the IMF have developed a ‘Coherence
+Agenda’ since the mid-1990s. They also co-produce a Financial Sector Assessment
+Programme. The IMF’s date generation and auditing functions connect it to the
+OECD (as a participant in Inter Ministerial Finance Committee Meetings). The
+IMF sends its confidential Country Reports to the WTO, which in turn holds
+joint research seminars with the IMF – and the World Bank. In 1996, the WTO,
+the World Bank and IMF agreed codes of cooperation, reinforced as a ‘Joint
+Declaration of Coherence’ during the 1999 WTO meeting in Seattle, and
+throughout the WTO Doha ‘Development Round’. The WTO has observer status on the
+World Bank and IMF Executive Boards.  The WTO has effectively claimed the
+‘hard’ regulatory functions of international trade, leaving the UNCTAD with a
+residual role concerned with the social impacts of trade but little effective
+power since the mid-1990s. Outside of the ‘unholy trinity’ (Peet 2003) revolve
+a constellation of other agencies which rely on data and funds from the ‘big
+three’, such as the International Accounting Standards Board, the Bank of
+International Settlements, and the World Intellectual Property Organisation.    
+
+It is readily apparent that this neoliberal architecture is substantial and
+built around a laissez-faire agenda. What kind of social practice underpins
+this project? 
+
+
