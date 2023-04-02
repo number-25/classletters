@@ -13,6 +13,8 @@ fragmentary thoughts, I found this chapter substantial in the sense that it
 clearly outlined the various institutional avenues in which projects such as
 neoliberalism cement their ideology.     
 
+-----------   
+
 This chapter considers the global emergence of neoliberalism. It looks at the
 ways in which neoliberal practice has emerged, expanded and established for
 itself ‘paradigmatic’ status.  In other words, it shows how neoliberalism has
