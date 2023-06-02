@@ -2,6 +2,8 @@
 title: "A Great and  Wonderful War by Domenico Losurdo"
 date: 2023-04-08T02:05:49Z
 author: "Domenico Losurdo"
+type: "post"
+tags: ["domenico-losurdo", "fascism", "heidegger", "ideology", "war", "idealism"]
 draft: true
 ---
 
