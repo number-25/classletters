@@ -7,7 +7,7 @@ type: "post"
 draft: false
 ---
 
-Cross posted from (Nonsite.org)[https://nonsite.org/socialism-or-moralism/].    
+Cross posted from [Nonsite.org](https://nonsite.org/socialism-or-moralism/).    
 
 *Passages between brackets are drawn from the manuscript version of the essay and differ slightly from the published variant.*
 
