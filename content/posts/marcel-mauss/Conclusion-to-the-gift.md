@@ -1,0 +1,862 @@
+---
+title: "Conclusion to the Gift by Marcel Mauss"
+date: 2023-06-11T05:03:51Z
+author: "<no value>"
+type: "post"
+tags: ["anthropology", "marcel mauss", "economy", "political theory"]
+draft: false
+---
+
+The conclusion to Mauss's incredible essay on the uses and concepts of gifts.        
+
+## Moral Conclusions
+It is possible to extend these observations to our own
+societies. A considerable part of our morality and our lives
+themselves are still permeated with this same atmosphere of
+the gift, where obligation and liberty intermingle. Fortunately,
+everything is still not wholly categorized in terms of buying
+and selling. Things still have sentimental as well as venal value,
+assuming values merely of this kind exist. We possess more
+than a tradesman morality. There still remain people and
+classes that keep to the morality of former times, and we
+almost all observe it, at least at certain times of the year or
+on certain occasions.  
+
+The unreciprocated gift still makes the person who has accepted it inferior,
+particularly when it has been accepted with no thought of returning it. We are
+still in the field of Germanic morality when we recall the curious essay by
+Emerson entitled ‘Gifts’. Charity is still wounding for him who has accepted
+it, and the whole tendency of our morality is to strive to do away with the
+unconscious and injurious patronage of the rich almsgiver.   
+
+The invitation must be returned, just as ‘courtesies’ must.
+Surprisingly, here are to be seen traces of the old, traditional,
+moral basis, that of the ancient aristocratic potlatches. Here
+we also see come to the surface these fundamental motives
+for human activity: emulation between individuals of the same
+sex, that ‘basic imperialism’ of human beings. On the one
+hand, it is the social basis, on the other the animal and
+psychological basis, that appears. In that separate existence
+that constitutes our social life, we ourselves cannot ‘lag behind’,
+as the expression still goes. We must give back more than we
+have received. The round of drinks is ever dearer and larger in
+size. Thus, in our childhood, one village family in Lorraine,
+which normally contented itself with living very frugally,
+ruined itself for the sake of its guests on saints days, and at
+weddings, first communions, or funerals. One must act the
+‘great lord’ upon such occasions. It may even be said that one
+section of our people is constantly behaving like this, and
+spends with the utmost extravagance on guests and on feast
+days, and with New Year gifts.    
+
+The invitation must be given, and must be accepted. This is
+still the custom, even in our liberal society. Scarcely fifty years
+ago, and perhaps even more recently, in certain parts of France
+and Germany the entire village came to the wedding breakfast. If
+anyone stayed away it was a very bad omen, a foreboding, proof
+of envy, and a sign of bad luck. In France, in quite a number of
+places everybody still takes part in such ceremonies. In Provence,
+when a child is born, everybody still brings an egg and other
+symbolic presents.    
+
+Things sold still have a soul. They are still followed around
+by their former owner, and they follow him also. At
+Cornimont, in a valley of the Vosges, the following custom
+was common not so long ago and perhaps continues to linger
+on in certain families: so that animals that had been bought
+should forget their former master and were not tempted to return ‘home’, a cross
+was traced on the lintel of the stable
+door, the halter belonging to the seller was kept on the
+animals, and salt was fed to them. At Raonaux-Bois the
+animals were given a slice of bread and butter that had been
+carried three times round the dairy and was held out to them
+with the right hand. It is true that this was only for the larger
+livestock that, since the stable was part of the house, were
+part of the family. But a number of other French customs
+denote that the thing sold must be detached from the seller,
+by, for example, striking the thing that is sold, or by whipping
+the sheep that is sold, etc.    
+
+One might even say that a whole section of the law, that
+relating to industrialists and businessmen, is nowadays at odds
+with morality. The economic prejudices of the people, the
+producers, arise from their firm determination to follow the
+thing they have produced, and from the strong feeling they
+have that their handiwork is resold without their having had
+any share of the profit.    
+
+Nowadays the old principles react against the rigour,
+abstraction, and inhumanity of our legal codes. From this
+viewpoint it may be said that a whole section of our law that is
+just emerging, with certain customs, consists of turning back the
+clock. This reaction against the Roman and Saxon (sic) [Northern?]
+insensitivity of our system is perfectly healthy and well founded.
+A few new principles of law and custom may be interpreted in
+this way.    
+
+It took a considerable period of time to acknowledge
+proprietorship in artistic, literary, and scientific work, beyond
+the peremptory action of selling the manuscript, the first machine,
+or the original work of art. In fact, societies are not very interested
+in recognizing for the heirs of an author or an inventor—a
+benefactor of humanity—more than certain limited rights over
+the things created by the one that owns those rights. One likes to
+assert that they are the product of the collective mind as much as 
+f individual mind. Everyone wishes them to fall into the public
+domain or join in the general circulation of wealth as quickly as
+possible. However, the scandal of the additional value acquired
+by paintings, sculptures, and objects d’art, during the lifetime of
+their creators or their immediate heirs, inspired the French law
+of September 1923 that gives to the artist and his inheritors a
+‘right of succession’ over the series of additional gains made
+during the successive sales of their works.    
+
+All our social insurance legislation, a piece of state socialism
+that has already been realized, is inspired by the following
+principle: the worker has given his life and his labour, on the
+one hand to the collectivity, and on the other hand, to his
+employers. Although the worker has to contribute to his
+insurance, those who have benefited from his services have not
+discharged their debt to him through the payment of wages.
+The state itself, representing the community, owes him, as do
+his employers, together with some assistance from himself, a
+certain security in life, against unemployment, sickness, old age,
+and death.   
+
+Even recent ingenious strategems, for example, the family
+assistance funds that our French industrialists have freely and
+energetically developed for the benefit of workers with family
+obligations, represent a spontaneous response to this need to forge
+links with individuals, to take into account the burdens they have
+to bear, and the varying degrees of material and moral interest
+that such burdens represent.   
+
+Similar bodies operate in Germany and Belgium with just as much success. In Britain, during this
+time of terrible, long drawn-out unemployment affecting millions
+of workers, an entire movement is emerging in favour of insurance
+against unemployment, which would be obligatory and organized
+through corporate bodies. The municipalities and the state are
+tired of shouldering this immense expense of payments to the
+unemployed, whose root cause lies in industry and market
+conditions alone. Thus distinguished economists and captains of industry such as
+Mr Pybus and Sir Lynden (sic) Macassey are
+urging that firms themselves, through their corporate associations,
+should organize these unemployment funds, and themselves make
+such sacrifices. In short, they would like the cost of security for
+the worker and his defence against being out of work to become
+part of the general expenses of each individual industry.
+All such morality and legislation corresponds in our opinion,
+not to any upheaval in the law, but a return to it.   
+
+On the one hand, one is seeing the dawning, and even the realization, of
+professional morality and corporate law. The compensatory funds
+and mutual benefit societies that industrial groupings are setting
+up in order to finance corporate charitable works, from a purely
+moral viewpoint are entirely admirable, save on one score: they
+are run entirely by the employers. Moreover, it is groups that are
+acting: the state, the municipalities, institutions of public
+assistance, pension funds, savings banks, mutual benefit societies,
+employers, and wage-earners. They are all in association together,
+as, for example, under the social legislation existing in Germany
+and Alsace-Lorraine. Very soon they will be similarly associated
+in French social security schemes. Thus we are returning to a
+group morality.     
+
+On the other hand, the state and its subordinate grouping desire
+to look after the individual. Society is seeking to rediscover a
+cellular structure for itself. It is indeed wanting to look after the
+individual. Yet the mental state in which it does so is one in which
+are curiously intermingled a perception of the rights of the
+individual and other, purer sentiments: charity, social service, and
+solidarity. The themes of the gift, of the freedom and the obligation
+inherent in the gift, of generosity and self-interest that are linked
+in giving, are reappearing in French society, as a dominant motif
+too long forgotten.     
+
+But to note the fact is not enough. One must deduce practice
+from it, and a moral precept. It is not sufficient to say that the law
+is in the process of ridding itself of a few abstractions such as the
+distinction between real law and personal law; or that it is intent
+on adding other rights to the cold-hearted law of sale and payment
+for services. It must be said that this is a salutary revolution.
+First of all, we return, as return we must, to habits of
+‘aristocratic extravagance’. As is happening in English-speaking
+countries and so many other contemporary societies, whether
+made up of savages or the highly civilized, the rich must come
+back to considering themselves—freely and also by obligation—
+as the financial guardians of their fellow citizens. Among ancient
+civilizations, from which ours has sprung, some had a (debtors’)
+jubilee, others liturgies (of duty) such as choregies and
+trierarchies, and syussitia (meals in common), and the obligatory
+expenditure by the aedile and the consular dignitaries. We should
+return to laws of this kind. Then there must be more care for
+the individual, his life, his health, his education (which is,
+moreover, a profitable investment), his family, and their future.
+There must be more good faith, more sensitivity, more
+generosity in contracts dealing with the hiring of services, the
+letting of houses, the sale of vital foodstuffs. And it will indeed
+be necessary to find a way to limit the rewards of speculation
+and interest.    
+
+However, the individual must work. He should be forced to
+rely upon himself rather than upon others. On the other hand,
+he must defend his interests, both personally and as a member of
+a group. Over-generosity, or communism, would be as harmful
+to himself and to society as the egoism of our contemporaries
+and the individualism of our laws. In the Mahabharata a malevolent
+genie of the woods explains to a Brahmin who gave away too
+much, and too injudiciously: ‘That is why you are thin and pale.’
+The life of the monk, and the life of a Shylock are both equally to
+be shunned. This new morality will surely consist of a good but
+moderate blend of reality and the ideal.     
+
+Thus we can and must return to archaic society and to elements
+in it. We shall find in this reasons for life and action that are stil prevalent
+in certain societies and numerous social classes: the joy
+of public giving; the pleasure in generous expenditure on the
+arts, in hospitality, and in the private and public festival. Social
+security, the solicitude arising from reciprocity and cooperation,
+and that of the occupational grouping, of all those legal entities
+upon which English law bestows the name of ‘Friendly
+Societies’—all are of greater value than the mere personal security
+that the lord afforded his tenant, better than the skimpy life that
+is given through the daily wages doled out by employers, and
+even better than capitalist saving—which is only based on a
+changing form of credit.    
+
+It is even possible to conceive what a society would be like
+in which such principles were the rule. In the liberal professions
+of our great nations to some extent a morality and an economy
+of this kind already flourish. For them honour, disinterestedness,
+corporate solidarity are not vain words, nor do they run counter
+to the necessities of work. Let us humanize in the same way
+other occupational groupings and improve them still further.
+This will represent great progress, as Durkheim has often
+advocated.     
+
+In so doing, we shall return, I think, to the enduring basis of
+law, to the very principle of normal social life. We must not desire
+the citizen to be either too good or too individualist nor too
+insensitive or too realist. He must have a keen sense of awareness
+of himself, but also of others, and of social reality (in moral matters
+is there even any other kind of reality?) He must act by taking
+into account his own interests, and those of society and its
+subgroups. This morality is eternal; it is common to the most
+advanced societies, to those of the immediate future, and to the
+lowest imaginable forms of society. We touch upon fundamentals.
+No longer are we talking in legal terms: we are speaking of men
+and groups of men, because it is they, it is society, it is the feelings
+of men, in their minds and in flesh and blood that at all times
+spring into action and that have acted everywhere.   
+
+Let us demonstrate this. The system that we propose to call the
+system of ‘total services’, from clan to clan—the system in which
+individuals and groups exchange everything with one another—
+constitutes the most ancient system of economy and law that we
+can find or of which we can conceive. It forms the base from
+which the morality of the exchange-through-gift has flowed. Now,
+that is exactly the kind of law, in due proportion, towards which
+we would like to see our own societies moving. To make these
+distant phases of law understood, here are two examples,
+borrowed from extremely different societies.   
+
+During a corroboree (a public drama dance) at Pine Mountain,
+in mid-west Queensland, each individual in turn enters the
+consecrated place, bearing in one hand his spear-slinger, and
+with his other hand behind his back. He throws his weapon
+from a circle at the other end of the dance area, at the same
+time calling out the place from where he comes, for example:
+‘Kunyan is my land’.He stops for moment, and during this
+time his friends ‘put a present’, a spear, a boomerang, or some
+other weapon, into his other hand. ‘A good warrior can thus
+receive more than his hand can hold, particularly if he has
+daughters to marry off.’    
+
+In the Winnebago tribe (the Sioux tribe), the chiefs of the
+clans very typically give speeches to their fellow chiefs from
+other tribes that are models of that etiquette widespread in all
+the Indian civilizations of North America. Each clan cooks food
+and prepares tobacco for the representatives of the other tribes,
+during the clan’s festival. Here, for example, are excerpts from
+the speech made by the chief of the Snake clan:  
+
+> I greet you. It is good. How could I do otherwise? I am a poor,
+worthless man and you have remembered me. It is good… You have
+thought of the spirits and you have come to sit down with me…Soon
+your dishes will be filled. So I greet you once again, you humans that
+take the place of the spirits. Etc   
+
+And when each chief has eaten, and has put offerings of tobacco
+into the fire, the final form of words sets out the moral effect of
+the festival, and all the services that have been rendered:   
+
+> I thank you for having come to sit down in this seat, I am grateful to
+you. You have encouraged me…The blessings of your grandfathers
+who have enjoyed revelations (and who are incarnate in you) are
+equal to those of the spirits. It is good that you have taken part in my
+festival. As our ancestors have said, this must be: ‘Your life is weak
+and you can only be strengthened by the counsel of the braves.’ You
+have counselled me… This is life for me.    
+
+Thus, from one extreme of human evolution to the other, there
+are no two kinds of wisdom. Therefore let us adopt as the
+principle of our life what has always been a principle of action
+and will always be so: to emerge from self, to give, freely and
+obligatorily. We run no risk of disappointment. A fine Maori
+proverb runs:   
+
+> Ko Maru kai atu
+Ko maru kai mai
+ka ngohe ngohe   
+
+'Give as much as you take, all shall be very well.'   
+
+## Conclusions for Economic Sociology and Political Economy   
+
+These facts not only throw light upon our morality and help to
+direct our ideals. In their light, we can analyse better the most
+general economic facts, and even this analysis helps us dimly to
+perceive better organizational procedures applicable in our
+societies.    
+
+Several times we have seen how far this whole economy of the
+exchange-through-gift lay outside the bounds of the so-called
+natural economy, that of utilitarianism. All these very considerable
+phenomena of the economic life of all peoples—let us say, to fix
+things firmly in our minds, that they represent fittingly the great
+Neolithic civilization—and all these important vestiges of those
+traditions in societies close to our own, or of our own customs,
+fall outside the schemes normally put forward by those rare
+economists who have wished to compare the various types of
+known economies. We therefore add our own repeated
+observations to those of Malinowski, who has devoted an entire
+study to ‘exploding’ current doctrines concerning ‘primitive’
+economy.    
+
+From this there follows a very solid chain of facts: the notion
+of value functions in these societies. Very large surpluses,
+speaking in absolute terms, are amassed. They are often expended
+to no avail, with comparatively enormous luxury, which is in
+no way commercial. These are the signs of wealth, and kinds of
+money are exchanged. Yet the whole of this very rich economy
+is still filled with religious elements. Money still possesses its
+magical power and is still linked to the clan or to the individual.
+the various economic activities, for example the market, are
+suffused with rituals and myths. They retain a ceremonial
+character that is obligatory and effective. They are full of rituals
+and rights. In this light we can already reply to the question
+that Durkheim posed concerning the religious origin of the
+notion of economic value. The facts also answer a host of
+questions concerning the forms and reasons behind what we
+so ineptly term exchange, the ‘barter’, the permutation of useful
+things, that, in the wake of the prudent Romans, who were
+themselves following Aristotle, an a priori economic history
+places at the origin of the division of labour. It is indeed
+something other than utility that circulates in societies of all
+kinds, most of which are already fairly enlightened. The clans, the generations,
+and the sexes generally—because of the many
+different relationships to which the contracts give rise—are in
+a perpetual state of economic ferment and this state of
+excitement is very far from being materialistic. It is far less
+prosaic than our buying and selling, our renting of services, or
+the games we play on the Stock Exchange.    
+
+However, we can go even farther than we have gone up to
+now. One can dissolve, jumble up together, colour and define
+differently the principal notions that we have used. The terms
+that we have used—present and gift—are not themselves entirely
+exact. We shall, however, find no others. These concepts of law
+and economics that it pleases us to contrast: liberty and obligation;
+liberality, generosity, and luxury, as against savings, interest, and
+utility—it would be good to put them into the melting pot once
+more. We can only give the merest indications on this subject. Let
+us choose, for example, the Trobriand Islands. There they still
+have a complex notion that inspires all the economic acts we
+have described. Yet this notion is neither that of the free, purely
+gratuitous rendering of total services, nor that of production and
+exchange purely interested in what is useful. It is a sort of hybrid
+that flourished.    
+
+Malinowski has made a serious attempt at classifying, from
+the point of view of motives of self-interest and disinterestedness,
+all the transactions that he noted among the Trobriand Islanders.
+He gradates them between the pure gift and pure barter after
+bargaining has taken place. This classification is in reality
+inapplicable. Thus, according to Malinowski, the type of pure gift
+would be the gift between man and wife. But, in our view,
+precisely one of the most important facts reported by Malinowski
+and one that throws a brilliant light upon all sexual relationships
+throughout humanity, consists of comparing the mapula, the
+‘constant’ payment made by the man to his wife, as a kind of
+salary for sexual services rendered. Likewise the presents made
+to the chief are a tribute paid; the distributions of food (sagali) are rewards
+for work or rituals performed, for example, in the
+case of funeral vigils. All in all, just as these gifts are not freely
+given, they are also not really disinterested. They already represent
+for the most part total counter-services, not only made with a
+view to paying for services or things, but also to maintaining a
+profitable alliance, one that cannot be rejected. Such, for example,
+is the alliance between tribes of fishermen and tribes of farmers
+or pottery-makers. Now, this is a general fact. We have met it, for
+example, in the Maori and Tsimshian areas, etc. We can therefore
+see where this force resides. It is one that is both mystical and
+practical, one that ties clans together and at the same time divides
+them, that divides their labour, and at the same time constrains
+them to carry out exchange. Even in these societies, the individual
+and the group, or rather the subgroup, have always felt they had
+a sovereign right to refuse a contract. It is this that gives the stamp
+of generosity to this circulation of goods. On the other hand they
+normally had neither the right to, nor any interest in refusing. It
+is this that makes these distant societies nevertheless related to
+our own.    
+
+The use of money might suggest other reflections. The vaygu’a
+of the Trobriands, bracelets and necklaces, just as the copper
+objects of the American Northwest or the wampun of the Iroquois,
+are both riches, signs of wealth, and means of exchange and
+of payment, but also things that must be given, or even destroyed.
+However, these are still pledges linked to the persons that use
+them, and these pledges bind them. Since, on the other hand,
+they already serve as indicators of money, one has an interest in
+giving them away so as to be able to possess yet other objects,
+by transforming them into goods or services that, in their turn,
+can be transformed again into money. One might really say that
+the Trobriand or Tsimshian, although far removed from him,
+proceeds like the capitalist who knows how to dispose of his
+ready cash at the right time, in order to reconstitute at a later
+date this mobile form of capital. Self-interest and disinterestedness likewise
+explain this form of the circulation
+of wealth and that of the archaic circulation of the signs of
+wealth that ensue.    
+
+Even pure destruction of wealth does not signify that
+complete detachment that one might believe to be found in it.
+Even these acts of greatness are not without egoism. The purely
+sumptuary form of consumption (which is almost always
+exaggerated and often purely destructive), in which
+considerable amounts of goods that have taken a long time to
+amass are suddenly given away or even destroyed, particularly
+in the case of the potlatch, give such institutions the
+appearance of representing purely lavish expenditure and
+childish prodigality. In effect, and in reality, not only are useful
+things given away and rich foods consumed to excess, but
+one even destroys for the pleasure of destroying. For example,
+the Tsimshian, Tlingit, and Haïda chiefs throw these copper
+objects and money into the water. The Kwakiutl chiefs smash
+them, as do those of the tribes allied to them. But the reason
+for these gifts and frenetic acts of wealth consumption is in
+no way disinterested, particularly in societies that practise the
+potlatch. Between chiefs and their vassals, between vassals and
+their tenants, through such gifts a hierarchy is established. To
+give is to show one’s superiority, to be more, to be higher in
+rank, magister. To accept without giving in return, or without
+giving more back, is to become client and servant, to become
+small, to fall lower (minister).   
+
+The magic ritual of the kula called the mwasila is full of
+formulas and symbols that demonstrate that the potential
+contracting party seeks above all this advantage of social
+superiority—one might almost say brute superiority. Thus,
+having cast a spell over the betel nut that they are going to use
+with their partners, after having cast a spell over the chief, his
+comrades, their pigs, the necklaces, then the head and its orifices,
+plus everything that is brought there, the pari, the opening gifts, etc.…after
+having cast a spell over all these, the magician sings,
+not without exaggeration:  
+
+> I topple the mountain, the mountain moves, the mountain crumbles
+away, etc.…My charm goes to the summit of the Dobu mountain…My
+boat is going to sink…etc. My fame is like that of the lightning. My
+tread is like that of the flying witch doctors, the Tudududu.    
+
+To be first, the most handsome, the luckiest, the strongest, and
+wealthiest—this is what is sought after, and how it is obtained.
+Later, the chief gives proof of his mana by redistributing what he
+has just received to his vassals and relations. He sustains his rank
+among the chiefs by giving back bracelets for necklaces, hospitality
+for visits, etc. In this case riches are from every viewpoint as
+much a means of retaining prestige as something useful. Yet are
+we sure that it is any different in our own society, and that even
+with us riches are not above all a means of lording it over our
+fellow men?    
+
+Let us now put to the test the other notion that we have
+just opposed to that of the gift and disinterestedness: the
+notion of interest, of the individual search after what is useful.
+This does not present itself either as it functions in our own
+minds. If some equivalent reason animates the Trobriand or
+American Indian chiefs, the Andaman clans, etc., or once
+motivated generous Hindus, and Germanic or Celtic nobles,
+as regards their gifts and expenditure, it is not the cold
+reasoning of the merchant, the banker, and the capitalist. In
+those civilizations they are concerned with their own interest,
+but in a different way from our own age. They hoard, but in
+order to spend, to place under an obligation, to have their
+own ‘liege men’. On the other hand, they carry on exchange,
+but it is above all in luxury articles, ornaments or clothes, or
+things that are consumed immediately, as at feasts. They repay
+with interest, but this is in order to humiliate the person initially making the
+gift or exchange, and not only to
+recompense him for loss caused to him by ‘deferred
+consumption’. There is self-interest, but this self-interest is
+only analogous to what allegedly sways us.
+A relatively amorphous and disinterested economic system
+exists within subgroups, that regulates the life of the Australian
+clans or those of North America (the East and the Prairies). On
+the other hand there exists also the individualistic and purely
+self-interested economy that our own societies have experienced
+at least in part, as soon as it was discovered by the Semitic and
+Greek peoples. Between these two types there is an entire and
+immensely gradated series of institutions and economic events,
+and this series is not governed by the economic rationalism whose
+theory we are so willing to propound.   
+
+The very word ‘interest’ is itself recent, originally an
+accounting technique: the Latin word interest was written on
+account books against the sums of interest that had to be
+collected. In ancient systems of morality of the most epicurean
+kind it is the good and pleasurable that is sought after, and not
+material utility. The victory of rationalism and mercantilism was
+needed before the notions of profit and the individual, raised
+to the level of principles, were introduced. One can almost
+date—since Mandeville’s The Fable of the Bees—the triumph of the
+notion of individual interest. Only with great difficulty and the
+use of periphrasis can these two words be translated into Latin,
+Greek, or Arabic. Even those who wrote classical Sanskrit, who
+used the word artha, fairly close to our own idea of interest, had
+a different idea of it from our own, as they did for other
+categories of action. The sacred books of classical India already
+divide human activities up as follows: law (dharma), interest
+(artha), desire (kama). But above all it is a matter of political
+selfinterest—that of the king and the Brahmins, of the ministers,
+in the kingdom and in each caste. The considerable literature of
+the Niticastra is not concerned with economics.    
+
+It is our western societies who have recently made man an
+‘economic animal’. But we are not yet all creatures of this genus.
+Among the masses and the elites in our society purely irrational
+expenditure is commonly practised. It is still characteristic of a
+few of the fossilized remnants of our aristocracy. Homo oeconomicus
+is not behind us, but lies ahead, as does the man of morality and
+duty, the man of science and reason. For a very long time man
+was something different, and he has not been a machine for very
+long, made complicated by a calculating machine.
+Moreover, happily we are still somewhat removed from this
+constant, icy, utilitarian calculation. We need to carry out an
+analysis in depth, with statistics, as Halbwachs has done for the
+working classes, of our own consumption and expenditure, we
+of the western middle class. How many needs do we satisfy? And
+how many inclinations do we not satisfy whose ultimate purpose
+is not one of utility? How much of his income does or can the
+rich man allocate to his personal utilitarian needs? His expenditure
+on luxury, on art, on outrageous things, on servants—do not
+these make him resemble the nobles of former times or the
+barbarian chiefs whose customs we have described?
+Is it good that this should be so? That is a different question.
+It is perhaps good that there are other means of spending or
+exchanging than pure expenditure. In our view, however, it is
+not in the calculation of individual needs that the method for
+an optimum economy is to be found. I believe that we must
+remain something other than pure financial experts, even in so
+far as we wish to increase our own wealth, whilst becoming
+better accountants and managers. The brutish pursuit of
+individual ends is harmful to the ends and the peace of all, to
+the rhythm of their work and joys—and rebounds on the
+individual himself.    
+
+As we have just seen, already important sections of society,
+associations of our capitalist firms themselves, are seeking as
+bodies to group their employees together. Moreover, all syndicalist groupings,
+whether of employers or wage-earners,
+claim they are defending and representing the general interest
+as fervently as the individual interest of their members or even
+their corporations. These fine speeches, it is true, are adorned
+with many metaphors. However, we must state that not only
+morality and philosophy, but even public opinion and political
+economy itself, are beginning to elevate themselves to this
+‘social’ level. We sense that we cannot make men work well
+unless they are sure of being fairly paid throughout their life
+for work they have fairly carried out, both for others and for
+themselves. The producer who carries on exchange feels once
+more—he has always felt it, but this time he does so acutely—
+that he is exchanging more than a product of hours of working
+time, but that he is giving something of himself—his time, his
+life. Thus he wishes to be rewarded, even if only moderately, for
+this gift. To refuse him this reward is to make him become idle
+or less productive.   
+
+Perhaps we may point out a conclusion that is both sociological
+and practical. The famous Sourate LXIV, ‘mutual disappointment’
+(the Last Judgement) given to Mahomet at Mecca, says of God: 
+
+> 15. Your wealth and your children are your temptation, whilst God
+holds in reserve a magnificent reward.  
+16. Fear God with all your might; listen and obey, give alms (sadaqa)
+in your own interest. He who is on his guard against his avarice will
+be happy.   
+17. If you make a generous loan to God, he will pay you back double;
+he will forgive you because he is grateful and long-suffering.  
+18. He knows things visible and invisible, he is the one powerful
+and wise.    
+
+Substitute for the name of Allah that of society and the
+occupational grouping, or put together all three names, if you
+are religious. Replace the concept of alms by that of co-operation, of a task
+done or service rendered for others. You will then have a
+fairly good idea of the kind of economy that is at present
+laboriously in gestation. We see it already functioning in certain
+economic groupings, and in the hearts of the masses, who possess,
+very often better than their leaders, a sense of their own interests,
+and of the common interest.   
+
+Perhaps by studying these obscure aspects of social life we
+shall succeed in throwing a little light upon the path that our
+nations must follow, both in their morality and in their
+economy.   
+
+## Conclusion Regarding General Sociology and Morality    
+
+May we be allowed a further remark about the method we have
+followed? We have no wish to put forward this study as a model
+to be followed. It only sets out bare indications. It is not sufficiently
+complete and the analysis might be pushed still farther. We are
+really posing questions to historians and ethnographers, and
+putting forward subjects for enquiry rather than resolving a
+problem and giving a definitive answer. For the time being it is
+enough for us to be persuaded that in this direction numerous
+facts will be discovered.   
+
+Yet, if this is so, it is because in this way of treating a problem
+there lies a heuristic principle we should like to bring out. The
+facts that we have studied are all, if we may be allowed the
+expression, total social facts, or, if one wishes—although we do
+not like the word—general ones. That is to say, in certain cases
+they involve the totality of society and its institutions (potlatch,
+clans confronting one another, tribes visiting one another, etc.),
+and in other cases only a very large number of institutions,
+particularly when these exchanges and contracts rather concern
+the individual.    
+
+All these phenomena are at the same time juridical, economic,
+religious, and even aesthetic and morphological, etc. They are
+juridical because they concern private and public law, and a
+morality that is organized and diffused throughout society; they
+are strictly obligatory or merely an occasion for praise or blame;
+they are political and domestic at the same time, relating to
+social classes as well as clans and families. They are religious in
+the strict sense, concerning magic, animism, and a diffused
+religious mentality. They are economic. The idea of value, utility,
+self-interest, luxury, wealth, the acquisition and accumulation
+of goods—all these on the one hand—and on the other, that of
+consumption, even that of deliberate spending for its own sake,
+purely sumptuary: all these phenomena are present everywhere,
+although we understand them differently today. Moreover, these
+institutions have an important aesthetic aspect that we have
+deliberately omitted from this study. Yet the dances that are
+carried out in turn, the songs and processions of every kind,
+the dramatic performances that are given from camp to camp,
+and by one associate to another; the objects of every sort that
+are made, used, ornamented, polished, collected, and lovingly
+passed on, all that is joyfully received and successfully presented,
+the banquets themselves in which everyone participates;
+everything, food, objects, and services, even ‘respect’, as the
+Tlingit say, is a cause of aesthetic emotion, and not only of
+emotions of a moral order or relating to self-interest. This is
+true not only for Melanesia, but even more especially so for the
+system of potlatch in the American Northwest, and still more
+so for the festival-cum-market of the Indo-European world.
+Finally, the phenomena are clearly structural. They all occur
+during assemblies, fairs, and markets, or at least at festivals that
+take their place. All such festivals presuppose congregations
+whose duration can exceed one season of social coming together,
+as do the winter potlatches of the Kwakiutl, or weeks, as do the
+seafaring expeditions of the Melanesians. Moreover, there must be roads or at
+least trails, and seas and lakes across which one
+may peaceably transport oneself. There must be tribal, intertribal,
+or international alliances, those of the commercium and the
+connubium.   
+
+Thus these are more than themes, more than the bare bones
+of institutions, more than complex institutions, even more
+than systems of institutions divided, for example, into religion,
+law, economy, etc. They are whole ‘entities’, entire social
+systems, the functioning of which we have attempted to
+describe. We have looked at societies in their dynamic or
+physiological state. We have not studied them as if they were
+motionless, in a static state, or as if they were corpses. Even
+less have we decomposed and dissected them, producing rules
+of law, myths, values, and prices. It is by considering the whole
+entity that we could perceive what is essential, the way
+everything moves, the living aspect, the fleeting moment when
+society, or men, become sentimentally aware of themselves
+and of their situation in relation to others. In this concrete
+observation of social life lies the means of discovering new
+facts, which we are only beginning dimly to perceive. In our
+opinion, nothing is more urgent or more fruitful than this
+study of total social facts.   
+
+It has a double advantage. Firstly, there is the advantage of
+generality. Those facts that relate to the general functioning of
+society are likely to be more universal than the various
+institutions, or the various themes that relate to these
+institutions, which are always more or less accidentally tinged
+with local colour. But above all such a study has the advantage
+of reality. Thus one succeeds in seeing the social ‘things’
+themselves, in concrete form and as they are. In societies one
+grasps more than ideas or rules, one takes in men, groups,
+and their different forms of behaviour. One sees them moving,
+as one does masses and systems in mechanics, or as in the sea
+we notice the octopuses and the anemones. We perceive numbers of men, forces in
+motion, who are in movement intheir environment and in their feelings.  
+
+The historians feel and rightly object to the fact that the
+sociologists are too ready with abstractions and unduly separate
+the various elements of societies from one another. We must do
+as they do: observe what is given. Now, the given is Rome or
+Athens, the average Frenchmen, the Melanesian from this island
+or another, and not prayer or law by itself. After having of necessity
+divided things up too much, and abstracted from them, the
+sociologists must strive to reconstitute the whole. By so doing
+they will discover rewarding facts. They will also find a way to
+satisfy the psychologists. The latter are strongly aware of their
+privileged position; the psychopathologists, in particular, are
+certain that they can study the concrete. All these study or should
+observe, the behaviour of total beings, not divided according to
+their faculties. We must imitate them. The study of the concrete,
+which is the study of completeness, is possible, and more
+captivating, more explanatory still in sociology. For our part, we
+observe the complete and complex reactions of numerically
+defined masses of men, complete, complex beings. We, too,
+observe what constitutes their organism or their psyche. At the
+same time we describe the behaviour of this mass and its
+corresponding psychoses: sentiments, ideas, and the volitions of
+the crowd, or of organized societies and their subgroups. We,
+too, view entities, and the reactions of those entities, whose ideas
+and feelings are normally interpretations, and more rarely do we
+see the reasons for them. The principle and the end of sociology
+is to perceive the whole group and its behaviour in its entirety.
+We have not had time—it would have meant extending
+unduly a limited subject—to try to perceive at this time the
+structural basis for all the facts we have indicated. However, it is
+perhaps useful to indicate, at least as an example, the method
+we would like to follow, and along what lines we would carry
+out that research.   
+
+All the societies, we have described above, except for our
+European societies, are segmented. Even Indo-European
+societies—Roman society before the Twelve Tables, Germanic
+societies even very late on, up to the writing down of the Edda
+saga, and Irish society up to the creation of its main literature—
+were still based on the clan and, at the very least the large families,
+which formed internally a more or less undivided block, being
+more or less externally isolated from one another. All these
+societies are or were far from our own state of unification, or the
+unity that a defective history ascribes to them. Moreover, within
+these groups, individuals, even those with strong characteristics,
+were less sad, less serious, less miserly, and less personal than we
+are. Externally at least, they were or are more generous, more
+liable to give than we are. The law of friendship and contracts,
+with the gods, came to ensure ‘peace’ within ‘markets’ and towns.
+This occurred when groups paid visits to one another at tribal
+festivals and at ceremonies where clans confronted one another
+and families allied themselves or began ‘initiations’ with one
+another. It happened even in more advanced societies when the
+‘law of hospitality’ had been developed. Over a considerable period
+of time and in a considerable number of societies, men approached
+one another in a curious frame of mind, one of fear and
+exaggerated hostility, and of generosity that was likewise
+exaggerated, but such traits only appear insane to our eyes. In all
+the societies that have immediately preceded our own, and still
+exist around us, and even in numerous customs extant in our
+popular morality, there is no middle way: one trusts completely,
+or one mistrusts completely; one lays down one’s arms and gives
+up magic, or one gives everything, from fleeting acts of hospitality
+to one’s daughter and one’s goods. It is in such a state of mind
+that men have abandoned their reserve and have been able to
+commit themselves to giving and giving in return.
+This was because they had no choice. Two groups of men who
+meet can only either draw apart, and, if they show mistrust towards one another
+or issue a challenge, fight—or they can negotiate.
+Until legal systems and economies evolved not far removed from
+our own, it is always with strangers that one ‘deals’, even if allied
+to them. In the Trobriand Islands the people of Kiriwina told
+Malinowski: ‘The men from Dobu are not good like us; they
+are cruel, they are cannibals. When we come to Dobu, we are
+afraid of them. They might kill us. But then I spit out ginger root,
+and their attitude changes. They lay down their spears and receive
+us well.’ Nothing better interprets this unstable state between
+festival and war.  
+
+One of the best ethnographers, Thurnwald, writing about
+another Melanesian tribe, giving genealogical statistics,
+describes for us a particular event that also clearly demonstrates
+how these people, as a group, suddenly pass from festival to
+battle. Buleau, a chief, had invited another chief, Bobal, and
+his people to a banquet, probably the first in a long series.
+They began to rehearse the dances the whole night through.
+In the morning they were all in a state of nerves from their
+sleepless night, the dances, and the songs. As a result of a simple
+remark made by Buleau, one of Bobal’s men killed him. And
+the rank and file massacred, pillaged, and carried off the
+women of the village. ‘Buleau and Bobal were rather friendly,
+and merely rivals’, Thurnwald was told. We have all observed
+such facts, even around us.  
+
+It is by opposing reason to feeling, by pitting the will to peace
+against sudden outbursts of insanity of this kind that peoples
+succeed in substituting alliance, gifts, and trade for war, isolation
+and stagnation.  
+
+This is therefore what one may have found at the conclusion
+of this research. Societies have progressed in so far as they
+themselves, their subgroups, and lastly, the individuals in them,
+have succeeded in stabilizing relationships, giving, receiving, and
+finally, giving in return. To trade, the first condition was to be
+able to lay aside the spear. From then onwards they succeeded in exchanging
+goods and persons, no longer only between clans,
+but between tribes and nations, and, above all, between
+individuals. Only then did people learn how to create mutual
+interests, giving mutual satisfaction, and, in the end, to defend
+them without having to resort to arms. Thus the clan, the tribe,
+and peoples have learnt how to oppose and to give to one another
+without sacrificing themselves to one another. This is what
+tomorrow, in our so-called civilized world, classes and nations
+and individuals also, must learn. This is one of the enduring secrets
+of their wisdom and solidarity.  
+
+There is no other morality, nor any other form of economy,
+nor any other social practices save these. The Bretons, and the
+Chronicles of Arthur tell how King Arthur, with the help of a Cornish
+carpenter, invented that wonder of his court, the miraculous
+Round Table, seated round which, the knights no longer fought.
+Formerly, ‘out of sordid envy’, in stupid struggles, duels and
+murders stained with blood the finest banquets. The carpenter
+said to Arthur: ‘I will make you a very beautiful table, around
+which sixteen hundred and more can sit, and move around, and
+from which no-one will be excluded…No knight will be able
+engage in fighting, for there the highest placed will be on the
+same level as the lowliest.’ There was no longer a ‘high table’,
+and consequently no more quarrelling. Everywhere that Arthur
+took his table his noble company remained happy and
+unconquerable. In this way nations today can make themselves
+strong and rich, happy and good. Peoples, social classes, families,
+and individuals will be able to grow rich, and will only be happy
+when they have learnt to sit down, like the knights, around the
+common store of wealth. It is useless to seek goodness and
+happiness in distant places. It is there already, in peace that has
+been imposed, in well-organized work, alternately in common
+and separately, in wealth amassed and then redistributed, in the
+mutual respect and reciprocating generosity that is taught by
+education.   
+
+In certain cases, one can study the whole of human behaviour,
+and social life in its entirety. One can also see how this concrete
+study can lead not only to a science of customs, to a partial social
+science but even to moral conclusions, or rather, to adopt once
+more the old word, ‘civility’, or ‘civics’, as it is called nowadays.
+Studies of this kind indeed allow us to perceive, measure, and
+weigh up the various aesthetic, moral, religious, and economic
+motivations, the diverse material and demographic factors, the
+sum total of which are the basis of society and constitute our
+common life, the conscious direction of which is the supreme
+art, *Politics*, in the Socratic sense of the word.   
