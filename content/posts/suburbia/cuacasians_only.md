@@ -1,0 +1,211 @@
+---
+title: "Cuacasians Only: an excerpt from Robert Fogelson"
+date: 2023-07-09T07:18:50Z
+author: "<no value>"
+type: "post"
+tags: ["racism", "fascism", "united-states", "suburban", "bourgeoise", "class",
+"segregation"]
+draft: false
+---
+
+A small but very important subsection from Robert Fogelson's book "Bourgeois
+Nightmares: Suburbia, 1870-1930". I would say it speaks for itself.    
+
+Many subdividers also employed restrictions to exclude
+‘‘undesirable’’ people as well as "undesirable" activities. By far the
+most common of these provisions were racial covenants. Under
+a typical covenant, an owner was forbidden to sell or lease the
+property to a member of any of a number of allegedly undesirable
+racial, ethnic, or religious groups. He or she was also forbidden
+to allow a member of these groups, other than chauffeurs, gardeners, or domestic servants, to use or occupy the property. A few
+subdividers had employed racial covenants in the mid-nineteenth
+century. In Brookline, for example, one forbade "any negro or
+native of Ireland" to occupy a dwelling, and in Baltimore another
+barred the sale or lease of a house to "a negro or person of African
+or Mongolian [that is, Asian] descent." But such restrictions were
+very much the exception before the 1890s. Indeed, not even the
+most racist subdividers imposed racial covenants. A case in point
+was Francis G. Newlands, the mining magnate and U.S. senator
+who laid out Chevy Chase in the early 1890s. Newlands saw the
+United States as "the home of the white race." To him, "race tolerance" meant "race amalgamation," and "race intolerance" meant
+"race war." Fusing the racism of the South with the racism of the
+West, he called for repealing the Fifteenth Amendment, thereby
+denying African-Americans, "an inferior race," the right to vote,
+and restricting immigration to "the white race," thereby excluding Chinese, Japanese, and other Asians. Despite his outspoken racism, Newlands did not include racial covenants among the
+minimum cost requirements and other restrictions he imposed
+on the first subdivisions at Chevy Chase.    
+
+At a time of widespread racism, not to mention nativism and
+anti-Semitism, why did Newlands and other large-scale subdivid-
+ers refrain from imposing racial covenants? The answer is two-
+fold. Most subdividers had reason to believe that racial covenants
+were unnecessary.Very few African-Americans lived in their communities. Even fewer earned enough to buy a lot, much less to
+build a house that met the minimum cost requirement. What
+was true for African-Americans was true for Asian-Americans,
+though not necessarily for Jewish Americans. In the unlikely
+event that, say, an African-American wanted to buy a lot, a subdivider could always refuse to sell, even in the absence of a racial
+covenant. If a black person wanted to buy a house in a white
+neighborhood, most real estate agents would not show it to him.
+And if he somehow managed to find a place, said Hugh E. Prather
+of Dallas, "the next morning he would be hanging to a flag pole."
+Many subdividers also had reason to believe that racial covenants
+were illegal. Asked by Bouton in 1891 for an opinion on his company’s plan to impose a covenant aimed at "negroes or persons of
+African descent," a Baltimore law firm replied that it would be in-
+valid. What it called "the weight of authority" was against restrictions on alienation, especially ones that excluded "not a limited
+number of persons, but a whole race of people," a race whose civil
+rights were protected by the Fourteenth Amendment. Hence for
+the time being Bouton refrained from imposing a racial covenant.
+So did other subdividers, at least some of whom were afraid that
+if the courts held one restriction invalid they might feel obliged
+to invalidate the others.   
+
+After the turn of the century, and especially after World War I, a
+few developments drove the subdividers to rethink their position.
+By far the most momentous was the exodus of African-Americans
+from the rural South that began in the late nineteenth century
+and picked up momentum in the early twentieth. In its wake the
+number of African-Americans rose sharply in cities all over the
+country. Between 1910 and 1920 it more than doubled in Chicago, more than quadrupled in Cleveland, and went up more than
+sixfold in Detroit. By 1920 African-Americans made up 10 percent of the population in Indianapolis, 15 percent in Baltimore, 25
+percent in Washington, D.C., and more than 30 percent in Richmond and Birmingham. The number of African-Americans also
+went up in Los Angeles, though not as much as the number of
+Japanese-Americans. Most of the newcomers settled in crowded
+and squalid neighborhoods in the center of the city. But before
+long a few attempted to move into the surrounding residential
+communities, most of them home to working- and middle-class
+whites, many the children and grandchildren of European immigrants. Fears of what was known as encroachment soon surfaced in the cities—where they fueled the race riots that erupted
+after World War I—and then spread to the suburbs. For the first
+time subdividers grew frightened that African-Americans might
+"invade" their communities as they had "invaded" LeDroit Park.
+A suburb of Washington, D.C., that was laid out in the 1870s
+and called as ‘‘exclusive a settlement as one might want or imag-
+ine," it was taken over by African-Americans a few decades later.
+Subscribing to what one scholar has called "an exclusionary real
+estate ideology that associated the presence of blacks [and other
+non-whites] with declining property values and neighborhood instability, subdividers (and other white property owners) came to believe that racial covenants were needed to ensure racial homogeneity.     
+
+o subdividers, the need for racial covenants grew especially
+pressing after 1917, when the U.S. Supreme Court ruled that
+racial zoning was unconstitutional. An idea that had been around
+since 1890, racial zoning made no headway until 1910 That
+year, over the strong objections of many African-Americans (and
+some white property owners and real estate brokers), Baltimore
+adopted the first of four ordinances that excluded blacks from
+any block on which more than half the residents were white
+(and vice versa). Richmond followed suit, as did Birmingham,
+St. Louis, and other cities. Given that the courts had already upheld segregation in public schools and on railway cars, legal experts assumed that racial zoning was constitutional. But when
+the laws were challenged, the results were mixed. They were upheld in some states, struck down in others. The issue came to
+a head when the U.S. Supreme Court agreed to hear Buchanan
+v. Warley, a 1915 case in which the Kentucky Supreme Court
+had upheld racial zoning in Louisville. Speaking for the defendant, Louisville city attorneys Stuart Chevalier and Pendleton
+Buckley argued that the ordinance was a valid exercise of police
+power, one that would prevent racial conflict and protect property values. (It would, they said, stop "a few of each race from
+overstepping the racial barriers which Providence and not human
+law has erected.") Representing the plaintiff, Clayton Blakey and
+Moorfield Storey, president of the NAACP, countered that the
+ordinance violated the Fourteenth Amendment, which barred
+the states from depriving anyone of property without due process of law. Writing for a unanimous court, Justice William R.
+Day conceded that it was important to prevent racial conflict and promote "public peace." But it had to be done without violating constitutional rights. And the Louisville ordinance deprived whites of the right to dispose of property and blacks of the right
+to acquire it. After Buchanan v. Warley, it was clear that if subdividers wanted to ensure racial homogeneity they would have to
+use racial covenants.     
+
+But would the courts enforce them? As late as the early 1910s
+most legal experts would have agreed with Bouton’s lawyers that
+the answer was no. Some courts held that racial covenants were
+an unlawful restraint on alienation, and in a highly influential
+decision one ruled in 1982 that they were a violation of the Fourteenth Amendment. Rejecting the argument that the state was
+not party to the covenant, Judge Erskine M. Ross of the circuit
+court for California’s Southern District wrote, "Any result inhibited by the constitution can no more be accomplished by contract
+of individual citizens than by legislation, and the courts should
+no more enforce the one than the other." But starting in the mid 1910s, by which time subdividers were routinely employing racial
+covenants, many courts came around. These covenants, said the
+Louisiana Supreme Court, do not violate the Fourteenth Amendment, which "applies only to state legislation, not to the contracts
+of individuals." As long as restraints on alienation are not "total
+and perpetual," they do not run counter to public policy. As the
+Missouri Supreme Court wrote, a seller has the right to impose a
+restraint on alienation "in certain cases to certain persons, or for
+a certain time, or for certain purposes." The Washington, D.C.,
+Court of Appeals upheld racial covenants too, and it was on an
+appeal of its decision in Corrigan v. Buckley that the issue reached
+the U.S. Supreme Court in 1925. The plaintiff ’s attorneys, who
+included not only Storey but Louis Marshall, a pillar of the New York bar, argued that the covenant, which barred "any person
+of the negro race or blood," violated the Fifth, Thirteenth, and
+Fourteenth amendments. (They also warned that it would not be
+long before the same covenants that were applied to Negroes and
+Jews were extended to Catholics.) Writing for a unanimous court,
+Justice Edward T. Sanford dismissed the appeal, declaring, "It is
+obvious that none of these Amendments prohibited private individuals from entering into contracts respecting the control and
+disposition of their own property." After Corrigan v. Buckley, one
+legal scholar has written, many courts "disposed of the constitutional issue on grounds that the Supreme Court had settled the
+matter once and for all."     
+
+Some courts did not come around, at least not all the way. In
+a landmark decision handed down in 1919, a California appellate
+court held that racial covenants did not violate the Fourteenth
+Amendment. But taking issue with the Louisiana and Missouri
+courts, it ruled that they did violate the common law restraint on
+alienation. Delivering the court’s opinion, Judge Frank G. Finlayson declared that "any restraint on alienation, either as to persons or time, is invalid." (If one could be barred from selling or
+leasing property to persons of African, Chinese, or Japanese descent, one could also be barred from selling or leasing "to any but
+Albinos from the heart of Africa, or blond Eskimos.") In other
+words, racial covenants were invalid not because they violated
+the civil rights of blacks (and other racial minorities), but because they violated the property rights of whites. A few months
+later, however, the California Supreme Court issued a decision
+that left the appellate court’s ruling standing, but more or less
+eviscerated it. Racial covenants could not be imposed to prevent whites from selling or leasing property, wrote the court, but they could be imposed to prevent blacks (and other racial minorities) from occupying or otherwise using it. Despite counsel’s
+argument that these covenants place "the negro and people of
+other sects and creeds in the same category as slaughter houses,
+livery stables, tanneries, garages, etc.," the Michigan Supreme
+Court took the same position as the California courts. So did the
+West Virginia Supreme Court. "It may be an anomalous situation where a colored man may own property which he cannot
+occupy," the Maryland Supreme Court wrote, but so long as his
+procedural rights were protected these restrictions would be enforced. And so long as they were enforced, African-Americans
+were highly unlikely to buy or rent in a restricted subdivision.    
+
+As the courts were aware, racial covenants were an idea whose
+time had come. Nichols employed them for the first time in 1908,
+and in an attempt to keep up with the competition Bouton followed suit not long after. Duncan McDuffie also imposed racial
+covenants, as did the Thompson brothers and the Hogg brothers.
+By the late 1920s, a decade after Newlands died, the Chevy Chase
+Land Company excluded "any person of negro blood" as well as
+"any person of the Semetic [sic] race." The exception in the early
+1900s, racial covenants were the rule two decades later. Worried
+about how the courts would respond, a few subdividers refrained
+from imposing restraints on alienation. A case in point was the
+Knight-Menard Company, developer of Devonshire Downs. In
+an attempt to abide by the Michigan Supreme Court’s rulings,
+it provided only that none of the lots "shall be used or occupied
+. . . by any persons not of the pure, unmixed, white, Caucasian,
+Gentile race." But Knight-Menard was in a small minority. Most
+subdividers, even California subdividers who had reason to be
+worried about how the courts would respond, included a ban on alienation as well as on use and occupancy. By the 1920s these
+covenants were commonplace not only in middle- and upper-middle-class subdivisions, but also in working-class ones. Eastmont No. 2 Tract, a tract east of downtown Los Angeles designed
+expressly for "the working man," advertised "Permanent Race
+Restrictions." City Terrace, another East Los Angeles tract that
+offered lots for as little as $400-650, boasted "strict race restrictions and moderate building restrictions." And Petroleum Gardens, a subdivision near Santa Fe Springs whose promoters were
+peddling mineral rights more than homesites, assured prospective purchasers that lots would be sold only to members of "the
+Caucasian or White Race." As Bouton told his colleagues in the
+mid-1920s, even subdivisions that imposed few or no other restrictions imposed racial covenants.    
+
+Some subdividers excluded anyone who was not "white." But
+as scientists were not sure who belonged to the "white race,"
+indeed were not even sure whether there were four or five (or
+even fifteen, twenty-nine, or sixty-three) races, many subdividers
+preferred to use the term "Caucasian." To be Caucasian, historian Matthew Frye Jacobson has pointed out, was by the 1920s
+"to be conclusively, certifiably, scientifically white." Leaving nothing to chance, some subdividers explicitly barred Africans (who
+were also referred to as Negroes and Ethiopians) and Asians (who
+were also referred to as Mongolians, Chinese, and Japanese). Olmsted Brothers even urged Walter H. Leimert to include East Indians in his racial covenants—and to add the phrase "or any other
+races in the discretion of the Lakeshore Homes Association."
+Some subdividers also excluded Semites, which, said a Washington, D.C., developer, included "Armenians, Jews, Hebrews, Persians, and Syrians." (How Jews differed from Hebrews was not spelled out.) Others barred Mexicans, Hawaiians, Puerto Ricans,
+Filipinos, and American Indians. One even excluded "foreigners
+of the Dago class." Except for Westdale, a subdivision in Ontario,
+Canada, which barred a host of racial and ethnic groups, including "Armenians, whether British subjects or not," and "foreign
+born Italians, Greeks or Jews," no subdivision excluded so many
+types as the Lake Shore Club District, which was located in Erie
+County, Pennsylvania. As well as anyone "of Negro or Mongolian
+birth or parentage," the subdivider, the Hardscrabble Farm Real
+Estate Trust, barred "any person of Hungarian, Mexican, Greek,
+Armenian, Austrian, Italian, Russian [which may have meant
+Jewish], Polish, Slavish, or Roumanian birth."      
+
+  
+
