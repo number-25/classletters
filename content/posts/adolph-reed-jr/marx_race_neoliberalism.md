@@ -285,11 +285,11 @@ entirely new race-like taxonomies could come to displace the familiar ones. For
 instance, the “underclass” could become even more race-like as a distinctive,
 essentialized population,
 
->     by our current folk norms, multiracial in composition, albeit most likely
->     including in perceptibly greater frequencies people who would be
->     classified as black and Latino “racially,” though as small enough
->     pluralities to preclude assimilating the group ideologically as a simple
->     proxy for nonwhite inferiors.[^13]  
+> by our current folk norms, multiracial in composition, albeit most likely
+> including in perceptibly greater frequencies people who would be
+> classified as black and Latino “racially,” though as small enough
+> pluralities to preclude assimilating the group ideologically as a simple
+> proxy for nonwhite inferiors.[^13]  
 
 This possibility looms larger now. Struggles for racial and gender equality have
 largely divested race and gender of their common sense verisimilitude as bases
@@ -348,10 +348,10 @@ generated through capitalism’s logic of production and reproduction without
 mediation through one of those ascriptive categories. As I have argued
 elsewhere,   
 
->     this makes identifying “racism” a technical requirement for pursuing
->     certain grievances, not the basis of an overall strategy for pursuit of
->     racial justice, or, as I believe is a clearer left formulation, racial
->     equality as an essential component of a program of social justice.[^17]     
+> this makes identifying “racism” a technical requirement for pursuing
+> certain grievances, not the basis of an overall strategy for pursuit of
+> racial justice, or, as I believe is a clearer left formulation, racial
+> equality as an essential component of a program of social justice.[^17]     
 
 Yet, for those who insist that racial reductionism is more than a pragmatic
 accommodation to the necessities of pursuing legal or administrative grievances,
@@ -366,20 +366,18 @@ character of racial injustice. I submit that those tendencies come together
 around a politics that is “entirely consistent with the neoliberal redefinition
 of equality and democracy along disparitarian lines.” That politics    
 
->     reflects the social position of those positioned to benefit from the view
->     that the market is, or can be, a just, effective, or even acceptable,
->     system for rewarding talent and virtue and punishing their opposites and
->     that, therefore, removal of “artificial” impediments to functioning like
->     race and gender will make it even more efficient and just.[^18]  
+> reflects the social position of those positioned to benefit from the view
+> that the market is, or can be, a just, effective, or even acceptable,
+> system for rewarding talent and virtue and punishing their opposites and
+> that, therefore, removal of “artificial” impediments to functioning like
+> race and gender will make it even more efficient and just.[^18]  
 
 This is the politics of actual or would-be race relations administrators, and it
 is completely embedded within American capitalism and its structures of elite
 brokerage. It is fundamentally antagonistic to working-class politics,
 notwithstanding left identitarians’ gestural claims to the contrary.    
 
- 
-
-## References 
+  
 
 [^1]: See Adolph Reed, Jr., “Unraveling the Relation of Race and Class in
 American Politics,” Political Power and Social Theory 15 (2002): 265-274; Ellen
