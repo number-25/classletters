@@ -381,7 +381,7 @@ notwithstanding left identitarians’ gestural claims to the contrary.
 
 ## References 
 
-[^1] See Adolph Reed, Jr., “Unraveling the Relation of Race and Class in
+[^1]: See Adolph Reed, Jr., “Unraveling the Relation of Race and Class in
 American Politics,” Political Power and Social Theory 15 (2002): 265-274; Ellen
 Meiksins Wood, “Class, Race and Capitalism,” Political Power and Social Theory
 15 (2002): 275-284; Maurice Zeitlin, “On the ‘Confluence of Race and Class’ in
@@ -394,26 +394,26 @@ African American Politics” in Adolph Reed, Jr., Kenneth W. Warren, et al.,
 Renewing Black Intellectual History: The Ideological and Material Foundations of
 Black American Thought (Boulder, CO & London: Paradigm Publishers, 2010).
 
-[^2] Edmund S. Morgan, American Slavery, American Freedom (New York: W. W.
+[^2]: Edmund S. Morgan, American Slavery, American Freedom (New York: W. W.
 Norton, 1975) and Kathleen M. Brown, Good Wives, Nasty Wenches and Anxious
 Patriarchs: Gender, Race, and Power in Colonial Virginia (Chapel Hill & London:
 University of North Carolina Press, 1996). As her title indicates, Brown
 examines as well the interplay of race and gender in the constitution of
 distinctions between slave and servant, black and white.  for just so stories 
 
-[^3] Legal historian Robert J. Steinfeld in two important books examines the
+[^3]: Legal historian Robert J. Steinfeld in two important books examines the
 latter conflict. See Steinfeld, The Invention of Free Labor: The Employment
 Relation in English and American Law and Culture, 1350-1870 (Chapel Hill &
 London: University of North Carolina Press, 2002) and Coercion, Contract, and
 Free Labor in the Nineteenth Century (Cambridge: Cambridge University Press,
 2001).   
 
-[^4] Hugo Münsterberg, Psychology and Industrial Efficiency (Boston & New York:
+[^4]: Hugo Münsterberg, Psychology and Industrial Efficiency (Boston & New York:
 Houghton Mifflin, 1913), 130. Münsterberg criticized what he considered a
 widespread tendency among industrial firms’ employment officers to use group
 characteristics too freely and to depend on superficial stereotypes (130-131). 
 
-[^5] John Bodnar, Roger Simon, and Michael P. Weber, Lives of Their Own: Blacks,
+[^5]: John Bodnar, Roger Simon, and Michael P. Weber, Lives of Their Own: Blacks,
 Italians, and Poles in Pittsburgh, 1900-1960 (Urbana & Chicago: University of
 Illinois Press, 1983), 240. On the history and logic of race science, see
 Jonathan Marks, What It Means to Be 98% Chimpanzee: Apes, People and Their Genes
@@ -430,17 +430,17 @@ of Man: An Outline of Anthropology and Ethnography (New York: Charles Scribner,
 (London: Kegan Paul, 1900); and William P. Dillingham, A Dictionary of Races or
 Peoples (Washington, DC: GPO, 1911), 3.   
 
-[^6] Paul Liem and Eric Montague, eds., “Toward a Marxist Theory of Racism: Two
+[^6]: Paul Liem and Eric Montague, eds., “Toward a Marxist Theory of Racism: Two
 Essays by Harry Chang,” Review of Radical Political Economics 17, no. 3 (1985):
 43.    
 
-[^7] Ibid., 38. 
+[^7]: Ibid., 38. 
 
-[^8] Ibid., 39. 
+[^8]: Ibid., 39. 
 
-[^9] Ibid., 44. 
+[^9]: Ibid., 44. 
 
-[^10] For a critical examination of the “whiteness” literature, at least as it
+[^10]: For a critical examination of the “whiteness” literature, at least as it
 has taken shape among historians, see “Scholarly Controversy: Whiteness and the
 Historians’ Imagination,” International Labor and Working-Class History 60 (Fall
 2001): 1-92, with an introduction by Judith Stein and articles by Eric Arnesen,
@@ -449,13 +449,13 @@ Hattam, Eric Foner, and a response by Arnesen. See also Barbara J. Fields and
 Karen Fields, Racecraft: The Soul of Inequality in American Life (New York &
 London: Verso, 2012).    
 
-[^11] Adolph Reed, Jr., and Merlin Chowkwanyun, “Race, Class, Crisis: The
+[^11]: Adolph Reed, Jr., and Merlin Chowkwanyun, “Race, Class, Crisis: The
 Discourse of Racial Disparity and its Analytical Discontents,” Socialist
 Register 48 (2012): 167. We argue as well that “left-seeming defenses that
 insist on the importance of race and class” are only attempts to deny the
 rhetorical force of the race line.   
 
-[^12] Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of
+[^12]: Michelle Alexander, The New Jim Crow: Mass Incarceration in the Age of
 Color-Blindness (New York: New Press, 2010). For a systematic critique of the
 limits and counterproductive features of this approach, see James Forman, Jr.,
 “Racial Critiques of Mass Incarceration: Beyond the New Jim Crow,” New York
@@ -463,9 +463,9 @@ University Law Review 87 (2012): 21-69. See also Reed and Chowkwanyun, “Race,
 Class, Crisis” and Adolph Reed, Jr., “Three Tremés,” July 4, 2011, available at
 http://nonsite.org/editorial/three-tremes.     
 
-[^13] Reed, “The ‘Color Line’ Then and Now,” 261.   
+[^13]: Reed, “The ‘Color Line’ Then and Now,” 261.   
 
-[^14] Walter Benn Michaels, The Trouble with Diversity: How We Learned to Love
+[^14]: Walter Benn Michaels, The Trouble with Diversity: How We Learned to Love
 Identity and Ignore Inequality (New York: Metropolitan Books, 2007). It is
 telling that the reduction of concern with economic inequality to racial
 disparities leads to responses—for example, Sheradeen’s proposed Individual
@@ -478,7 +478,7 @@ context specifically, such proposals exude more than a whiff of racial
 communitarianism and collective racial self-help, along with a dollop of
 republican nostalgia.”   
 
-[^15] On evolutionary psychology, see Susan McKinnon, Neo-Liberal Genetics: The
+[^15]: On evolutionary psychology, see Susan McKinnon, Neo-Liberal Genetics: The
 Myths and Moral Tales of Evolutionary Psychology (Chicago: Prickly Paradigm,
 2005). On genes and politics, see Evan Charney, “Genes and Ideologies,”
 Perspectives on Politics 6, no. 2 (June 2008), with responses from John R.
@@ -496,14 +496,15 @@ Construction of Race,” Sociological Theory 30 (June 2012): 67-88
 appropriates—crucially misappropriates, actually—scholarship on the geography of
 human genetic variation in support of explicitly racialist arguments.     
 
-[^16]  George W. Stocking, Jr., Race, Culture, and Evolution: Essays in the
+[^16]: George W. Stocking, Jr., Race, Culture, and Evolution: Essays in the
 History of Anthropology (Chicago & London: University of Chicago Press, 1968),
 265.   
 
-[^17] Adolph Reed, Jr., “The Limits of Anti-Racism,” Left Business Observer
+[^17]: Adolph Reed, Jr., “The Limits of Anti-Racism,” Left Business Observer
 #121, September 2009, available at www.leftbusinessobserver.com/Antiracism.html.
   
-[^18] Ibid.      
+[^18]: Ibid.      
+
 ## Notes
 For an excellent overview of the pervasiveness of ad-hoc grafting in
 Evolutionary Biology see:   
