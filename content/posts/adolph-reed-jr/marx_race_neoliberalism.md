@@ -8,8 +8,6 @@ tags: ["adolph-reed-jr", "identitarianism", "neoliberalisation",
 draft: false
 ---
 
-
-
 A Marxist perspective can be most helpful for understanding race and racism
 insofar as it per- ceives capitalism dialectically, as a social total- ity that
 includes modes of production, relations of production, and the pragmatically
@@ -429,8 +427,7 @@ of Man: An Outline of Anthropology and Ethnography (New York: Charles Scribner,
 Peoples (Washington, DC: GPO, 1911), 3.   
 
 [^6]: Paul Liem and Eric Montague, eds., “Toward a Marxist Theory of Racism: Two
-Essays by Harry Chang,” Review of Radical Political Economics 17, no. 3 (1985):
-43.    
+Essays by Harry Chang,” Review of Radical Political Economics 17, no. 3 (1985),43.    
 
 [^7]: Ibid., 38. 
 
@@ -495,8 +492,7 @@ appropriates—crucially misappropriates, actually—scholarship on the geograph
 human genetic variation in support of explicitly racialist arguments.     
 
 [^16]: George W. Stocking, Jr., Race, Culture, and Evolution: Essays in the
-History of Anthropology (Chicago & London: University of Chicago Press, 1968),
-265.   
+History of Anthropology (Chicago & London: University of Chicago Press, 1968), 265.   
 
 [^17]: Adolph Reed, Jr., “The Limits of Anti-Racism,” Left Business Observer
 #121, September 2009, available at www.leftbusinessobserver.com/Antiracism.html.
