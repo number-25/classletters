@@ -1,0 +1,612 @@
+---
+title: "Studies in European Realism by György Lukács"
+date: 2023-09-29T02:07:16Z
+author: "<no value>"
+type: "post"
+tags: ["realism", "literature", "lukacs", "marxism", "aesthetics"]
+draft: false
+---
+
+The articles contained in this book were written some ten years ago. Author and reader
+may well ask why they should be republished just now. At first sight they might seem to
+lack all topicality. Subject and tone alike may appear remote to a considerable section of
+public opinion. I believe, however, that they have some topicality in that, without
+entering upon any detailed polemics, they represent a point of view in opposition to
+certain literary and philosophical trends still very much to the fore today.
+Let us begin with the general atmosphere: the clouds of mysticism which once
+surrounded the phenomena of literature with a poetic colour and warmth and created
+an intimate and ‘‘interesting’’ atmosphere around them, have been dispersed. Things
+now face us in a clear, sharp light which to many may seem cold and hard; a light shed
+on them by the teachings of Marx. Marxism searches for the material roots of each
+phenomenon, regards them in their historical connections and movement, ascertains the
+laws of such movement and demonstrates their development from root to flower, and in
+so doing lifts every phenomenon out of a merely emotional, irrational, mystic fog and
+brings it to the bright light of understanding.    
+
+Such a transition is at first a disillusionment to many people and it is necessary that
+this should be so. For it is no easy matter to look stark reality in the face and no one
+succeeds in achieving this at the first attempt. What is required for this is not merely
+a great deal of hard work, but also a serious moral effort. In the first phase of such a
+change of heart most people will look back regretfully to the false but ‘‘poetic’’ dreams of
+reality which they are about to relinquish. Only later does it grow clear how much more
+genuine humanity – and hence genuine poetry – attaches to the acceptance of truth
+with all its inexorable reality and to acting in accordance with it.   
+
+But there is far more than this involved in such a change of heart. I am thinking here
+of that philosophical pessimism which was so deeply rooted in the social conditions of
+the period between the two world wars. It was not by accident that everywhere there
+arose thinkers who deepened this pessimism and who built up their Weltanschauung on
+some philosophical generalization of despair. The Germans, Spengler and Heidegger,
+and a considerable number of other influential thinkers of the last few decades embraced
+such views.
+
+There is, of course, plenty of darkness around us now, just as there was between the
+two wars. Those who wish to despair can find cause enough and more in our everyday
+life. Marxism does not console anyone by playing down difficulties, or minimizing the
+material and moral darkness which surrounds us human beings today. The difference is
+only – but in this ‘‘only’’ lies a whole world – that Marxism has a grasp of the main lines
+of human development and recognizes it laws. Those who have arrived at such knowledge know, in spite of all temporary darkness, both whence we have come and where we
+are going. And those who know this find the world changed in their eyes: they see
+purposeful development where formerly only a blind, senseless confusion surrounded
+them. Where the philosophy of despair weeps for the collapse of a world and the
+destruction of culture, there Marxists watch the birth-pangs of a new world and assist
+in mitigating the pains of labour.     
+
+One might answer to all this – I have met with such objections myself often enough –
+that all this is only philosophy and sociology. What has all this to do with the theory and
+history of the novel? We believe that it has to do quite a lot. If we were to formulate the
+question in terms of literary history, it would read thus: which of the two, Balzac or
+Flaubert, was the greatest novelist, the typical classic of the 19th century? Such a
+judgment is not merely a matter of taste – it involves all the central problems of the
+æsthetics of the novel as an art form. The question arises whether it is the unity of
+the external and internal worlds or the separation between them which is the social basis
+of the greatness of a novel; whether the modern novel reached its culminating point in
+Gide, Proust and Joyce or had already reached its peak much earlier, in the works of
+Balzac and Tolstoy; so that today only individual great artists struggling against the
+current – as for instance Thomas Mann – can reach the heights already long attained.
+These two æsthetic conceptions conceal the application of two opposite philosophies
+of history to the nature and historical development of the novel. And because the novel
+is the predominant art form of modern bourgeois culture, this contrast between the two
+æsthetic conceptions of the novel refers us back to the development of literature as a
+whole, or perhaps even culture as a whole. The question asked by the philosophy of
+history would be: does the road of our present-day culture lead upwards or downwards?
+There is no denying that our culture has passed and is passing through dark periods. It is
+for the philosophy of history to decide whether that darkening of the horizon which was
+adequately expressed for the first time in Flaubert’s Education Sentimentale is a final, fatal
+eclipse or only a tunnel from which, however long it may be, there is a way out to the
+light once more.     
+
+Bourgeois æstheticists and critics, the author of the present book among them, saw no
+way out of this darkness. They regarded poetry merely as a revelation of the inner life, a
+clear-sighted recognition of social hopelessness or at best a consolation, an outward-reflected miracle. It followed with logical necessity from this historico-philosophical
+conception that Flaubert’s œuvre , notably his Education Sentimentale , was regarded as the
+greatest achievement of the modern novel. This conception naturally extends to every
+sphere of literature. I quote only one instance: the real great philosophical and psychological content of the epilogue to War and Peace is the process which after the Napoleonic wars led the most advanced minority of the Russian aristocratic intelligentsia – a
+very small minority, of course – to the Decembrist rising, that tragically heroic prelude
+to the secular struggle of the Russian people for its liberation. Of all this my own old philosophy of history and æsthetics saw nothing. For me the epilogue held only the
+subdued colours of Flaubertian hopelessness, the frustration of the purposeless searchings and impulses of youth, their silting-up in the grey prose of bourgeois family life. The
+same applies to almost every detailed analysis of bourgeois æsthetics. The opposition of
+Marxism to the historical views of the last 50 years (the essence of which was the denial
+that history is a branch of learning that deals with the unbroken upward evolution of
+mankind) implied at the same time a sharp objective disagreement in all problems of
+Weltanschauung or æsthetics. No one can expect me to give even a skeleton outline of the
+Marxist philosophy of history within the limits of a preface. But we must nevertheless
+eliminate certain commonplace prejudices in order that author and reader may understand one another, that readers approach without bias this book with its application of
+Marxism to certain important problems of literary history and æsthetics and not pass
+judgment on it until they have compared this application with the facts. The Marxist
+philosophy of history is a comprehensive doctrine dealing with the necessary progress
+made by humanity from primitive communism to our own time and the perspectives of
+our further advance along the same road; as such it also gives us indications for the
+historical future. But such indications – born of the recognition of certain laws
+governing historical development – are not a cookery book providing recipes for each
+phenomenon or period; Marxism is not a Baedeker of history, but a signpost pointing the
+direction in which history moves forward. The final certainty it affords consists in the
+assurance that the developmnt of mankind does not and cannot finally lead to nothing
+and nowhere.     
+
+Of course, such generalizations do not do full justice to the guidance given by
+Marxism, a guidance extending to every topical problem of life. Marxism combines a
+consistent following of an unchanging direction with incessant theoretical and practical
+allowances for the deviousness of the path of evolution. Its well-defined philosophy of
+history is based on a flexible and adaptable acceptance and analysis of historical
+development. This apparent duality – which is in reality the dialectic unity of the
+materialist world-view – is also the guiding principle of Marxist æsthetics and literary
+theory.     
+
+Those who do not know Marxism at all or know it only superficially or at secondhand, may be surprised by the respect for the classical heritage of mankind which one
+finds in the really great representatives of this doctrine and by their incessant references
+to that classical heritage. Without wishing to enter into too much detail, we mention as
+an instance, in philosophy, the heritage of Hegelian dialectics, as opposed to the various
+trends in the latest philosophies. "But all this is long out of date," the modernists cry. "All
+this is the undesirable, outworn legacy of the nineteenth century," say those who –
+intentionally or unintentionally, consciously or unconsciously – support the Fascist
+ideology and its pseudo-revolutionary rejection of the past, which is in reality a
+rejection of culture and humanism. Let us look without prejudice at the bankruptcy of
+the very latest philosophies; let us consider how most philosophers of our day are
+compelled to pick up the broken and scattered fragments of dialectic (falsified and
+distorted in this decomposition) whenever they want to say something even remotely
+touching its essence about present-day life; let us look at the modern attempts at a
+philosophical synthesis and we shall find them miserable, pitiful caricatures of the old
+genuine dialectic, now consigned to oblivion.    
+
+It is not by chance that the great Marxists were jealous guardians of our classical
+heritage in their æsthetics as well as in other spheres. But they do not regard this
+classical heritage as a reversion to the past; it is a necessary outcome of their philosophy
+of history that they should regard the past as irretrievably gone and not susceptible of
+renewal. Respect for the classical heritage of humanity in æsthetics means that the great
+Marxists look for the true highroad of history, the true direction of its development, the
+true course of the historical curve, the formula of which they know; and because they
+know the formula they do not fly off at a tangent at every hump in the graph, as modern
+thinkers often do because of their theoretical rejection of the idea that there is any such
+thing as an unchanged general line of development.     
+
+For the sphere of æsthetics this classical heritage consists in the great arts which
+depict man as a whole in the whole of society. Again it is the general philosophy, (here:
+proletarian humanism) which determines the central problems posed in æsthetics. The
+Marxist philosophy of history analyses man as a whole, and contemplates the history of
+human evolution as a whole, together with the partial achievement, or non-achievement
+of completeness in its various periods of development. It strives to unearth the hidden
+laws governing all human relationships. Thus the object of proletarian humanism is to
+reconstruct the complete human personality and free it from the distortion and dismemberment to which it has been subjected in class society. These theoretical and
+practical perspectives determine the criteria by means of which Marxist æsthetics
+establish a bridge back to the classics and at the same time discover new classics in
+the thick of the literary struggles of our own time. The ancient Greeks, Dante,
+Shakespeare, Goethe, Balzac, Tolstoy all give adequate pictures of great periods of
+human development and at the same time serve as signposts in the ideological battle
+fought for the restoration of the unbroken human personality.    
+
+Such viewpoints enable us to see the cultural and literary evolution of the nineteenth
+century in its proper light. They show us that the true heirs of the French novel,
+so gloriously begun early in the last century, were not Flaubert and especially Zola,
+but the Russian and Scandinavian writers of the second half of the century. The
+present volume contains my studies of French and Russian realist writers seen in this
+perspective.     
+
+If we translate into the language of pure æsthetics the conflict (conceived in the sense
+of the philosophy of history) between Balzac and the later French novel, we arrive at the
+conflict between realism and naturalism. Talking of a conflict here may sound a paradox
+to the ears of most writers and readers of our day. For most present-day writers and
+readers are used to literary fashions swinging to and fro between the pseudo-objectivism
+of the naturalist school and the mirage-subjectivism of the psychologist or abstract-formalist school. And inasmuch as they see any worth in realism at all, they regard their
+own false extreme as a new kind of near-realism or realism. Realism, however, is not
+some sort of middle way between false objectivity and false subjectivity, but on the
+contrary the true, solution-bringing third way, opposed to all the pseudo-dilemmas
+engendered by the wrongly-posed questions of those who wander without a chart in the
+labyrinth of our time. Realism is the recognition of the fact that a work of literature can
+rest neither on a lifeless average, as the naturalists suppose, nor on an individual
+principle which dissolves its own self into nothingness. The central category and
+criterion of realist literature is the type, a peculiar synthesis which organically binds together the general and the particular both in characters and situations. What makes a
+type a type is not its average quality, not its mere individual being, however profoundly
+conceived; what makes it a type is that in it all the humanly and socially essential
+determinants are present on their highest level of development, in the ultimate
+unfolding of the possibilities latent in them, in extreme presentation of their extremes,
+rendering concrete the peaks and limits of men and epochs.      
+
+True great realism thus depicts man and society as complete entities, instead of
+showing merely one or the other of their aspects. Measured by this criterion, artistic
+trends determined by either exclusive introspection or exclusive extraversion equally
+impoverish and distort reality. Thus realism means a three-dimensionality, an all-roundness, that endows with independent life characters and human relationships. It
+by no means involves a rejection of the emotional and intellectual dynamism which
+necessarily develops together with the modern world. All it opposes is the destruction of
+the completeness of the human personality and of the objective typicality of men and
+situations through an excessive cult of the momentary mood. The struggle against such
+tendencies acquired a decisive importance in the realist literature of the nineteenth
+century. Long before such tendencies appeared in the practice of literature, Balzac had
+already prophetically foreseen and outlined the entire problem in his tragi-comic story
+Le Chef d’œuvre inconnu. Here experiment on the part of a painter to create a new classic
+three-dimensionality by means of an ecstasy of emotion and colour quite in the spirit of
+modern impressionism, leads to complete chaos. Fraunhofer, the tragic hero, paints a
+picture which is a tangled chaos of colours out of which a perfectly modelled female leg
+and foot protrude as an almost fortuitous fragment. Today a considerable section of
+modern artists has given up the Fraunhofer-like struggle and is content with finding, by
+means of new æsthetic theories, a justification for the emotional chaos of their works.
+The central æsthetic problem of realism is the adequate presentation of the complete
+human personality. But as in every profound philosophy of art, here, too, the consistent
+following-up to the end of the æsthetic viewpoint leads us beyond pure aesthetics: for
+art, precisely if taken in its most perfect purity, is saturated with social and moral
+humanistic problems. The demand for a realistic creation of types is in opposition both
+to the trends in which the biological being of man, the physiological aspect of selfpreservation and procreation are dominant (Zola and his disciples) and to the trends
+which sublimate man into purely mental psychological processes. But such an attitude, if
+it remained within the sphere of formal æsthetic judgments, would doubtless be quite
+arbitrary, for there is no reason why, regarded merely from the point of view of good
+writing, erotic conflict with its attendant moral and social conflicts should be rated
+higher than the elemental spontaneity of pure sex. Only if we accept the concept of the
+complete human personality as the social and historical task humanity has to solve; only
+if we regard it as the vocation of art to depict the most important turning-points of this
+process with all the wealth of the factors affecting it; only if æsthetics assign to art the
+role of explorer and guide, can the content of life be systematically divided up into
+spheres of greater and lesser importance; into spheres that throw light on types and
+paths and spheres that remain in darkness. Only then does it become evident that any
+description of mere biological processes – be these the sexual act or pain and sufferings,
+however detailed and from the literary point of view perfect it may be – results in a
+levelling-down of the social, historical and moral being of men and is not a
+means but an obstacle to such essential artistic expression as illuminating human conflicts in all their
+complexity and completeness. It is for this reason that the new contents and new media
+of expression contributed by naturalism have led not to an enrichment but to an
+impoverishment and narrowing-down of literature.     
+
+Apparently similar trains of thought were already put forward in early polemics
+directed against Zola and his school. But the psychologists, although they were more
+than once right in their concrete condemnation of Zola and the Zola school, opposed
+another no less false extreme to the false extreme of naturalism. For the inner life of
+man, its essential traits and essential conflicts can be truly portrayed only in organic
+connection with social and historical factors. Separated from the latter and developing
+merely its own immanent dialectic, the psychologist trend is no less abstract, and
+distorts and impoverishes the portrayal of the complete human personality no less
+than does the naturalist biologism which it opposes.   
+
+It is true that, especially regarded from the viewpoint of modern literary fashions, the
+position in respect of the psychologist school is at the first glance less obvious than in
+the case of naturalism. Everyone will immediately see that a description in the Zola
+manner of, say, an act of copulation between Dido and Aeneas or Romeo and Juliet
+would resemble each other very much more closely than the erotic conflicts depicted by
+Virgil and Shakespeare, which acquaint us with an inexhaustible wealth of cultural and
+human facts and types. Pure introspection is apparently the diametrical opposite of
+naturalist levelling-down, for what it describes are quite individual, non-recurring traits.
+But such extremely individual traits are also extremely abstract, for this very reason of
+non-recurrence. Here, too, Chesterton’s witty paradox holds good, that the inner light is
+the worst kind of lighting. It is obvious to everyone that the coarse biologism of the
+naturalists and the rough outlines drawn by propagandist writers deform the true
+picture of the complete human personality. Much fewer are those who realize that the
+psychologists’ punctilious probing into the human soul and their transformation of
+human beings into a chaotic flow of ideas destroy no less surely every possibility of a
+literary presentation of the complete human personality. A Joyce-like shoreless torrent
+of associations can create living human beings just as little as Upton Sinclair’s coldly
+calculated all-good and all-bad stereotypes.     
+
+Owing to lack of space this problem cannot be developed here in all its breadth. Only
+one important and, at present, often neglected point is to be stressed here because it
+demonstrates that the live portrayal of the complete human personality is possible only
+if the writer attempts to create types. The point, in question is the organic, indissoluble
+connection between man as a private individual and man as a social being, as a member
+of a community. We know that this is the most difficult question of modern literature
+today and has been so ever since modern bourgeois society came into being. On the
+surface the two seem to be sharply divided and the appearance of the autonomous,
+independent existence of the individual is all the more pronounced, the more completely modern bourgeois society is developed. It seems as if the inner life, genuine
+"private" life, were proceeding according to its own autonomous laws and as if its
+fulfilments and tragedies were growing ever more independent of the surrounding social
+environment. And correspondingly, on the other side, it seems as if the connection with
+the community could manifest itself only in high-sounding abstractions, the adequate
+expression for which would be either rhetoric or satire.   
+
+An unbiased investigation of life and the setting aside of these false traditions of
+modern literature leads easily enough to the uncovering of the true circumstances to the
+discovery which had long been made by the great realists of the beginning and middle of
+the nineteenth century and which Gottfried Keller expressed thus: "Everything is
+politics." The great Swiss writer did not intend this to mean that everything was
+immediately tied up with politics; on the contrary, in his view – as in Balzac’s and
+Tolstoy’s – every action, thought and emotion of human beings is inseparably bound up
+with the life and struggles of the community, i.e., with politics; whether the humans
+themselves are conscious of this, unconscious of it or even trying to escape from it,
+objectively their actions, thoughts and emotions nevertheless spring from and run into
+politics.     
+
+The true great realists not only realized and depicted this situation – they did more
+than that, they set it up as a demand to be made on men. They knew that this distortion
+of objective reality (although, of course, due to social causes), this division of the
+complete human personality into a public and a private sector was a mutilation of
+the essence of man. Hence they protested not only as painters of reality, but also as
+humanists, against this fiction of capitalist society however unavoidable this spontaneously formed superficial appearance. If as writers, they delved deeper in order to
+uncover the true types of man, they had inevitably to unearth and expose to the eyes of
+modern society the great tragedy of the complete human personality.    
+
+In the works of such great realists as Balzac we can again find a third solution opposed
+to both false extremes of modern literature, exposing as an abstraction, as a vitiation of
+the true poesy of life, both the feeble commonplaces of the well-intentioned and honest
+propagandist novels and the spurious richness of a preoccupation with the details of
+private life.    
+
+This brings us face to face with the question of the topicality today of the great realist
+writers. Every great historical period is a period of transition, a contradictory unity of
+crisis and renewal of destruction and rebirth; a new social order and a new type of man
+always come into being in the course of a unified though contradictory process. In such
+critical, transitional periods the tasks and responsibility of literature are exceptionally
+great. But only truly great realism can cope with such responsibilities; the accustomed,
+the fashionable media of expression, tend more and more to hamper literature in
+fulfilling the tasks imposed by history. It should surprise no one if from this point of
+view we turn against the individualistic, psychologist trends in literature. It might more
+legitimately surprise many that these studies express a sharp opposition to Zola and
+Zolaism.     
+
+Such surprise may be due in the main to the fact that Zola was a writer of the left and
+his literary methods were dominant chiefly, though by no means exclusively, in left-wing
+literature. It might appear, therefore, that we are involving ourselves in a serious
+contradiction, demanding on the one hand the politization of literature and on the
+other hand attacking insidiously the most vigorous and militant section of left-wing
+literature. But this contradiction is merely apparent. It is, however, well suited to throw
+light on the true connection between literature and Weltanschauung.    
+
+The problem was first raised (apart from the Russian democratic literary critics)
+by Engels, when he drew a comparison between Balzac and Zola. Engels showed
+that Balzac, although his political creed was legitimist royalism, nevertheless
+inexorably exposed the vices and weakness of royalist feudal France and described its death agony
+with magnificent poetic vigour. This phenomenon, references to which the reader will
+find more than once in these pages, may at first glance again – and mistakenly – appear
+contradictory. It might appear that the Weltanschauung and political attitude of serious
+great realists are a matter of no consequence. To a certain extent this is true. For from
+the point of view of the self-recognition of the present and from the point of view
+of history and posterity, what matters is the picture conveyed by the work; the
+question to what extent this picture conforms to the views of the authors is a secondary
+consideration.     
+
+This, of course, brings us to a serious question of æsthetics. Engels, in writing about
+Balzac, called it "the triumph of realism"; it is a problem that goes down to the very
+roots of realist artistic creation. It touches the essence of true realism: the great writer’s
+thirst for truth, his fanatic striving for reality – or expressed in terms of ethics: the
+writer’s sincerity and probity. A great realist such as Balzac, if the intrinsic artistic
+development of situations and characters he has created comes into conflict with his
+most cherished prejudices or even his most sacred convictions, will, without an instant’s
+hesitation, set aside these his own prejudices and convictions and describe what he really
+sees, not what we would prefer to see. This ruthlessness towards their own subjective
+world-picture is the hall-mark of all great realists, in sharp contrast to the second-raters,
+who nearly always succeed in bringing their own Weltanschauung into "harmony" with
+reality, that is forcing a falsified or distorted picture of reality into the shape of their own
+world-view. This difference in the ethical attitude of the greater and lesser writers is
+closely linked with the difference between genuine and spurious creation. The characters created by the great realists, once conceived in the vision of their creator, live an
+independent life of their own; their comings and goings, their development, their
+destiny is dictated by the inner dialectic of their social and individual existence. No
+writer is a true realist – or even a truly good writer, if he can direct the evolution of his
+own characters at will.     
+
+All this is however merely a description of the phenomenon. It answers the question
+as to the ethics of the writer: what will he do if he sees reality in such and such a light?
+But this does not enlighten us at all regarding the other question: what does the writer
+see and how does he see it? And yet it is here that the most important problems of the
+social determinants of artistic creation arise. In the course of these studies we shall point
+out in detail the basic differences which arise in the creative methods of writers
+according to the degree to which they are bound up with the life of the community,
+take part in the struggles going on around them or are merely passive observers of
+events. Such differences determine creative processes which may be diametrical opposites; even the experience which gives rise to the work will be structurally different, and in accordance with this the process of shaping the work will be different. The question
+whether a writer lives within the community or is a mere observer of it, is determined
+not by psychological, not even by typological factors; it is the evolution of society that
+determines (not automatically, not fatalistically, of course), the line the evolution of an
+author will take. Many a writer of a basically contemplative type has been driven to an
+intense participation in the life of the community by the social conditions of his time;
+Zola, on the contrary, was by nature a man of action, but his epoch turned him into a mere observer and when at last he answered the call of life, it came too late to influence
+his development as a writer.     
+
+But even this is as yet only the formal aspect of this problem, although no longer the
+abstractly formal. The question grows essential and decisive only when we examine
+concretely the position taken up by a writer. What does he love and what does he hate? It
+is thus that we arrive at a deeper interpretation of the writer’s true Weltanschauung , at
+the problem of the artistic value and fertility of the writer’s world-view. The conflict
+which previously stood before us as the conflict between the writer’s world-view and
+the faithful portrayal of the world he sees, is now clarified as a problem within the
+Weltanschauung itself, as a conflict between a deeper and a more superficial level of
+the writer’s own Weltanschauung.      
+
+Realists such as Balzac or Tolstoy in their final posing of questions always take the
+most important, burning problems of the community for their starting point; their
+pathos as writers is always stimulated by those sufferings of the people which are the
+most acute at the time; it is these sufferings that determine the objects and direction of
+their love and hate and through these emotions determine also what they see in their
+poetic visions and how they see it. If, therefore, in the process of creation their conscious
+world-view comes into conflict with the world seen in their vision, what really emerges
+is that their true conception of the world is only superficially formulated in the
+consciously held world-view and the real depth of their Weltanschauung , their deep
+ties with the great issues of their time, their sympathy with the sufferings of the people
+can find adequate expression only in the being and fate of their characters.
+No one experienced more deeply than Balzac the torments which the transition to
+the capitalist system of production inflicted on every section of the people, the profound
+moral and spiritual degradation which necessarily accompanied this transformation on
+every level of society. At the same time Balzac was also deeply aware of the fact that this
+transformation was not only socially inevitable, but at the same time progressive. This
+contradiction in his experience Balzac attempted to force into a system based on a
+Catholic legitimism and tricked out with Utopian conceptions of English Toryism. But
+this system was contradicted all the time by the social realities of his day and the
+Balzacian vision which mirrored them. This contradiction itself clearly expressed,
+however, the real truth: Balzac’s profound comprehension of the contradictorily
+progressive character of capitalist development.     
+
+It is thus that great realism and popular humanism are merged into an organic unity.
+For if we regard the classics of the social development that determined the essence of
+our age, from Goethe and Walter Scott to Gorki and Thomas Mann, we find mutatis
+mutandis the same structure of the basic problem. Of course every great realist found a
+different solution for the basic problem in accordance with his time and his own artistic
+personality. But they all have in common that they penetrate deeply into the great
+universal problems of their time and inexorably depict the true essense of reality as they
+see it. From the French revolution onwards the development of society moved in a
+direction which rendered inevitable a conflict between such aspirations of men of letters
+and the literature and public of their time. In this whole age a writer could achieve
+greatness only in the struggle against the current of everyday life. And since Balzac the
+resistance of daily life to the deeper tendencies of literature, culture and art has grown
+ceaselessly stronger. Nevertheless there were always writers who in their
+life-work, despite all the resistance of the day, fulfilled the demand formulated by Hamlet: ‘to hold
+the mirror up to nature,’ and by means of such a reflected image aided the development
+of mankind and the triumph of humanist principles in a society so contradictory in its
+nature that it on the one hand gave birth to the ideal of the complete human personality
+and on the other hand destroyed it in practice.      
+
+The great realists of France found worthy heirs only in Russia. All the problems
+mentioned here in connection with Balzac apply in an even greater measure to Russian
+literary development and notably to its central figure Leo Tolstoy. It is not by chance
+that Lenin (without having read Engels’ remarks about Balzac) formulated the Marxist
+view of the principles of true realism in connection with Tolstoy. Hence there is no need
+for us to refer to these problems again here. There is all the more need, however, to call
+attention to the erroneous conceptions current in respect of the historical and social
+foundations of Russian realism, errors which in many cases are due to deliberate
+distortion or concealment of facts. In Britain, as everywhere else in Europe, the newer
+Russian literature is well known and popular among the intelligent reading public. But
+as everywhere else, the reactionaries have done all they could to prevent this literature
+from becoming popular; they felt instinctively that Russian realism, even if each single
+work may not have a definite social tendency, is an antidote to all reactionary infection.
+But however widespread familiarity with Russian literature may have been in the
+West, the picture formed in the minds of readers was nevertheless incomplete and
+largely false. It was incomplete because the great champions of Russian revolutionary
+democracy, Herzen and Bielinski, Chernyshevski and Dobrolyubov were not translated
+and even their names were known to very few outside the reach of the Russian language.
+And it is only now that the name of Saltykov-Shchedrin is getting to be known, although
+in him the newer Russian literature had produced a satirist unrivalled anywhere in the
+world since the days of Jonathan Swift.      
+
+What is more, the conception of Russian literature was not only incomplete, it was
+also distorted. The great Russian realist Tolstoy was claimed by reactionary ideologies
+for their own and the attempt was made to turn him into a mystic gazing into the past;
+into an "aristocrat of the spirit" far removed from the struggles of the present. This
+falsification of the image of Tolstoy served a second purpose as well; it helped to give a
+false impression of the tendencies predominant in the life of the Russian people. The
+result was the myth of a ‘‘holy Russia’’ and Russian mysticism. Later, when the Russian
+people in 1917 fought and won the battle for liberation, a considerable section of the
+intelligentsia saw a contradiction between the new, free Russia and the older Russian
+literature. One of the weapons of counter-revolutionary propaganda was the untrue
+allegation that the new Russian had effected a complete volte-face in every sphere of
+culture and had rejected, in fact was persecuting, older Russian literature.
+These counter-revolutionary allegations have long been refuted by the facts. The
+literature of the White Russian e´migre´s, which claimed to be the continuation of
+the allegedly mystical Russian literature, quickly showed its own sterility and futility,
+once it was cut off from the Russian soil and the real Russian problems. On the other
+hand, it was impossible to conceal from the intelligent reading public that in the Soviet
+Union the vigorous treatment of the fresh issues thrown up by the rejuvenated life of the
+nation was developing a rich and interesting new literature and the discerning readers of
+this literature could see for themselves how deeply rooted were the connections between it and Russian classical realism. (It will suffice to refer here to Sholokhov, the
+heir to Tolstoy’s realism.)     
+
+The reactionary campaign of misrepresentation directed against the Soviet Union
+reached its culminating point before and during the late war, and then collapsed in the
+course of the same war, when the liberated peoples of the Soviet Union in their struggle
+against German Nazi imperialism demonstrated to the world such strength and such
+achievements in the sphere of moral and material culture that the old-style slanders and
+misrepresentations ceased to be effective. On the contrary, a very large number of
+people began to ask: what was the source of the mighty popular forces, the manifestations of which were witnessed by the whole world during the war. Such dangerous
+thoughts required countermeasures and now we see a fresh wave of slander and
+misrepresentation breaking against the rock of Soviet civilization. Nevertheless the
+history of the internal and external evolution of the Russian people still remains an
+exciting and interesting problem for the reading public of every country.     
+
+In examining the history of the liberation of the Russian people and of the consolidation of its achievements, we must not overlook the important part played by literature
+in these historical events, – a part greater than the usual influence exercised by
+literature on the rising and falling fortunes of any civilized nation. On the one hand
+no other literature is as public-spirited as the Russian and on the other hand there has
+scarcely been any society in which literary works excited so much attention and
+provoked such crises as in Russian society in the classical realist period of Russian
+literature. Hence, although a very wide public is acquainted with Russian literature, it
+may not be superfluous to present this freshly arising problem in a new light. The new
+problems imperatively demand that our analysis penetrate, both from the social and the
+æsthetic viewpoint, to the true roots of Russian social development.     
+
+It is for this reason that our first study attempts to fill one of the greatest gaps in our
+knowledge of Russian literature by giving a characterization of the little-known great
+Russian revolutionary-democratic critics Bielinski, Chernyshevski and Dobrolyubov.
+Closely linked with this question is a revaluation of the well-known classical realists,
+or rather a characterization and appreciation which is somewhat more in accordance
+with historical truth. In the past, western critics and readers in their approach to Tolstoy
+and others took for their guide the views on society, philosophy, religion, art, and so on,
+which these great men had themselves expressed in articles, letters, diaries and the like.
+They thought to find a key to the understanding of the often unfamliar great works of
+literature in these conscious opinions. In other words reactionary criticism interpreted
+the works of Tolstoy and Dostoyevski by deriving the alleged spiritual and artistic
+content of these works from certain reactionary views of the authors.    
+
+The method employed in the present studies is the exact opposite of this. It is a very
+simple method: it consists in first of all examining carefully the real social foundations
+on which say Tolstoy’s existence rested and the real social forces under the influence of
+which the human and the literary personality of this author developed. Secondly, in
+close connection with the first approach, the question is asked: what do Tolstoy’s works
+represent, what is their real spiritual and intellectual content and how does the writer
+build up his æsthetic forms in the struggle for the adequate expression of such contents.
+Only if, after an unbiassed examination, we have uncovered and understood these
+objective relationships, are we in a position to provide a correct interpretation of the conscious views expressed by the author and correctly evaluate his influence on
+literature.     
+
+The reader will see later that in applying this method a quite new picture of Tolstoy
+will emerge. The revaluation will be new only to the non-Russian reading public. In
+Russian literature itself the method of appreciation outlined in the preceding has an old
+tradition behind it: Bielinski and Herzen were the precursors of the method, the
+culminating points of which are marked by the names of Lenin and Stalin. It is this
+method that the author of the present book is attempting to apply to an analysis of the
+works of Tolstoy. That Tolstoy is followed by Gorki in this book will surprise no one;
+the essay on Gorki is also a polemic against reactionary literary trends, is also to some
+extent a revaluation; and its main theme is the close link between Gorki the great
+innovator and his precursors in Russian literature and an examination of the question to
+what extent Gorki continued and developed classical Russian realism. The uncovering
+of these connections is at the same time the answer to the question: where is the bridge
+between old and new culture, between the old and the new Russian literature?
+Finally the last paper gives a short outline of Tolstoy’s influence on Western
+literature, discusses how Tolstoy came to be a figure of international stature and
+attempts to define the social and artistic significance of his influence on world literature.
+This paper, too, is an attack on the reactionary conception of Russian realism, but an
+attack which also marshals allies: it shows how the finest German, French, English and
+American writers opposed such reactionary distortions, and fought for a correct understanding of Tolstoy and of Russian literature. The reader will see from this that the
+opinions put forward in this book are not the idle speculations of a solitary and isolated
+writer but a world-wide trend of thought constantly gaining in strength.    
+
+In the remarks about method the social tendencies underlying the essays have been
+strongly stressed and their significance could scarcely be exaggerated. Nevertheless the
+main emphasis in these papers is on the æsthetic, not the social, analysis; investigation of
+the social foundations is only a means to the complete grasp of the æsthetic character of
+Russian classical realism. This point of view is not an invention of the author. Russian
+literature owed its influence not only to its new social and human content but chiefly to
+the fact of being a really great literature. For this reason it is not enough to eradicate the
+old firmly-rooted false notions regarding its historical and social foundations; it is also
+necessary to draw the literary and æsthetic conclusions from the correct evaluation of
+these social and historical foundations. Only then can it be understood why great
+Russian realism has played a leading part in world literature for three quarters of a
+century and has been a beacon of progress and an effective weapon in the struggle
+against open and covert literary reaction and against the decadence masquerading as
+innovation.    
+
+Only if we have a correct æsthetic conception of the essence of Russian classical
+realism can we see clearly the social and even political importance of its past and future
+fructifying influence on literature. With the collapse and eradication of Fascism a new
+life has begun for every liberated people. Literature has a great part to play in solving
+the new tasks imposed by the new life in every country. If literature is really to fulfil this
+role, a role dictated by history, there must be as a natural prerequisite, a philosophical
+and political rebirth of the writers who produce it. But although this is an indispensable
+prerequisite, it is not enough. It is not only the opinions that must change, but the whole emotional world of men; and the most effective propagandists of the new, liberating,
+democratic feeling are the men of letters. The great lesson to be learnt from the Russian
+development is precisely the extent to which a great realist literature can fructifyingly
+educate the people and transform public opinion. But such results can be achieved only
+by a truly great, profound and all-embracing realism. Hence, if literature is to be a
+potent factor of national rebirth, it must itself be reborn in its purely literary, formal,
+æsthetic aspects as well. It must break with reactionary, conservative traditions which
+hamper it and resist the seeping-in of decadent influences which lead into a blind alley.
+In these respects the Russian writers’ attitude to life and literature is exemplary, and
+for this, if for no other, reason it is most important to destroy the generally accepted
+reactionary evaluation of Tolstoy, and, together with the elimination of such false ideas,
+to understand the human roots of his literary greatness. And what is most important of
+all; to show how such greatness comes from the human and artistic identification of the
+writer with some broad popular movement. It matters little in this connection what
+popular movement it is in which the writer finds this link between himself and the
+masses; that Tolstoy sinks his roots into the mass of the Russian peasantry, and Gorki of
+the industrial workers and landless peasants. For both of them were to the bottom of
+their souls bound up with the movements seeking the liberation of the people and
+struggling for it. The result of such a close link in the cultural and literary sphere was
+then and is today that the writer can overcome his isolation, his relegation to the role of
+a mere observer, to which he would otherwise be driven by the present state of capitalist
+society. He thus becomes able to take up a free, unbiassed, critical attitude towards those
+tendencies of present-day culture which are unfavourable to art and literature. To fight
+against such tendencies by purely artistic methods, by the mere formal use of new forms,
+is a hopeless undertaking, as the tragic fate of the great writers of the West in the course
+of the last century clearly shows. A close link with a mass movement struggling for the
+emancipation of the common people does, on the other hand, provide the writer with
+the broader viewpoint, with the fructifying subject-matter from which a true artist can
+develop the effective artistic forms which are commensurate with the requirements of
+the age, even if they go against the superficial artistic fashions of the day.
+These very sketchy remarks were required before we could express our final conclusion. Never in all its history did mankind so urgently require a realist literature as it does
+to-day. And perhaps never before have the traditions of great realism been so deeply
+buried under a rubble of social and artistic prejudice. It is for this reason that we
+consider a revaluation of Tolstoy and Balzac so important. Not as if we wished to set
+them up as models to be imitated by the writers of our day. To set an example means
+only: to help in correctly formulating the task and studying the conditions of a
+successful solution. It was thus that Goethe aided Walter Scott, and Walter Scott
+aided Balzac. But Walter Scott was no more an imitator of Goethe than Balzac was of
+Scott. The practical road to a solution for the writer lies in an ardent love of the people,
+a deep hatred of the people’s enemies and the people’s own errors, the inexorable
+uncovering of truth and reality, together with an unshakable faith in the march of
+mankind and their own people towards a better future.    
+
+There is today in the world a general desire for a literature which could penetrate
+with its beam deep into the tangled jungle of our time. A great realist literature could
+play the leading part, hitherto always denied to it, in the democratic rebirth of nations. If in this connection we evoke Balzac in opposition to Zola and his school, we believe
+that we are helping to combat the sociological and æsthetical prejudices which have
+prevented many gifted authors from giving their best to mankind. We know the potent
+social forces which have held back the development of both writers and literature: a
+quarter-century of reactionary obscurantism which finally twisted itself into the diabolical grimace of the Fascist abomination.   
+
+Political and social liberation from these forces is already an accomplished fact, but
+the thinking of the great masses is still bedevilled by the fog of reactionary ideas which
+prevents them from seeing clearly. This difficult and dangerous situation puts a heavy
+responsibility on the men of letters. But it is not enough for a writer to see clearly in
+matters political and social. To see clearly in matters of literature is no less indispensable and it is to the solution of these problems that this book hopes to bring its
+contribution.  
+
