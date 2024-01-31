@@ -14,7 +14,8 @@ famous people. Rossini crowned a brilliant operatic career with William Tell and
 almost nothing for the next thirty-five years. Dorothy Sayers abandoned Lord Peter Wimsey
 at the height of his popularity and turned instead to God. Charles Darwin developed a radical
 theory of evolution in 1838 and published it twenty-one years later only because A. R.
-Wallace was about to scoop him.   
+Wallace was about to scoop him.  
+
 Five years with nature aboard the Beagle destroyed Darwin’s faith in the fixity of species.
 In July, 1837, shortly after the voyage, he started his first notebook on “transmutation.”
 Already convinced that evolution had occurred, Darwin sought a theory to explain its
@@ -35,11 +36,13 @@ not been able to identify an agent for natural selection. If all creatures produ
 offspring than could possibly survive, then natural selection would direct evolution under the
 simple assumption that survivors, on the average, are better adapted to prevailing conditions
 of life.   
+
 Darwin knew what he had achieved. We cannot attribute his delay to any lack of
 appreciation for the magnitude of his accomplishment. In 1842 and again in 1844 he wrote
 out preliminary sketches of his theory and its implications. He also left strict instructions with
 his wife to publish these alone of his manuscripts if he should die before writing his major
 work.    
+
 Why then did he wait for more than twenty years to publish his theory? True, the pace of
 our lives today has accelerated so rapidly—leaving among its victims the art of conversation
 and the game of baseball—that we may mistake a normal period of the past for a large slice
@@ -52,6 +55,7 @@ the constraints of objective data. Thus, Darwin waited twenty years—so the usu
 runs—simply because he had not completed his work. He was satisfied with his theory, but
 theory is cheap. He was determined not to publish until he had amassed an overwhelming
 dossier of data in its support, and this took time.    
+
 But Darwin’s activities during the twenty years in question display the inadequacy of this
 traditional view. In particular, he devoted eight full years to writing four large volumes on the
 taxonomy and natural history of barnacles. Before this single fact, the traditionalists can only
@@ -79,6 +83,7 @@ cannot be a major part of the solution; for, contrary to popular belief, evoluti
 common heresy during the first half of the nineteenth century. It was widely and openly
 discussed, opposed, to be sure, by a large majority, but admitted or at least considered by
 most of the great naturalists.     
+
 An extraordinary pair of Darwin’s early notebooks may contain the answer (see H. E.
 Gruber and P. H. Barrett, Darwin on Man, for text and extensive commentary). These socalled M and N notebooks were written in 1838 and 1839, while Darwin was compiling the transmutation notebooks that formed the basis for his sketches of 1842 and 1844. They
 contain his thoughts on philosophy, esthetics, psychology, and anthropology. On rereading
@@ -107,6 +112,7 @@ evolutionists spoke of vital forces, directed history, organic striving, and the
 irreducibility of mind—a panoply of concepts that traditional Christianity could accept in
 compromise, for they permitted a Christian God to work by evolution instead of creation.
 Darwin spoke only of random variation and natural selection.    
+
 In the notebooks Darwin resolutely applied his materialistic theory of evolution to all
 phenomena of life, including what he termed “the citadel itself”—the human mind. And if
 mind has no real existence beyond the brain, can God be anything more than an illusion
@@ -181,7 +187,4 @@ shall the potential of mind cease to inspire our awe and fear because several bi
 reside in our skulls?  
 
 [^1]: "The Bear" refers to the constellation of Ursa major (the Great Bear), better known to us by its tail and hindquarters---the big dipper. "Thrice great Hermes" is Hermes Trismegistus (a Greek name for Thoth, Egyptian god of wisdom). The "hermetic books," supposedly authored by Thoth, are a collection of metaphysical and magical works that exerted great influence in seventeenth century England. They were equated by some with the Old Testament as a parallel source of pre-Christian wisdom. They waned in importance when exposed as a product of Alexandrian Greece, but survive in various doctrines of the Rosicrucians, and in our phrase "hermetic seal."    
-
-
-
 
