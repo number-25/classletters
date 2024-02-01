@@ -7,16 +7,6 @@ tags: ["biology", "evolution", "darwinism", "marx", "gould", "materialism"]
 draft: false
 ---
 
-> Aside from the wonderful historical reflections, Gould's mention of Arthur
-Koestler stands out. Koestler's campaign against Darwinism-materialism was new
-to me (I don't know too much detail about him clearly). What was on my radar
-though, was Koestler's role as a "Cultural Cold Warrior" -- one doesn't need
-to do a world of research to get an idea of his role in the Congress of
-Cultural Freedom, the early CIA and anticommunist initiatives of the 20th
-Century. One has to wonder about the various ways that an opposition to
-materialism and the refutation of communism (patently materialist) interweave
-in ones stance. -- <cite> Dejan </cite>  
-
 # Darwin's Delay
 
 Few events inspire more speculation than long and unexplained pauses in the activities of
