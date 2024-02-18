@@ -127,7 +127,8 @@ had no practical use – it’s fearsomely fuel inefficient, produces little pow
 and has to be refilled with water (that then has to be heated again from room
 temperature to enable operation).
 
-![aeolipile](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-5.png?w=471&ssl=1 "Via Wikipedia, an illustration of the ancient aeolipile, an early use of steam to create reciprocal motion. Apart from the use of steam pressure, the aeolipile shares very little in common with practical steam engine designs and the need to continually refill and heat the water reservoir would have limited its utility in any case.") 
+![aeolipile](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-5.png?w=471&ssl=1) 
+<figcaption>Via Wikipedia, an illustration of the ancient aeolipile, an early use of steam to create reciprocal motion. Apart from the use of steam pressure, the aeolipile shares very little in common with practical steam engine designs and the need to continually refill and heat the water reservoir would have limited its utility in any case.</figcaption> 
 
 So what was needed was not merely the *idea* of using steam, but also a design which could actually function in a specific use case.
 In practice that meant both a design that was far more efficient (though still
@@ -146,13 +147,13 @@ all sorts of limitations: the power it could produce was limited to atmospheric
 pressure, the motion it created was jerky rather than smooth and most
 importantly it was hideously fuel inefficient.   
 
-![newcomens](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-1.png?w=366&ssl=1
-"Via Wikipedia, a diagram of Newcomen’s atmospheric steam engine. The boiler
+![newcomens](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-1.png?w=366&ssl=1)
+<figcaption>Via Wikipedia, a diagram of Newcomen’s atmospheric steam engine. The boiler
 (A) produces steam at relatively low pressures which push up the piston (D).
 When the cylinder (B) is full, cold water from a reservoir (L) is sprayed into
 the cylinder, condensing the steam in the cylinder and creating a partial
 vacuum.  This causes atmospheric pressure to push down the piston, which then
-pulls down on the fulcrum (F-H), creating reciprocal motion.") 
+pulls down on the fulcrum (F-H), creating reciprocal motion.</figcaption> 
 
 Now that design would be
 iterated on subsequently to produce smoother, more powerful and more efficient
@@ -213,14 +214,15 @@ but we still need something for those engines to do to encourage further
 development. In particular we need a part of the economy where getting a lot of
 rotational motion is the major production bottleneck.
 
-![large steam engine](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-4.png?w=1024&ssl=1 "Via Wikipedia, a late version of Watt’s final steam engine design. Watt made a
+![large steam engine](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-4.png?w=1024&ssl=1) 
+<figcaption>Via Wikipedia, a late version of Watt’s final steam engine design. Watt made a
 number of improvements to the Newcomen engine, adding a separate condenser to
 allow the cylinder itself to remain hot, including a vacuum jacket around it to
 limit the energy loss from heat loss and eventually introducing a double-action
 where the piston was pushed by steam pressure in both directions, enabling a
 stronger and smoother stroke, along with gearing that allowed the reciprocal
 motion of the piston to be translated into the rotational motion necessary for
-most tasks.") 
+most tasks.</figcaption> 
 
 You may be thinking that agriculture and milling grain is the
 answer here but with watermills and windmills, the bottleneck on grain
@@ -262,9 +264,10 @@ primarily suited for commercial production in a centralized location (where the
 expensive and not at all portable spinning jennies were). The main limit on the
 design was the power that a human could provide with the hand-crank.
 
-![massive spinner](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-2.png?w=698&ssl=1 "Via Wikipedia, a diagram of a spinning jenny, with a hand crank (B) that can be
+![massive spinner](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-2.png?w=698&ssl=1)
+<figcaption>Via Wikipedia, a diagram of a spinning jenny, with a hand crank (B) that can be
 used to turn multiple spools at once, multiplying the efficiency of the
-spinner.")
+spinner.</figcaption>
 
 And now, at last, the pieces in place the revolution in production
 arrives. There a machine (the spinning jenny) which needs more power in
@@ -282,14 +285,15 @@ infinite amounts (just keep adding engines!) to run an equally arbitrary,
 effectively infinite amount of mechanical spinning jennies, managed now by a
 workforce a fraction of a size of what would have once been necessary.
 
-![looms](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-3.png?resize=1024%2C733&ssl=1 "Via Wikipedia Commons, a photo from the Library of Congress showing how many
+![looms](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-3.png?resize=1024%2C733&ssl=1)
+<figcaption>Via Wikipedia Commons, a photo from the Library of Congress showing how many
 spinning ‘mules’ could be connected via an overhead shaft to a single large
 source of rotational motion, like a steam engine, allowing truly massive
 amounts of thread to be spun at once by a much smaller work force (in this case
 smaller in more than one way; this picture was taken as part of the records of
 the National Child Labor Committee, an example of boys (center) working in
 textile mills. The work could be dangerous as there were few safety systems in
-place).")  
+place).</figcaption>  
 
 The tremendous economic opportunity this created in turn incentivized
 the production of better steam engines and the application of those engines to
@@ -411,7 +415,8 @@ contexts at greater rates, suggesting that even the lower (non-slave, an
 important caveat for this period) classes have greater access to these things.
 
 
-![shipwrecks](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/02/Shipwreck-Chart.png?w=988&ssl=1 "Shipwrecks (and by implication, shipping volume) in the Mediterranean 1500 BC
+![shipwrecks](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/02/Shipwreck-Chart.png?w=988&ssl=1) 
+<figcaption>Shipwrecks (and by implication, shipping volume) in the Mediterranean 1500 BC
 to 1500 AD. As the volume of shipping grew, it would have been easier for
 farmers to trust markets to provide essentials from other parts of the
 Mediterranean and thus for some regional specialization to emerge, resulting in
@@ -420,7 +425,7 @@ where the wares of production centers in North Africa and Spain are detectable
 (because they traveled in ceramic vessels that survive) as far away as Britain.
 Graph after Fig. 2.5 from A. Wilson, “Developments in Mediterranean shipping
 and maritime trade from the Hellenistic period to AD 1000” in Maritime
-Archaeology and Ancient Trade in the Mediterranean (2011).")  
+Archaeology and Ancient Trade in the Mediterranean (2011).</figcaption>  
 
 Second, the
 interconnectedness the Roman Empire created also encouraged the spread of
