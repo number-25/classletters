@@ -1,0 +1,523 @@
+---
+title: "Why no Roman Industrial Revolution? by Bret Devereaux"
+date: 2024-02-08T23:20:45Z
+author: "<no value>"
+type: "post"
+tags: ["political economy", "rome", "antiquity", "mode of production", "industrial revolution"]
+draft: false
+---
+
+Original at https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/ . Linked to it via Paul Cockshott.      
+
+
+## The Question
+
+That said this is a question that is not absurd a priori. As we’ll see, the
+Roman Empire was never close to an industrial revolution – a great many of the
+preconditions were missing – but the idea that it might have been on the cusp
+of being something like a modern economy did once have its day in the
+scholarship. As I’ve mentioned before, the dominant feature of the historical
+debate among scholars about the shape of the Roman economy is between
+‘modernists’ who argue the Roman economy is relatively more like a modern
+economy (meaning both that it was relatively more prosperous than other ancient
+economies but also that the Romans themselves maintained a more modern,
+familiar outlook towards money, investment and production) and ‘primitivsts’
+who argue that actually the Roman economy was quite primitive, less prosperous
+and with the Romans themselves holding attitudes about the economy quite alien
+to our own. But here we need to get into a bit more specificity because beneath
+that quick description it is necessary to separate what we might call the ‘old
+modernists’ and the ‘new modernists.’
+
+The ‘old modernist’ view of the Roman economy ran essentially from the 1910s to
+the publication of Moses Finley’s [The Ancient Economy (1973)](https://en.wikipedia.org/wiki/The_Ancient_Economy) which fairly
+decisively put an end to this view of the ancient world; the major ‘old
+modernist’ scholars were [Teney Frank](https://en.wikipedia.org/wiki/Tenney_Frank) and [Michael Rostovtzeff](https://en.wikipedia.org/wiki/Michael_Rostovtzeff). In many ways
+Frank and Rostovtzeff were blazing a trail, some of the first to attempt really
+systematic study of the Roman economy drawing on the complete range of sources
+(which the increasingly interconnected world of the 1800s and 1900s made
+possible). The late 1800s and early 1900s are full of studies like this: the
+first efforts to pull together everything and then comprehensively assess
+topics often in massive and magisterial multi-volume works (e.g. [Beloch](https://en.wikipedia.org/wiki/Karl_Julius_Beloch) on
+ancient demography, [Mommsen](https://en.wikipedia.org/wiki/Theodor_Mommsen) on the structure of the Roman state and law). Those
+grand magisterial studies then go on to form the foundation for later
+scholarship, though this is often in the form of later scholars pointing out
+all of the ways that those grand magisterial studies were wrong.
+
+**Frank and Rostovtzeff’s works form the necessary foundation for everything that
+followed but they both fell into versions of essentially the same mistake of
+assuming that Roman social and cultural systems largely mirrored their own**.
+This is an easy mistake to make generally but it must have been an especially
+easy mistake to make in societies that were only starting to industrialize and
+so still had a lot of old agrarian social structures; great landholders in
+their manors with their tenants (think *Downton Abbey*) and household servants
+must have seemed very much like the Roman elite indeed. And the anxiety of
+those great landholders facing an upwardly mobile class whose wealth didn’t
+come from land must also have seemed very familiar too; Rostovtzeff especially
+reads this sort of proto-capitalist orientation into the Roman *equites*[^1]. And so
+both Frank and Rostovtzeff assumed the Romans thought about money, profit,
+finance, wealth and even progress mostly the way they did. The picture that
+emerged from those assumptions was exactly the sort that prompts this question:
+Rome as a highly advanced agrarian economy, growing in wealth and even
+potentially in the early stages of that wild capitalist[^2] economic takeoff –
+except that it never quite got there. Needless to say that vision enhanced the
+apparent bitterness of Rome’s decline.
+
+Finley’s The Ancient Economy (1973) essentially detonated a bomb in that sort
+of scholarship and created a clear break between those ‘old modernists’ and the
+‘new modernists’ who are ascendant in the scholarship today. Finley[^3] sought to
+demonstrate that the ancient economy was not ‘proto-capitalist’ in its
+orientation but rather a decidedly alien economy where economic relations were
+structured by status, legally enforced class and slavery more than money or
+profit. While Finley’s school of thought (the ‘primitivists’) have largely lost
+the argument post-1990 or so, the ‘new modernists’ that won it would hardly
+contend that the Roman economy was very much like the Europe of the 1600s and
+the 1700s, verging into modernity. Instead they stress that Rome, while it was
+a *complex* agrarian economy, was nevertheless still a fundamentally agrarian
+economy, which in turn demanded different mindsets, [risk calculations](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/) and so
+on[^4].
+
+The thing is, **being a particularly complex or efficient agrarian economy
+doesn’t seem to have been the most important thing for producing the industrial
+revolution** or it almost certainly would have happened earlier and probably not
+in Europe.
+
+So let’s look at what the industrial revolution was.
+
+## The Industrial Revolution
+The first key is understanding that **the industrial revolution was more than
+simply an increase in economic production**. Modest increases in economic
+production are, after all, possible in agrarian economies. Instead, the
+industrial revolution was about accessing *entirely new sources of energy* for
+broad use in the economy, thus drastically increasing the amount of power
+available for human use. **The industrial revolution thus represents not merely a
+change in quantity, but a change in kind from what we might call an ‘organic’
+economy to a ‘mineral’ economy**[^5]. Consequently, I’d argue, the industrial
+revolution represents probably just the second time in human history that as a
+species we’ve undergone a radical change in our production; the first being the
+development of agriculture in the Neolithic period.
+
+However, unlike farming [which developed independently in many places at
+different times](https://acoup.blog/2020/01/17/collections-the-fremen-mirage-part-i-war-at-the-dawn-of-civilization/), **the industrial revolution happened largely in one *place*, once
+and then spread out from there**, largely because the world of the 1700s AD was
+much more interconnected than the world of c. 12,000BP (‘before present,’ a
+marker we sometimes use for the very deep past). Consequently while we have
+many examples of the emergence of farming and from there the development of
+complex agrarian economies, we really only have one ‘pristine’ example of an
+industrial revolution. It’s possible that it could have occurred with different
+technologies and resources, though I have to admit I haven’t seen a plausible
+alternative development that doesn’t just take the same technologies and
+systems and put them *somewhere else*.
+
+Now we can’t cover the *entire* industrial revolution with all of its complex
+moving parts but we can briefly go over the core of it to get a sense of the
+key ingredients. Fundamentally this is a story about **coal, steam engines,
+textile manufacture and above all the harnessing of a new source of energy in
+the economy**. That’s not the whole story, by any means, but it is one of the
+most important through-lines and will serve to demonstrate the point.
+
+The specificity matters here because **each innovation in the chain required not
+merely the discovery of the *principle*, but also the design and an economically
+viable use-case to all line up in order to have impact**. The steam engine is an
+excellent example of this problem. Early tinkering with the idea of using heat
+to create steam to power rotary motion – the core function of a steam-engine –
+go all the way back to Vitruvius (c. 80 BC -15 AD) and Heron of Alexandria (c.
+10-70 AD). With the benefit of hindsight we can see they were tinkering with an
+importance principle but the devices they actually produced – the [aeolipile](https://en.wikipedia.org/wiki/Aeolipile) –
+had no practical use – it’s fearsomely fuel inefficient, produces little power
+and has to be refilled with water (that then has to be heated again from room
+temperature to enable operation).
+
+![aeolipile](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-5.png?w=471&ssl=1 "Via Wikipedia, an illustration of the ancient aeolipile, an early use of steam to create reciprocal motion. Apart from the use of steam pressure, the aeolipile shares very little in common with practical steam engine designs and the need to continually refill and heat the water reservoir would have limited its utility in any case.") 
+
+So what was needed was not merely the *idea* of using steam, but also a design which could actually function in a specific use case.
+In practice that meant both a design that was far more efficient (though still
+wildly inefficient) and a use case that could tolerate the inevitable
+inadequacies of the 1.0 version of the device. The first design to actually
+square this circle was [Thomas Newcomen’s atmospheric steam engine (1712)](https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine). The
+basic principle here is that you have a boiler at the bottom connected to a
+cylinder with a piston; a valve opens which admits steam from the boiler into
+the piston; the steam is at very low pressure, so a weight on the arm helps
+pull the piston up. When the piston reaches the top, another valve opens and
+sprays water into the cylinder, condensing the steam (by cooling it) and
+creating a low pressure zone so that atmospheric pressure pushes the cylinder
+down; in this basic design it is the down-stroke that is the ‘power stroke.’
+Though a substantial improvement on previous efforts, the Newcomen engine had
+all sorts of limitations: the power it could produce was limited to atmospheric
+pressure, the motion it created was jerky rather than smooth and most
+importantly it was hideously fuel inefficient.   
+
+![newcomens](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-1.png?w=366&ssl=1
+"Via Wikipedia, a diagram of Newcomen’s atmospheric steam engine. The boiler
+(A) produces steam at relatively low pressures which push up the piston (D).
+When the cylinder (B) is full, cold water from a reservoir (L) is sprayed into
+the cylinder, condensing the steam in the cylinder and creating a partial
+vacuum.  This causes atmospheric pressure to push down the piston, which then
+pulls down on the fulcrum (F-H), creating reciprocal motion.") 
+
+Now that design would be
+iterated on subsequently to produce smoother, more powerful and more efficient
+engines, but for that iteration to happen someone needs to be using it, meaning
+there needs to be a use-case for repetitive motion at modest-but-significant
+power in an environment where fuel is *extremely cheap* so that the inefficiency
+of the engine didn’t make it a worse option than simply having a whole bunch of
+burly fellows (or draft animals) do the job. As we’ll see, this was a use-case
+that didn’t really exist in the ancient world and indeed existed almost nowhere
+but Britain even in the period where it worked.
+
+But **fortunately for Newcomen the use case did exist at that moment: pumping
+water out of coal mines**. Of course a mine that runs below the local water-table
+(as most do) is going to naturally fill with water which has to be pumped out
+to enable further mining. Traditionally this was done with muscle power, but as
+mines get deeper the power needed to pump out the water increases (because you
+need enough power to lift all of the water in the pump system in each
+movement); cheaper and more effective pumping mechanisms were thus very
+desirable for mining. But the incentive here can’t just be any sort of mining,
+*it has to be coal mining* because of the inefficiency problem: coal (a fuel you
+can run the engine on) is of course going to be very cheap and abundant
+directly above the mine where it is being produced and **for the atmospheric
+engine to make sense as an investment the fuel must be very cheap indeed**. It
+would not have made economic sense to use an atmospheric steam engine over
+simply adding more muscle if you were mining, say, iron or gold and had to ship
+the fuel in; transportation costs for bulk goods in the pre-railroad world were
+high. And of course trying to run your atmospheric engine off of local timber
+would only work for a very little while before the trees you needed were quite
+far away.
+
+But that in turn requires you to have large coal mines, mining lots of coal
+deep under ground. Which in turn demands that your society has some sort of
+bulk use for coal. But just as the Newcomen Engine needed to out-compete ‘more
+muscle’ to get a foothold, coal has its own competitor: wood and charcoal.
+There is scattered evidence for limited use of coal as a fuel from the ancient
+period in many places in the world, but there needs to be a lot of demand to
+push mines deep to create the demand for pumping. In this regard, the situation
+on Great Britain (the island, specifically) was almost ideal: most of Great
+Britain’s forests seem to have been cleared for agriculture in antiquity; [by
+1000 only about 15% of England (as a geographic sub-unit of the island) was
+forested](https://en.wikipedia.org/wiki/Forestry_in_the_United_Kingdom#Ancient_woodland), a figure which continued to decline rapidly in the centuries that
+followed (down to a low of around 5%). Consequently wood as a heat fuel was
+scarce and so beginning in the 16th century we see a marked shift over to coal
+as a heating fuel for things like cooking and home heating. Fortunately for the
+residents of Great Britain there were surface coal seems in abundance making
+the transition relatively easy; once these were exhausted deep mining followed
+which at last by the late 1600s created the demand for coal-powered pumps
+finally answered effectively in 1712 by Newcomen: a demand for engines to power
+pumps in an environment where fuel efficiency mattered little[^6].    
+
+With a use-case in place, these early steam engines continue to be refined to
+make them more powerful, more fuel efficient and capable of producing smooth
+rotational motion out of their initially jerky reciprocal motions, culminating
+in James Watt’s steam engine in 1776. But so far all we’ve done is gotten very
+good and pumping out coal mines – that has in turn created steam engines that
+are now fuel efficient enough to be set up in places that are not coal mines,
+but we still need something for those engines to do to encourage further
+development. In particular we need a part of the economy where getting a lot of
+rotational motion is the major production bottleneck.
+
+![large steam engine](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-4.png?w=1024&ssl=1 "Via Wikipedia, a late version of Watt’s final steam engine design. Watt made a
+number of improvements to the Newcomen engine, adding a separate condenser to
+allow the cylinder itself to remain hot, including a vacuum jacket around it to
+limit the energy loss from heat loss and eventually introducing a double-action
+where the piston was pushed by steam pressure in both directions, enabling a
+stronger and smoother stroke, along with gearing that allowed the reciprocal
+motion of the piston to be translated into the rotational motion necessary for
+most tasks.") 
+
+You may be thinking that agriculture and milling grain is the
+answer here but with watermills and windmills, the bottleneck on grain
+production is farming, not milling; a single miller with a decent mill can mill
+all of the grain from many farmers, after all. That’s not to say mechanized
+grain milling couldn’t realize gains, just that they were slight. No, it is the
+other half of the traditional agrarian economy: textiles. You will recall that
+the major production bottleneck, [consuming 80% or more of the time intensity of
+textile production](https://acoup.blog/2021/03/19/collections-clothing-how-did-they-make-it-part-iii-spin-me-right-round/) (not including fiber production), is spinning the fibers
+into thread – a process which relies on lots of rotational motion (as the name
+implies). And indeed, in the 1700s, further improvements in looms ([the flying
+shuttle](https://en.wikipedia.org/wiki/Flying_shuttle) had intensified this bottleneck by making weaving progressively more
+efficient.
+
+And yet again we have serendipity because Great Britain was the major center of
+textile production for much of the world. Through the Middle Ages, [the movement
+of wool textiles was one of the most important trade systems in Europe](https://acoup.blog/2021/04/09/collections-clothing-how-did-they-make-it-part-ivb-cloth-money/): wool
+produced in Scotland and Wales was moved to England where it was turned into
+thread and then cloth and then sent to the Low Countries to be dyed before
+using Europe’s river systems to reach consumers all over the place. European
+imperialism had only intensified this system because British conquests in India
+had directed massive amounts of cotton into this same system alongside the
+wool.
+
+But there is another key step necessary here: the steam engine produces
+rotational motion and the spinning process requires rotational motion but you
+also need a machine capable of turning lots of rotational motion into real
+efficiency gains for spinning. Prior to the 1760s, no such machine really
+existed. Since the Middle Ages you had the spinning wheel, but applying a lot
+of energy to a spinning wheel isn’t going to help – the spinner is still only
+managing a single thread. Still the pressure to produce spinning technology
+that could match the efficiency gains of the flying shuttle was on and in 1765
+it resulted in the spinning jenny, developed by James Hargreaves. The spinning
+jenny allowed a single spinner to manage multiple spools at once using a
+hand-crank. Unlike the spinning wheel, which could be a household tool (and
+thus before 1765, most spinning was still literally ‘cottage’ industry, farmed
+out to many, many spinners each working in their homes), the spinning jenny was
+primarily suited for commercial production in a centralized location (where the
+expensive and not at all portable spinning jennies were). The main limit on the
+design was the power that a human could provide with the hand-crank.
+
+![massive spinner](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-2.png?w=698&ssl=1 "Via Wikipedia, a diagram of a spinning jenny, with a hand crank (B) that can be
+used to turn multiple spools at once, multiplying the efficiency of the
+spinner.")
+
+And now, at last, the pieces in place the revolution in production
+arrives. There a machine (the spinning jenny) which needs more power in
+rotational motion and already encourages the machines to be centralized into a
+single location; the design is such that in theory one could put an infinite
+number of spools in a line if you had sufficient rotational energy to spin them
+all. Realizing this, textile manufacturers (we’re talking about factory owners,
+at this point) first use watermills, but there are only so many places in Great
+Britain suitable for a watermill and a windmill won’t do – the power needs to
+be steady and regular, things which the wind is not. But the developments of
+increasingly efficient steam engines used in the coal mines now collide with
+the developments in textiles: a sophisticated steam engine like the Watt engine
+could provide steady, smooth rotational motion in arbitrary, effectively
+infinite amounts (just keep adding engines!) to run an equally arbitrary,
+effectively infinite amount of mechanical spinning jennies, managed now by a
+workforce a fraction of a size of what would have once been necessary.
+
+![looms](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-3.png?resize=1024%2C733&ssl=1 "Via Wikipedia Commons, a photo from the Library of Congress showing how many
+spinning ‘mules’ could be connected via an overhead shaft to a single large
+source of rotational motion, like a steam engine, allowing truly massive
+amounts of thread to be spun at once by a much smaller work force (in this case
+smaller in more than one way; this picture was taken as part of the records of
+the National Child Labor Committee, an example of boys (center) working in
+textile mills. The work could be dangerous as there were few safety systems in
+place).")  
+
+The tremendous economic opportunity this created in turn incentivized
+the production of better steam engines and the application of those engines to
+other kinds of production; there is a whole additional story of how the
+development of the steam engine interacts with the development of new
+artillery-production methods (both relying on the production of strong,
+standardized pressure-containing cylinders). All of those use-cases push steam
+engines to become smaller, more fuel efficient and more powerful, which in turn
+increases the number of tasks they can be put to. Eventually in the 1800s,
+these engines get small enough and fuel efficient enough to be able to move
+their own fuel over water or rails, collapsing the prohibitive transportation
+costs that defined pre-industrial economies and in the process breaking the
+tyranny of the [wagon equation](https://acoup.blog/2022/07/15/collections-logistics-how-did-they-do-it-part-i-the-problem/), decisively transforming warfare in ways that
+would [not be fully appreciated until 1914](https://acoup.blog/2021/09/17/collections-no-mans-land-part-i-the-trench-stalemate/).
+
+But the technology could not jump straight to railroads and steam ships because
+the first steam engines were nowhere near that powerful or efficient: creating
+steam engines that could drive trains and ships (and thus could move
+themselves) requires decades of development where existing technology and
+economic needs created very valuable niches for the technology at each stage.
+It is particularly remarkable here how much of these conditions are unique to
+Britain: it has to be coal, coal has to have massive economic demand (to create
+the demand for pumping water out of coal mines) and then there needs to be
+massive demand for spinning (so you need a huge textile export industry fueled
+both by domestic wool production and the cotton spoils of empire) and a device
+to manage the conversion of rotational energy into spun thread. I’ve left this
+bit out for space, but you also need a major incentive for the design of
+pressure-cylinders (which, in the event, was the demand for better siege
+cannon) because of how that dovetails with developing better cylinders for
+steam engines.
+
+## Why Not in Rome?  
+Putting it that way, understanding why these processes did
+not happen in the Roman world is actually quite easy: none of these precursors
+were in place. The Romans made some use of mineral coal as a heating element or
+fuel, but it was decidedly secondary to their use of wood and where necessary
+charcoal. The Romans used rotational energy via watermills to mill grain, but
+not to spin thread. Even if they had the spinning wheel (and they didn’t;
+they’re still spinning with drop spindles), the standard Mediterranean period
+loom, the warp-weighted loom, was roughly an order of magnitude less efficient
+than the flying shuttle loom, so the Roman economy couldn’t have handled all of
+the thread the spinning wheel could produce.
+
+And of course the Romans had put functionally no effort into figuring out how
+to make efficient pressure-cylinders, because they had absolutely no use for
+them. Remember that by the time Newcomen is designing his steam engine, the
+kings and parliaments of Europe have been effectively obsessed with who could
+build the best pressure-cylinder (and then plug it at one end, making a cannon)
+for three centuries because success in war depended in part on having the best
+cannon. If you had given the Romans the designs for a Newcomen steam engine,
+they couldn’t have built it without developing whole new technologies for the
+purpose (or casting every part in bronze, which introduces its own problems)
+and then wouldn’t have had any profitable use to put it to.
+
+All of which is why simple graphs of things like ‘global historical GDP’ can be
+a bit deceptive: there’s a lot of particularity beneath the basic statistics of
+production because technologies are contingent and path dependent. Now all of
+that said I want to reiterate that the industrial revolution only happened once
+in one place so may well could have happened somewhere else in a different way
+with different preconditions; we’ll never really know because our one
+industrial revolution spread over the whole globe before any other industrial
+revolutions happened. But we can still note that the required precursors for
+the one sample we have didn’t exist in the Roman economy.
+
+But then that raises, I think, another question with how we think about
+economies in the past: if it wasn’t on the cusp of a revolution, what made the
+Roman economy unusual?
+
+## The Nature of the Roman Economy Broadly speaking we can think about human
+production as fitting into three major types: non-agrarian hunter-gatherer
+societies, agrarian and pastoral societies, and finally industrial societies.
+The first merely harvests what the environment already provides, while agrarian
+and pastoral societies actively reshape local ecology to make it provide more.
+Yet both are ‘organic’ economies in that nearly all of the energy they use
+(with a few, largely marginal exceptions) is provided by muscle power which in
+turn derives from food consumption which in turn derives, ultimately, from
+solar energy and photosynthesis. Industrial economies, by contrast, derive the
+majority of the energy they use from sources other than muscle power –
+initially chemical reactions (burning coal and other fossil fuels) and later
+nuclear power, solar, etc.
+
+The point is that these systems are not merely different in degrees, but
+*different in kind*, functioning on a very different basis with different
+potential avenues for growth in production. In an industrial economy, there are
+many new potential sources of energy which can be harnessed for production,
+whereas in an organic economy inputs are functionally limited to the land. New
+land can be brought under cultivation (or cultivated more intensively) of
+course, but marginal gains decrease rapidly (because the best land is
+cultivated first and because adding more labor to already cultivated land,
+while it can increase harvests, is less efficient than cultivating new land)
+and there is a fairly hard ceiling on total production of this sort that was,
+for the most part, fairly low.
+
+Nevertheless there is room in an organic economy for small sorts of
+efficiencies that can collectively add up to greater economic output, albeit
+not on anything like the scale of increasing output in an industrial economy.
+[We’ve actually talked about some of this before](https://acoup.blog/2022/02/11/collections-rome-decline-and-fall-part-iii-things/). The summarize, it is broadly
+supposed by historians that the Roman economy (particularly c. 100 BC – 200 AD
+or so) was remarkably productive for an organic economy enabling a relatively
+high general standard of living for an organic economy. How does that happen?
+We think there are a few favors that led the Roman economy to perform better.
+
+First, the Roman Empire as a result of its conquests created a linguistic,
+customs and monetary union over the whole Mediterranean, which was kept
+relatively free of things like pirates and bandits. Each of these changes made
+markets more reliable and efficient, which in turn could mean that a larger
+proportion of farmers could specialize their farming output (with elite estates
+probably leading the way), resulting in higher total output as the market
+supplanted [safety-through-diversity farming strategies](https://acoup.blog/2020/07/24/collections-bread-how-did-they-make-it-part-i-farmers/) common in agricultural
+economies with low degrees of farming integration. That greater output then
+enables the economy to support more specialized workers with high productivity
+making non-agricultural goods which thus become more common and eventually
+affordable by the farmers. We can see these processes only imperfectly, but
+archaeological evidence in the early empire seems increasingly to indicate
+there was meaningful regional specialization (most visible with olive oil
+because of how it was transported), suggesting these processes were at work.
+Likewise, we see specialized non-agricultural goods showing up in non-elite
+contexts at greater rates, suggesting that even the lower (non-slave, an
+important caveat for this period) classes have greater access to these things.
+
+
+![shipwrecks](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/02/Shipwreck-Chart.png?w=988&ssl=1 "Shipwrecks (and by implication, shipping volume) in the Mediterranean 1500 BC
+to 1500 AD. As the volume of shipping grew, it would have been easier for
+farmers to trust markets to provide essentials from other parts of the
+Mediterranean and thus for some regional specialization to emerge, resulting in
+overall gains in productivity. We see this clearest in olive oil production,
+where the wares of production centers in North Africa and Spain are detectable
+(because they traveled in ceramic vessels that survive) as far away as Britain.
+Graph after Fig. 2.5 from A. Wilson, “Developments in Mediterranean shipping
+and maritime trade from the Hellenistic period to AD 1000” in Maritime
+Archaeology and Ancient Trade in the Mediterranean (2011).")  
+
+Second, the
+interconnectedness the Roman Empire created also encouraged the spread of
+innovations in production, both agricultural and non-agricultural, things like
+watermills for the grinding of grain, new more effective presses for olives,
+higher quality metal-working and so on. We can map these innovations only
+imperfectly, [but once again archaeology is slowly filling in a picture where
+the movement of these ideas was significant](https://www.jstor.org/stable/2599464). Once again I want to note these
+technologies were not revolutionary but evolutionary and often what was
+changing was not their existence but their distribution: ideas that had been
+‘stuck’ in one corner or other of the empire can suddenly spread out over those
+more interconnected lines of trade.
+
+Finally we also have evidence (albeit somewhat more tricky) that the period
+also sees the accumulation of productive capital, plausibly encouraged by the
+relative stability and peace the Roman Empire created with in its borders. Diet
+indicators and midden remains indicate that there’s more meat being eaten,
+indicates a greater availability of animals which may include draft animals
+(for pulling plows) and must necessarily include manure, [both products of
+animal ‘capital’ which can improve farming outputs](https://acoup.blog/2020/07/31/collections-bread-how-did-they-make-it-part-ii-big-farms/). Of course many of the
+innovations above feed into this: stability makes it more sensible to invest in
+things like new mills or presses which need to be used for a while for the
+small efficiency gains to outweigh the cost of putting them up, but once up the
+labor savings result in more overall production.
+
+But the key here is that none of these processes inches this system closer to
+the key sets of conditions that formed the foundation of the industrial
+revolution. Instead, they are all about wringing efficiencies out the same set
+of organic energy sources with small admixtures of hydro- (watermills) or
+wind-power (sailing ships); mostly wringing more production out of the same set
+of energy inputs rather than adding new energy inputs. **It is a more efficient
+organic economy, but still an organic economy, no closer to being an industrial
+economy for its efficiency**, much like how realizing design efficiencies in an
+(unmotorized) bicycle does not bring it any closer to being a motorcycle; you
+are still stuck with the limits of the energy that can be applied by two legs.
+
+As a result, the ingredients for the ‘take-off’ of the industrial revolution
+(which involves adding more energy to the economy on a per capita basis) aren’t
+there. While the Romans are coming up with clever ways to drain deep mines
+(mostly mining for precious metals; deep shaft mining for tool metals mostly
+seems like it wasn’t done. Probably it wasn’t generally economical), they
+aren’t doing this at coal mines (because they don’t use much coal, though they
+do use some), which means they don’t have the neat coincidence of abundant fuel
+in a place that needs pumping which gave rise to the first practical steam
+engines. They also lack the metallurgical capacity to easily build such engines
+and even if they had them they lack very many industries prepared to be
+revolutionized by cheap reciprocal or rotational energy (remember, they’re only
+in the slow beginnings of the process of switching to watermills from
+muscle-powered mills).
+
+Instead the Roman economy **essentially moved from a ‘low equilibrium’ organic
+economy** (that is stable at low efficiency, with little specialized farming
+production and very limited agricultural capital being used) to a **‘high
+equilibrium’ organic economy** (that is stable at higher efficiency due to
+markets encouraging specialized production and more agricultural capital). We
+cannot be sure exactly the scale of production growth that movement entailed;
+some estimates put it around 25% but these are very speculative; in practice we
+really don’t know. Just as the political conditions provided the ‘push’ to move
+the economy from one stable position to the other, [political collapse seems to
+have moved the Roman economy right back down](https://acoup.blog/2022/02/11/collections-rome-decline-and-fall-part-iii-things/). Roman economic growth, because it
+was a product of institutions instead of technologies, was not durable in the
+face of those institutions collapsing.
+
+**In my view the key takeaway here is just how contingent the industrial
+revolution was**: the industrial revolution that occured required a number of
+very specific pre-conditions which were really on true on Great Britain in that
+period. It is not clear to me that there is a plausible and equally viable
+alternative path from an organic economy to an industrial one that doesn’t
+initially use coal (much easier to gather in large quantities and process for
+use than other fossil fuels) and which does not gain traction by transforming
+textile production (which, as [we’ve discussed](https://acoup.blog/2021/03/05/collections-clothing-how-did-they-make-it-part-i-high-fiber/), was a huge portion of
+non-agricultural production in organic economies), though equally I cannot rule
+such alternatives out.
+
+Much of history ends up this way. As much as we might want to imagine that the
+greater currents push historical events largely on a predetermined path with
+but minor variations from what must always have been, in practice events are
+tremendously contingent on unpredictable variables. If Spain or Portugal, for
+instance, rather than Britain, had ended up controlling India, would the flow
+of cotton have been diverted to places where coal usage was not common, cheap
+and abundant, thereby separating the early steam-powered mine pumps both from
+the industry they could first revolutionize and also from the vast wealth
+necessary to support that process (much less if no European power had ever come
+to dominate the Indian subcontinent)? This question, like so many
+counter-factuals, is fundamentally unanswerable but useful for illustrating the
+deeply contingent nature of historical events in a way that data (like the
+charts of global GDP over centuries) can sometimes fail to capture.
+
+[^1]: Historians these days generally reject this pattern of thought which sought to reframe historical systems in the context of modern systems. Perhaps unsurprisingly the scholarship of the early and mid-1900s on labor and the economy in the ancient world was heavily inflected by Marxist historical and economic theory, either by historians who were themselves Marxists (Finley but also G.E.M. de Ste. Croix (fl. 1954-1981) or who were reacting violently against Marxist thought – Rostovtzeff, who fled his native Russia after the Russian revolution, being the obvious example here. These days historians tend to be quite skeptic of ‘grand narratives’ of this sort, generally contending that the particulars of time and place overwhelm the superficial commonalities upon which such grand narratives rely.
+
+[^2]: Emphasized more by Frank and Rostovtzeff than industrial production.
+
+[^3]: Drawing himself on the work of Max Weber and Karl Polanyi
+
+[^4]: In particular a great many of the essential ‘bricks’ of Finley’s argument have collapsed. Finley argued against trade in bulk staples, a position sustainable in 1973 but not today due to archaeological evidence. Likewise, Finley’s argument that the Romans couldn’t do sophisticated accounting has crumbled as more evidence for Roman finance has emerged. In many cases it has become clear that what Finley viewed as a general ancient aversion to profit-making, careful accounting and market interactions was in fact just the snobbery of our sources (landed elites for whom a more sophisticated economy created as much competition as it did opportunity) adopting a pose of disdainful moralism; as our evidence has improved it seems increasingly clear that this was a facade even among the elite
+
+[^5]: Terminology here borrowed from E.A. Wrigley, Continuity, Chance and Change (1988).
+
+[^6]: Likewise the earliest steam engine locomotives were first used in coalmines for two decades (1804 – 1825 or so) before they became efficient enough for general use.    
+
