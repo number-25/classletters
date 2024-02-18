@@ -127,8 +127,8 @@ had no practical use – it’s fearsomely fuel inefficient, produces little pow
 and has to be refilled with water (that then has to be heated again from room
 temperature to enable operation).
 
-![aeolipile](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-5.png?w=471&ssl=1) 
-<figcaption>Via Wikipedia, an illustration of the ancient aeolipile, an early use of steam to create reciprocal motion. Apart from the use of steam pressure, the aeolipile shares very little in common with practical steam engine designs and the need to continually refill and heat the water reservoir would have limited its utility in any case.</figcaption> 
+![aeolipile](https://i0.wp.com/acoup.blog/wp-content/uploads/2022/08/image-5.png?w=471&ssl=1)
+*Via Wikipedia, an illustration of the ancient aeolipile, an early use of steam to create reciprocal motion. Apart from the use of steam pressure, the aeolipile shares very little in common with practical steam engine designs and the need to continually refill and heat the water reservoir would have limited its utility in any case.*  
 
 So what was needed was not merely the *idea* of using steam, but also a design which could actually function in a specific use case.
 In practice that meant both a design that was far more efficient (though still
