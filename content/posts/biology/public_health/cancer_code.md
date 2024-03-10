@@ -143,7 +143,7 @@ tumor, but surviving cancer depends almost entirely upon stopping
 metastasis, a fundamentally different beast (see Figure 9.1). Just because an
 outcome is easily measurable does not make it meaningful. 
 
-<insert picture here after we sftp it in> - will be located in a separate directory as per hugo recommendations> 
+![Figure 1. Illusion of benefit when outcomes are unchanged.](/root/Hugo/classletters/resources/_gen/images/Cancer_code_Pt1_fig1.png)
 
 Size is only a single factor contributing to a tumor’s overall deadliness,
 and arguably, it is one of the least important. Cancer becomes more lethal
@@ -315,10 +315,9 @@ are marginally effective yet fantastically expensive. Benefits are borderline,
 toxicity is high, and cost is higher still. The drugs weren’t particularly useful,
 but they were particularly profitable. Lack of new drugs, the use of surrogate
 outcomes, and sky-high-but-still-rising prices: that’s how you lose the war on
-cancer. But the day is always darkest just before the dawn
+cancer. But the day is always darkest just before the dawn. 
 
-
-Notes   
+Notes
 [^1]: H. Bower et al., “Life Expectancy of Patients with Chronic Myeloid Leukemia Approaches the
 Life Expectancy of the General Population,” Journal of Clinical Oncology 34, no. 24 (August 20,
 2016): 2851–57, doi: 10.1200/JCO.2015.66.2866.   
@@ -423,6 +422,4 @@ Journal of Clinical Oncology 33, no. 32 (November 10, 2015): 3727–32, doi:
 Costs,” JAMA Oncology 1, no. 4 (2015): 539–40.
 [^42]: Lorie Konish, “This Is the Real Reason Most Americans File for Bankruptcy,” CNBC, February 11,
 2019, https://www.cnbc.com/2019/02/11/this-is-the-real-reason-most-americans-file-for-
-bankruptcy.html
-
-
+bankruptcy.html  
