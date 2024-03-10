@@ -4,7 +4,7 @@ date: 2024-02-18T23:41:44Z
 author: "<no value>"
 type: "post"
 tags: ["medicine", "pharma", "capitalism", "neoliberalism", "health", "public health"]
-draft: true
+draft: false
 ---
 
 This post will be in two parts, both of which I find are illustrative of the
