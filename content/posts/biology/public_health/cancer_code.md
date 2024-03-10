@@ -144,7 +144,7 @@ metastasis, a fundamentally different beast (see Figure 9.1). Just because an
 outcome is easily measurable does not make it meaningful. 
 
 
-{{< figure src="/assets/Cancer_code_Pt1_fig1.png" title="Figure 1. Illusion of benefit when outcomes are unchanged." >}}    
+{{< figure src="Cancer_code_Pt1_fig1.png" title="Figure 1. Illusion of benefit when outcomes are unchanged." >}}    
 ![Figure 1. Illusion of benefit when outcomes are unchanged.](/assets/Cancer_code_Pt1_fig1.png)   
 
 Size is only a single factor contributing to a tumor’s overall deadliness,
