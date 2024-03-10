@@ -143,10 +143,8 @@ tumor, but surviving cancer depends almost entirely upon stopping
 metastasis, a fundamentally different beast (see Figure 9.1). Just because an
 outcome is easily measurable does not make it meaningful. 
 
-
-{{< figure src="/Cancer_code_Pt1_fig1.png" title="Figure 1. Illusion of benefit when outcomes are unchanged." >}}    
-![Figure 1. Illusion of benefit when outcomes are unchanged.](/Cancer_code_Pt1_fig1.png)
-
+![Figure 1.](/Cancer_code_Pt1_fig1.png)
+*Illusion of benefit when outcomes are unchanged.*
 
 Size is only a single factor contributing to a tumor’s overall deadliness,
 and arguably, it is one of the least important. Cancer becomes more lethal
