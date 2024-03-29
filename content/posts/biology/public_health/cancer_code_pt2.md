@@ -1,6 +1,6 @@
 ---
 title: "Cancer Prevention and Screening by Jason Fung; The Cancer Code"
-date: 2024-02-18T23:41:44Z
+date: 2024-03-28T23:41:44Z
 author: "<no value>"
 type: "post"
 tags: ["medicine", "pharma", "capitalism", "neoliberalism", "health", "public health"]
@@ -20,8 +20,6 @@ terrific work of 'popular' scientific writing, a story as much about
 the biology of Cancer as it is about the sociology of biomedical practice and
 research.
 
-Form of the figure
-#{{< figure src="/Cancer_code_Pt1_fig1.png" title="Illusion of benefit when outcomes are unchanged." >}}
 --------------------------------------------------------------------------- 
 
 # Prevention and Screening 
@@ -50,7 +48,7 @@ steadily by 27 percent in the twenty-five years to 2016, due mostly to the
 reduction in lung cancer deaths thanks to the increased regulation of the
 tobacco industry and effective antismoking campaigns.
 
-{{< figure src="./cancer_code/Figure_1" title="Figure 1." >}}
+{{< figure src="/cancer_code/Figure_1" title="Figure 1." >}}
 
 Figure 21.2
 
