@@ -48,7 +48,7 @@ steadily by 27 percent in the twenty-five years to 2016, due mostly to the
 reduction in lung cancer deaths thanks to the increased regulation of the
 tobacco industry and effective antismoking campaigns.
 
-{{< figure src="/cancer_code/Figure_1" title="Figure 1." >}}
+{{< figure src="cancer_code/Figure_1" title="Figure 1." >}}
 
 Figure 21.2
 
