@@ -22,7 +22,7 @@ research.
 
 --------------------------------------------------------------------------- 
 
-# A false dawn 
+# A False Dawn 
 Imatanib, the first drug of the age of personalized, precision cancer
 medicine, was a true game changer. With its introduction, a patient suffering
 from chronic myelogenous leukemia (CML) could reasonably expect to live
@@ -317,7 +317,7 @@ but they were particularly profitable. Lack of new drugs, the use of surrogate
 outcomes, and sky-high-but-still-rising prices: that’s how you lose the war on
 cancer. But the day is always darkest just before the dawn. 
 
-Notes
+## Notes
 [^1]: H. Bower et al., “Life Expectancy of Patients with Chronic Myeloid Leukemia Approaches the
 Life Expectancy of the General Population,” Journal of Clinical Oncology 34, no. 24 (August 20,
 2016): 2851–57, doi: 10.1200/JCO.2015.66.2866.   

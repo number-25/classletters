@@ -9,9 +9,9 @@ draft: false
 
 This is part 2 of the post on Jason Fung's 'Cancer Code'. I found this a
 remarkable case point in the iatrogenic potential of public health
-interventions in which the effect on mortality is masked by an early surrogate
-of survival; early detection. One tracked for long enough time, early detection
-does more harm than good, and thus, fails as a successful surrogate.  You can
+interventions in which the effect on mortality is masked by a surrogate
+of survival; early detection. When tracked for long enough time, early detection
+does more harm than good, and thus, fails as a successful surrogate. You can
 find part one
 [here](https://classletters.org/posts/biology/public_health/cancer_code/).   
 
@@ -50,7 +50,7 @@ tobacco industry and effective antismoking campaigns.
 
 {{< figure src="../Figure_1" title="Figure 1." >}}
 
-Figure 21.2
+{{< figure src="../Figure_2" title="Figure 2." >}}
 
 Prevention is the surest route to defeating cancer and is responsible for
 this significant victory in the reduction in lung cancer deaths. The popularity
@@ -86,7 +86,7 @@ chronic irritation caused by tobacco smoke causes at least twelve other
 cancers and increases the risk of heart disease, stroke, and chronic lung
 disease.[^7] 
 
-Figure 21.3 
+{{< figure src="../Figure_3" title="Figure 3." >}}
 
 Lung cancer was still responsible for most cancer deaths in 2019, for
 both men and women, although the numbers are dropping significantly. There
@@ -143,8 +143,7 @@ screening has reduced late-stage disease, but in the latter three cases
 (prostate, esophageal, and pancreatic cancer) it has not, and that makes all
 the difference in the world.    
 
-American Cancer Society, Facts & Figures, 2019.
-Figure 4
+{{< figure src="../Figure_4" title="Figure 4: American Cancer Society, Facts & Figures, 2019" >}}
 
 ## Cervical Cancer
 
@@ -265,7 +264,7 @@ concluded that it provided no overall benefit in preventing breast cancer
 deaths.[^22] How could that be possible? But the Cochrane Library was not
 alone in its doubts.   
 
-Figure 5
+{{< figure src="../Figure_5" title="Figure 5.">}}
 
 In 2014, the Swiss Medical Board noted how “non-obvious it was that
 the benefits outweighed the harms.”[^23] It was not immediately apparent to
@@ -290,7 +289,7 @@ woman “survived” cancer for nine years, whereas the second “survived”
 cancer for only five years. Screening improved cancer survival by an
 apparent four years, but this is only an illusion.   
 
-Figure 6
+{{< figure src="../Figure_6" title="Figure 6.">}}
 
 The second problem is a methodologic issue. Many screening programs
 declare themselves a success by reducing cancer deaths rather than overall
@@ -314,7 +313,7 @@ catching and treating the disease early should reduce the amount of breast
 cancer diagnosed at a late stage. But it didn’t. The rate of late-stage cancer
 decreased by only a minuscule 8 percent.    
 
-Figure 7
+{{< figure src="../Figure_7" title="Figure 7.">}}
 
 Late-stage disease is highly lethal, whereas early-stage disease is highly
 curable. The early-stage cases being detected were unlikely to progress to
@@ -332,7 +331,7 @@ larger tumor to metastasis. Therefore, virtually each small precancerous
 lesion detected and treated was one fewer late-stage cancer in the future. But
 breast cancer works differently.
 
-Figure 8
+{{< figure src="../Figure_8" title="Figure 8.">}}
 
 The evolutionary model of cancer can help us understand why removing
 small cancers does not reduce the incidence of fully matured cancers. Cancer
@@ -370,7 +369,7 @@ has been well established that women testing positive on mammography
 suffer psychological problems and poor quality of life, even up to three years
 after screening.   
 
-Figure 9
+{{< figure src="../Figure_9" title="Figure 9.">}}
 
 The majority of breast cancers diagnosed from mammogram screening
 are classified as ductal carcinoma in situ (DCIS), a very early stage of
@@ -416,7 +415,6 @@ meant that fifteen men out of one hundred had levels higher than 4.0 ng/mL
 and would undergo further prostate biopsy, of which between four and five
 would be diagnosed with aggressive prostate cancer.[^30]   
 
-
 Enthusiasm for PSA-based screening exploded in the 1990s and 2000s.
 More than twenty million tests were performed each year, and more early
 prostate cancer was diagnosed than ever. In 1986, fewer than one third of
@@ -452,7 +450,7 @@ with mammography, overdiagnosis is a major problem. Men diagnosed with
 prostate cancer are more likely to have a heart attack or commit suicide in
 the year after diagnosis.[^35]      
 
-Figure 10
+{{< figure src="../Figure_10" title="Figure 10.">}}
 
 In 2012, the USPSTF recommended against PSA-based screening, noting
 with moderate certainty that the benefits do not outweigh the harms. In 2018,
@@ -481,7 +479,7 @@ This treatment was not without consequences. There was an 11 percent risk
 of reduced parathyroid function and a 2 percent risk of paralysis of the vocal
 cords due to nerve damage.   
 
-Figure 11
+{{< figure src="../Figure_11" title="Figure 11.">}}
 
 Despite this intensive effort to eradicate early-stage thyroid cancer, the
 risk of death from thyroid cancer was virtually unchanged. Simply put, it was
@@ -502,7 +500,7 @@ precancerous stage to small tumor to large tumor to metastasis, screening
 succeeds (see Figure 12). Screening to remove early cancers prevents the
 development of late cancers, and this saves lives.    
 
-Figure 12
+{{< figure src="../Figure_12" title="Figure 12.">}}
 
 But if removal of early-stage cancer does not reduce late-stage cancer,
 screening is unsuccessful, and overdiagnosis becomes a problem. Not every
@@ -541,7 +539,6 @@ agencies are beginning to scale back on the amount of screening they
 recommend.   
 
 ## Notes
-Chapter 21: Cancer Prevention and Screening
 [^1]: E. S. Ford et al., “Explaining the Decrease in U.S. Deaths from Coronary Disease, 1980–2000,”
 New England Journal of Medicine 356, no. 23 (2007): 2388–98
 [^2]: H. K. Weir et al., “Heart Disease and Cancer Deaths: Trends and Projections in the United States,
