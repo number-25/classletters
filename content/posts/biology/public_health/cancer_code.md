@@ -16,7 +16,7 @@ benevolent in intention -- something that all states irrespective of political
 structure must address. Part one is contained below, you can find part two (here)[]
 
 I encourage everyone to read the entirety of Jason's "The Cancer Code". It's a
-terrific work of 'popular' scientific writing, it's story is as much about
+terrific work of 'popular' scientific writing, as much about
 the biology of Cancer as it is about the sociology of biomedical practice and
 research.
 
