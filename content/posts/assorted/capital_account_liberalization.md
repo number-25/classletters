@@ -10,18 +10,20 @@ draft: true
 In looking to imagine and crystallise potential alternatives to the seemingly
 unending vortex of underdevelopment and poverty in third and second world
 nations, an understanding of the deficiencies and insufficiencies of the current
-macroeconomic arrangement becomes imperative. The post-Bretton Woods monetary
-consensus, which promised to - particularly prone are developing nations, themselves
+macroeconomic arrangement becomes imperative - is a reasonable/obvious starting point. The post-Bretton Woods monetary
+consensus, which promised to guarantee mutual 'real growth' through endless liberalization of domestic markets, has in whole been failure. - particularly prone are developing nations, themselves
 going through what seems like, an eternity of ceaseless - based on, we do know - at the mercy of commodities swings and speculative exuberance (rather than being delinked and liberated  
 there is another way - so what gives? What shall we do once we take control of
 these responsibilities? Let us start. 
 I cannot be the only one who has wondered about the continual crises ,
-  after-all, these countries are adhering to the 'democratic consensus' of
-  political republicanism, with open markets, open economies, 
+after-all, these countries are adhering to the 'democratic consensus' of
+political republicanism, with open markets, open economies, 
+
+reliance on powerful players - receiving loans for debts only to import commodities for - culminating in an obvious slow death, entire generations of livelihoods destroyed.     
 
 leaving the whole-scale characterisation of imperialism and neocolonialism to the side for a moment
 
-The following is an excerpt of an academic work by Economist José Antonio Ocampo, an open-access work which can be freely accessed [here](https://x.com/agent_of_change/status/1788318137420509283).  
+The following is an excerpt of an academic work by Economist José Antonio Ocampo, an open-access work which can be freely accessed [here](https://fdslive.oup.com/www.oup.com/academic/pdf/openaccess/9780198718116.pdf).     
 
 # Effects of Capital Account Liberalization 
 
@@ -308,4 +310,54 @@ have access to the associated government programmes and services during
 crises; government services may themselves lose human and organizational
 capital, which generates long-term losses in terms of efficiency and effectiveness. In turn, stop-and-go public-sector investment policies might leave some
 projects (e.g. roads) unfinished, at least for several years, increasing the cost
-and reducing the productivity of public-sector investment (Ocampo 2003b).     
+and reducing the productivity of public-sector investment (Ocampo 2003b).    
+
+# References 
+
+BIS (2009). Capital Flows and Emerging Markets. Report of the Committee on the Global
+Financial System. CGFS Papers No. 33, January.    
+
+Dodd, R. (2008). ‘Consequences of Liberalizating Derivative Markets’. In J.A. Ocampo
+and J.E. Stiglitz (eds), Capital Markets Liberalization and Development. New York:
+Oxford University Press, chapter 11.   
+
+Jeanne, O., A. Subramanian, and J. Williamson (2012). Who Needs to Open the Capital
+Account? Washington, DC: Peterson Institute for International Economics.   
+
+Kaminsky, G.L., C.M. Reinhart, and C.A. Végh (2004). ‘When It Rains, It Pours: Procyclical Capital Flows and Macroeconomic Policies’. NBER Working Paper 10780,
+September. Cambridge, MA: National Bureau of Economic Research. Available at:
+http://www.nber.org/chapters/c6668.pdf (accessed 22 February 2017).   
+
+Minsky, H.P. (1982). Can ‘It’ Happen Again?: Essays on Instability and Finance. Armonk,
+NY: M.E. Sharpe.   
+
+Ocampo, J.A. (2003b). ‘Developing Countries’ Anti-Cyclical Policies in a Globalized
+World’. In A. Dutt and J. Ros (eds), Development Economics and Structuralist Macroeconomics: Essays in Honour of Lance Taylor. Aldershot: Edward Elgar, pp. 374–405.   
+
+Persaud, A. (2000). Sending the Herd off the Cliff Edge: The Disturbing Interaction between
+Herding and Market-sensitive Risk Management Practices. London: State Street Bank.
+Available at: http://www.bis.org/publ/bppdf/bispap02l.pdf (accessed 22 February 2017).   
+
+Prasad, E.S., R.R. Rajan, and A. Subramanian (2007). ‘Foreign Capital and Economic
+Growth’. Brooking Papers on Economic Activity, 38(1)(Spring): 153–230.    
+
+Prasad, E.S., K. Rogoff, S.-J. Wei, and M. Ayhan Kose (2003). ‘Effects of Financial
+Globalization on Developing Countries: Some Empirical Evidence’. Occasional
+Paper 220. Washington, DC: International Monetary Fund.   
+
+Rodrik, D., and A. Velasco (2000). ‘Short-Term Capital Flows’. In B. Pleskovic and
+J. E. Stiglitz (eds), Annual World Bank Conference on Development Economics 1999.
+Washington, DC: World Bank, chapter 5.   
+
+Schmukler, S.L. (2008). ‘The Benefits and Risks of Financial Globalization’. In
+J. A. Ocampo and J.E. Stiglitz (eds) (2008), Capital Account Liberalization and Development. New York: Oxford University Press, chapter 2.   
+
+Stiglitz, J.E. (2008). ‘Capital Market Liberalization, Globalization, and the IMF’. In
+J. A. Ocampo and J.E. Stiglitz (eds) (2008), Capital Account Liberalization and Development. New York: Oxford University Press, chapter 3e.   
+
+White, W.R. (2005). ‘Procyclicality in the Financial System: Do We Need a New Macrofinancial Stabilization Framework?’. Kiel Economic Policy Papers, 2. Kiel: Kiel Institute for Economic Policy.   
+
+
+
+
+

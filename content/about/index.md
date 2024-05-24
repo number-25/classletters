@@ -7,9 +7,17 @@ tags: [""]
 draft: false
 ---
 
-A - socialist~communist 
+Class Letters seeks to be a regularly updated feed of articles, unified by the
+goal of building a socialist~communist consciousness, itself thereafter seeking
+a real body politic. 
 
-Inspired greatly by the Red Sails - and the straight forward Adolph Reed Jr. 
+Alongside more clearly defined political and philosophical texts, Class Letters
+incorporates works from different scientific, and health fields, bound by the
+commitment that communist work can, and should be scientific. Without a doubt,
+there is a purposeful goal of educating, and the goals of the autodidact are
+encouraged -- we have a reverence for education and it's transformative
+potentials.  
+
+Please reach and if you'd like to contribute in any way: swnt@protonmail.com 
 
 
-Incorporate Scientific, Health alongside more clearly defined political and philosophical texts. Without a doubt, there is a purposive goal of pedagogic, and the goals of the autodidact should be encouraged. 
