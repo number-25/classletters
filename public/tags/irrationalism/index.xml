@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>irrationalism on Class Letters</title>
+    <title>Irrationalism on Class Letters</title>
     <link>https://classletters.org/tags/irrationalism/</link>
-    <description>Recent content in irrationalism on Class Letters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Irrationalism on Class Letters</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Mar 2023 01:59:10 +0000</lastBuildDate><atom:link href="https://classletters.org/tags/irrationalism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Mar 2023 01:59:10 +0000</lastBuildDate>
+    <atom:link href="https://classletters.org/tags/irrationalism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Crisis of Bourgeois Philosophy by György Lukács</title>
       <link>https://classletters.org/posts/lukacs/crisis-of-bourgeois-philosophy/</link>
       <pubDate>Sun, 05 Mar 2023 01:59:10 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/lukacs/crisis-of-bourgeois-philosophy/</guid>
-      <description>Written in 1948.
-The fact of the crisis has been stated not only by us Marxists. The concept of “crisis” has long taken root in bourgeois philosophy. When, for example, Siegfried Marck, a famous neo-Hegelian, wanted to define Rickert’s place in the development of philosophy, he called him a thinker of the “pre-crisis era.” Indeed, if we carefully trace the development of bourgeois philosophy in recent decades, we will see that literally every two years the foundations of philosophy are again and again called into question.</description>
+      <description>Written in 1948.&#xA;The fact of the crisis has been stated not only by us Marxists. The concept of “crisis” has long taken root in bourgeois philosophy. When, for example, Siegfried Marck, a famous neo-Hegelian, wanted to define Rickert’s place in the development of philosophy, he called him a thinker of the “pre-crisis era.” Indeed, if we carefully trace the development of bourgeois philosophy in recent decades, we will see that literally every two years the foundations of philosophy are again and again called into question.</description>
     </item>
-    
   </channel>
 </rss>

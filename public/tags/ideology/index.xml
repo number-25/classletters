@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ideology on Class Letters</title>
+    <title>Ideology on Class Letters</title>
     <link>https://classletters.org/tags/ideology/</link>
-    <description>Recent content in ideology on Class Letters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ideology on Class Letters</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Sep 2023 02:47:39 +0000</lastBuildDate><atom:link href="https://classletters.org/tags/ideology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Sep 2023 02:47:39 +0000</lastBuildDate>
+    <atom:link href="https://classletters.org/tags/ideology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Marx, Race and Neoliberalism by Adolph Reed Jr.</title>
       <link>https://classletters.org/posts/adolph-reed-jr/marx_race_neoliberalism/</link>
       <pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/adolph-reed-jr/marx_race_neoliberalism/</guid>
       <description>A Marxist perspective can be most helpful for understanding race and racism insofar as it per- ceives capitalism dialectically, as a social total- ity that includes modes of production, relations of production, and the pragmatically evolving ensemble of institutions and ideologies that lubricate and propel its reproduction. From this perspective, Marxism’s most important contri- bution to making sense of race and racism in the United States may be demystification. A histori- cal materialist perspective should stress that “race”—which includes “racism,” as one is unthinkable without the other—is a historically specific ideology that emerged, took shape, and has evolved as a constitutive element within a definite set of social relations anchored to a par- ticular system of production.</description>
     </item>
-    
   </channel>
 </rss>

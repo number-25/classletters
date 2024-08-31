@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://classletters.org/</loc>
+    <lastmod>2024-06-29T04:01:32+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/</loc>
+    <lastmod>2024-06-29T04:01:32+00:00</lastmod>
+  </url><url>
     <loc>https://classletters.org/about/</loc>
     <lastmod>2024-05-16T23:03:17+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/assorted/capital_account_liberalization/</loc>
-    <lastmod>2024-05-08T22:34:24+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/</loc>
     <lastmod>2024-05-08T22:34:24+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/development/</loc>
@@ -24,9 +27,6 @@
     <lastmod>2024-05-08T22:34:24+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/political-economy/</loc>
-    <lastmod>2024-05-08T22:34:24+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/posts/</loc>
     <lastmod>2024-05-08T22:34:24+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/</loc>

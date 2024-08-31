@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>anthropology on Class Letters</title>
+    <title>Anthropology on Class Letters</title>
     <link>https://classletters.org/tags/anthropology/</link>
-    <description>Recent content in anthropology on Class Letters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Anthropology on Class Letters</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Jun 2023 05:03:51 +0000</lastBuildDate><atom:link href="https://classletters.org/tags/anthropology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jun 2023 05:03:51 +0000</lastBuildDate>
+    <atom:link href="https://classletters.org/tags/anthropology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conclusion to the Gift by Marcel Mauss</title>
       <link>https://classletters.org/posts/marcel-mauss/conclusion-to-the-gift/</link>
       <pubDate>Sun, 11 Jun 2023 05:03:51 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/marcel-mauss/conclusion-to-the-gift/</guid>
-      <description>The conclusion to Mauss&amp;rsquo;s incredible essay on the uses and concepts of gifts.
-Moral Conclusions It is possible to extend these observations to our own societies. A considerable part of our morality and our lives themselves are still permeated with this same atmosphere of the gift, where obligation and liberty intermingle. Fortunately, everything is still not wholly categorized in terms of buying and selling. Things still have sentimental as well as venal value, assuming values merely of this kind exist.</description>
+      <description>The conclusion to Mauss&amp;rsquo;s incredible essay on the uses and concepts of gifts.&#xA;Moral Conclusions It is possible to extend these observations to our own societies. A considerable part of our morality and our lives themselves are still permeated with this same atmosphere of the gift, where obligation and liberty intermingle. Fortunately, everything is still not wholly categorized in terms of buying and selling. Things still have sentimental as well as venal value, assuming values merely of this kind exist.</description>
     </item>
-    
   </channel>
 </rss>

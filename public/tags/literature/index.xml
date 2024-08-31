@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>literature on Class Letters</title>
+    <title>Literature on Class Letters</title>
     <link>https://classletters.org/tags/literature/</link>
-    <description>Recent content in literature on Class Letters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Literature on Class Letters</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 02:07:16 +0000</lastBuildDate><atom:link href="https://classletters.org/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Sep 2023 02:07:16 +0000</lastBuildDate>
+    <atom:link href="https://classletters.org/tags/literature/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Studies in European Realism by György Lukács</title>
       <link>https://classletters.org/posts/lukacs/studies_in_european_realism/</link>
       <pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/lukacs/studies_in_european_realism/</guid>
       <description>The articles contained in this book were written some ten years ago. Author and reader may well ask why they should be republished just now. At first sight they might seem to lack all topicality. Subject and tone alike may appear remote to a considerable section of public opinion. I believe, however, that they have some topicality in that, without entering upon any detailed polemics, they represent a point of view in opposition to certain literary and philosophical trends still very much to the fore today.</description>
     </item>
-    
     <item>
       <title>Race into Culture: A Critical Genealogy of Cultural Identity by Walter Benn Michaels </title>
       <link>https://classletters.org/posts/walter-benn-michaels/geneology-race-into-culture/</link>
       <pubDate>Wed, 29 Mar 2023 10:59:16 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/walter-benn-michaels/geneology-race-into-culture/</guid>
       <description>Due to the prolific number of footnotes that Michael&amp;rsquo;s article contains, the essay will simply be linked to here. It is an important walk through the trajectories that various essentialist concepts have taken in the course of modern Northern American history. What surprised me most was this quasi-progess &amp;mdash; where it appears that the concept of race has been disposed of, it&amp;rsquo;s kernel is carried over into a different, yet sadly, familial form.</description>
     </item>
-    
     <item>
       <title>Soviet Literature by Maxim Gorky</title>
       <link>https://classletters.org/posts/maxim-gorky/soviet-literature/</link>
       <pubDate>Wed, 22 Mar 2023 08:06:39 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/maxim-gorky/soviet-literature/</guid>
-      <description>Herein is a speech delivered in August 1934, and published in 1935. It reappeared in Gorky, Radek, Bukharin, Zhdanov and others “Soviet Writers’ Congress 1934,” page 25-69, Lawrence &amp;amp; Wishart, 1977, and was transcribed by Jose Braz for the Marxists Internet Archive.
-The role of the labour processes, which have converted a two-Legged animal into man and created the basic elements of culture, has never been investigated as deeply and thoroughly as it deserves.</description>
+      <description>Herein is a speech delivered in August 1934, and published in 1935. It reappeared in Gorky, Radek, Bukharin, Zhdanov and others “Soviet Writers’ Congress 1934,” page 25-69, Lawrence &amp;amp; Wishart, 1977, and was transcribed by Jose Braz for the Marxists Internet Archive.&#xA;The role of the labour processes, which have converted a two-Legged animal into man and created the basic elements of culture, has never been investigated as deeply and thoroughly as it deserves.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>financialisation on Class Letters</title>
+    <title>Financialisation on Class Letters</title>
     <link>https://classletters.org/tags/financialisation/</link>
-    <description>Recent content in financialisation on Class Letters</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Financialisation on Class Letters</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 May 2024 22:34:24 +0000</lastBuildDate><atom:link href="https://classletters.org/tags/financialisation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 May 2024 22:34:24 +0000</lastBuildDate>
+    <atom:link href="https://classletters.org/tags/financialisation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Capital Account Liberalization and the Developing Nations, an excerpt from José Antonio Ocampo</title>
       <link>https://classletters.org/posts/assorted/capital_account_liberalization/</link>
       <pubDate>Wed, 08 May 2024 22:34:24 +0000</pubDate>
-      
       <guid>https://classletters.org/posts/assorted/capital_account_liberalization/</guid>
       <description>In looking to imagine and crystallise potential alternatives to the seemingly unending vortex of underdevelopment and poverty in third and second world nations, an understanding of the deficiencies and insufficiencies of the current macroeconomic arrangement is an obvious starting point. The post-Bretton Woods monetary consensus, which promised to guarantee mutual &amp;lsquo;real growth&amp;rsquo; through endless liberalization of domestic markets and fluctuating exchange rates, has in whole been failure for developing countries. Instead, of self-sufficiency and self-confidence, there isn&amp;rsquo;t even what one one called &amp;lsquo;multi-lateral beneficence&amp;rsquo;, but rather, a reliance and dependency on the most powerful players in the game, at the mercy of commodities swings and speculative exuberance (rather than being &amp;rsquo;liberated&amp;rsquo; and domestically sound, buffered from &amp;lsquo;shocks&amp;rsquo;).</description>
     </item>
-    
   </channel>
 </rss>
