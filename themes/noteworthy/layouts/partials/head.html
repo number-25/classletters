@@ -7,8 +7,10 @@
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <!-- Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ "icons8-hammer-and-sickle-windows-11-color-32.png" | relURL }}">    <!-- used to be called favicon-16x16.png --> 
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ "icons8-hammer-and-sickle-windows-11-color-16.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{
+    "globe_32x32.png" | relURL }}">    <!-- used to be called favicon-16x16.png --> 
+    <link rel="icon" type="image/png" sizes="16x16" href="{{
+    "globe_16x16.png" | relURL }}">
     <link rel="manifest" href="{{ "manifest.json" | relURL }}">
     <link rel="mask-icon" href="{{ "safari-pinned-tab.svg" | relURL }}" color="#FF3DB4">
     <meta name="theme-color" content="#ffffff">
