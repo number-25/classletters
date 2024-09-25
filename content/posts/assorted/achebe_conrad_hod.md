@@ -7,21 +7,20 @@ tags: ["racism", "literature", "colonialism", "imperialism", "congo"]
 draft: false
 ---
 
-In The Fall of 1974 I was walking one day from the English Depart-
-ment at the University of Massachusetts to a parking lot. It was a fine
+In The Fall of 1974 I was walking one day from the English Department at the University of Massachusetts to a parking lot. It was a fine
 autumn morning such as encouraged friendliness to passing strangers. Brisk
 youngsters were hurrying in all directions, many of them obviously freshmen in their first flush of enthusiasm.An older man going the same way as I
 turned and remarked to me how very young they came these days. I agreed.
 Then he asked me if I was a student too. I said, no, I was a teacher.What did
 I teach? African literature. Now that was funny, he said, because he knew a
-fellow who taught the same thing, or perhaps it was African history, in a certain community college not far from here. It always surprised him, he went
+fellow who taught the same thing, or perhaps it was African *history*, in a certain community college not far from here. It always surprised him, he went
 on to say, because he never had thought of Africa as having that kind of
 stuff, you know. By this time I was walking much faster. “Oh well,” I heard
 him say finally, behind me: “I guess I have to take your course to find out.”   
 
 A few weeks later I received two very touching letters from high
 school children in Yonkers, New York, who — bless their teacher — had
-just read Things Fall Apart. One of them was particularly happy to learn
+just read *Things Fall Apart*. One of them was particularly happy to learn
 about the customs and superstitions of an African tribe.   
 
 I propose to draw from these rather trivial encounters rather heavy
@@ -219,7 +218,7 @@ thus far served them for speech suddenly proved inadequate for Conrad’s purpos
 their hearts.Weighing the necessity for consistency in the portrayal of the
 dumb brutes against the sensational advantages of securing their conviction by clear, unambiguous evidence issuing out of their own mouths,
 Conrad chose the latter. As for the announcement of Mr. Kurtz’s death
-by the “insolent black head in the doorway,” what better or more appropriate finish could be written to the horror story of that wayward child of
+by the “insolent black head in the doorway,” what better or more appropriate *finis* could be written to the horror story of that wayward child of
 civilization who wilfully had given his soul to the powers of darkness and
 “taken a high seat amongst the devils of the land” than the proclamation
 of his physical death by the forces he had joined?
@@ -229,7 +228,7 @@ It might be contended, of course, that the attitude to the African in
 up to irony and criticism. Certainly, Conrad appears to go to considerable pains to set up layers of insulation between himself and the moral
 universe of his story. He has, for example, a narrator behind a narrator.
 The primary narrator is Marlow, but his account is given to us through the filter of a second, shadowy person. But if Conrad’s intention is to
-draw a cordon sanitaire between himself and the moral and psychological malaise of his narrator, his care seems to me totally wasted because he neglects to hint, clearly and adequately, at an alternative frame
+draw a cordon sanitaire between himself and the moral and psychological *malaise* of his narrator, his care seems to me totally wasted because he neglects to hint, clearly and adequately, at an alternative frame
 of reference by which we may judge the actions and opinions of his
 characters. It would not have been beyond Conrad’s power to make
 that provision if he had thought it necessary. Conrad seems to me to
@@ -324,7 +323,7 @@ long black arms”[^13] — as though we might expect a black figure striding
 along on black legs to wave white arms! But so unrelenting is Conrad’s
 obsession.  
 
-As a matter of interest, Conrad gives us in A Personal Record what
+As a matter of interest, Conrad gives us in *A Personal Record* what
 amounts to a companion piece to the buck nigger of Haiti. At the age
 of sixteen Conrad encountered his first Englishman in Europe. He calls
 him “my unforgettable Englishman” and describes him in the following
@@ -406,7 +405,7 @@ But even those not blinkered, like Conrad, with xenophobia can be astonishingly 
 most intrepid travelers of all time, Marco Polo, journeyed to the Far
 East from the Mediterranean in the thirteenth century and spent twenty
 years in the court of Kublai Khan in China. On his return to Venice he
-set down in his book entitled Description of the World his impressions of
+set down in his book entitled *Description of the World* his impressions of
 the peoples and places and customs he had seen. But there were at least
 two extraordinary omissions in his account. He said nothing about the
 art of printing, unknown as yet in Europe but in full flower in China.   
@@ -475,8 +474,8 @@ and India. And this is quite comparable to Conrad’s withholding of language fr
 let’s give them dialects!  
 
 In all this business a lot of violence is inevitably done not only to
-the image of despised peoples but even to words, the very tools of possible redress. Look at the phrase “native language” in the Christian Science
-Monitor excerpt. Surely the only native language possible in London is
+the image of despised peoples but even to words, the very tools of possible redress. Look at the phrase “native language” in the *Christian Science
+Monitor excerpt*. Surely the only *native* language possible in London is
 Cockney English. But our writer means something else — something
 appropriate to the sounds Indians and Africans make!   
 
