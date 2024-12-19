@@ -1,13 +1,11 @@
 ---
-title: "Decision-Making in a good society: The case for nested councils by Stephen R. Shalom"
+title: "Decision-Making in a Good Society: The Case for Nested Councils by Stephen R. Shalom"
 date: 2024-12-09T06:18:49Z
 author: "<no value>"
 type: "post"
 tags: ["Organization", "Capitalism", "Democracy", "Political Theory"]
 draft: false
 ---
-
-# Decision-Making in a Good Society: The Case for Nested Councils by Stephen R. Shalom
 
 Stephen R. Shalom is emeritus professor of Political Science at William Paterson University of New Jersey, USA. He is a member of the editorial board
 of New Politics, and a long-time activist in peace and justice movements.
