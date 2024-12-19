@@ -4,10 +4,10 @@ date: 2024-12-09T06:18:49Z
 author: "<no value>"
 type: "post"
 tags: ["Organization", "Capitalism", "Democracy", "Political Theory"]
-draft: true
+draft: false
 ---
 
-# Decision-Making in a Good Society: The Case for Nested Councils
+# Decision-Making in a Good Society: The Case for Nested Councils by Stephen R. Shalom
 
 Stephen R. Shalom is emeritus professor of Political Science at William Paterson University of New Jersey, USA. He is a member of the editorial board
 of New Politics, and a long-time activist in peace and justice movements.
@@ -15,6 +15,8 @@ Among other works, he is the author of *Which Side Are You On? An Introduction
 to Politics (Longman, 2003)*, "Parpolity: A Political System for a Good Society,"
 in *Real Utopia: Participatory Society for the 21st Century, ed. Chris Spannos, AK
 Press, 2008)* and editor of *Socialist Visions* (South End Press, 1983). 
+
+-------------------------------------------------------------------------
 
 Every society needs some method of decision-making, some kind
 of political system. This is true even for a post-capitalist society,
