@@ -142,7 +142,7 @@ turnout is decreased by 2-3 percent as a result of these laws.[^8]) They can
 purge voter rolls in a partisan way. States that had previously denied
 African Americans the right to vote, disproportionately purged voters at the same rate as other jurisdictions.[^9]
 
-{{< figure src="./Figure_1.png" title="Hypothetical five region voting spread of two parties, with total votes going towards a single party." >}}
+{{< figure src="../Figure_1.png" title="Hypothetical five region voting spread of two parties, with total votes going towards a single party." >}}
 
 If you add up all the Red and Green voters, we have 44 Red voters
 and 56 Green.
@@ -151,7 +151,7 @@ But if each region elects a representative, there will be 3 Reds and 2
 Greens, giving the Reds a 60 percent majority in the legislature.
 
 
-{{< figure src="./Figure_2.png" title="Hypothetical five region voting spread of two parties, with votes from each region electing a representitve." >}}
+{{< figure src="../Figure_2.png" title="Hypothetical five region voting spread of two parties, with votes from each region electing a representitve." >}}
 
 So, the representatives (three out of five, or 60% Red) do not correspond to the population (56% Green).   
 
@@ -161,7 +161,7 @@ candidate, that doesn’t mean that the voter agrees with the candidate
 on every issue. Rather, it means that the voter agrees with the candidate more often than not, or more often than the voter agrees with
 other candidates. Consider then this case, where there are two candidates A and B, 20 voters, and 10 issues.  
 
-{{< figure src="./Figure_3.png" title="Hypothetical voting spread between two candidates with 20 voters on 10 issues." >}}
+{{< figure src="../Figure_3.png" title="Hypothetical voting spread between two candidates with 20 voters on 10 issues." >}}
 
 Voter 1, whose views align perfectly with those of candidate A, will
 obviously choose to vote for candidate A. Likewise, the views of voter
@@ -202,7 +202,7 @@ learn not to invest too much time in learning about issues and not to
 get very excited about the importance of their vote. So, what about direct democracy? 
 
 
-{{< figure src="./Figure_4.png" title="Number of constituents per representative in various countries." >}}
+{{< figure src="../Figure_4.png" title="Number of constituents per representative in various countries." >}}
 
 ## Referendum Democracy 
 
