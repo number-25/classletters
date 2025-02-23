@@ -4,7 +4,7 @@ date: 2025-02-02T01:51:19Z
 author: "<no value>"
 type: "post"
 tags: ["nietzsche", "reactionary", "eugenics", "Darwinism", "Race", "Race-Theory", "Political-Philosophy", "mythology", "irrationalism"]
-draft: true
+draft: false
 ---
 
 Chapter five from *Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain* by Dan Stone. 
