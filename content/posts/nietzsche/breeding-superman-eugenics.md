@@ -699,6 +699,156 @@ problem.
 
 ** change github commit address 
 
-[^1]: 
-
+[^1]: Michael Freeden, ‘Eugenics and Progressive Thought: A Study in Ideological
+Affinity’, The Historical Journal, 22.3, 1979, pp. 645–71; Diane Paul, ‘Eugenics and the
+Left’, Journal of the History of Ideas, 45.4, 1984, pp. 567–90.  
+[^2]: Arthur Schnitzler, *The Road to the Open*, trans. Horace Samuel, Evanston, IL:
+Northwestern University Press, 1991 [1908], p. 347.  
+[^3]: See G. R. Searle, *The Quest for National Efficiency: A Study in British Politics and
+Social Thought*, 1899–1914, Oxford: Basil Blackwell, 1971; David Cesarani, ‘Anti-Alienism in England after the First World War’, *Immigrants and Minorities*, 6.1, 1987,
+pp. 5–29; idem., ‘An Alien Concept? The Continuity of Anti-Alienism in British Society
+Before 1940’, in *The Internment of Aliens in Twentieth Century Britain*, ed. David
+Cesarani and Tony Kushner, London: Frank Cass, 1993, pp. 25–52.  
+[^4]: F. C. S. Schiller, *Tantalus or The Future of Man*, London: Kegan Paul, Trench,
+Trübner and Co., 1924; idem., *Eugenics and Politics*, London: Constable and Co., 1926;
+idem., Social Decay and Eugenical Reform, London: Constable and Co., 1932; William
+Cecil Dampier Whetham and Catherine Dunning Whetham, *The Family and the
+Nation: A Study in National Inheritance and Social Responsibility*, London: Longmans,
+Green, and Co., 1909; idem., ‘Inheritance and Sociology’, The Nineteenth Century, 65,
+January 1909, pp. 74–90; idem., ‘The Extinction of the Upper Classes’, The Nineteenth
+Century, 66, July 1909, pp. 97–108; idem., ‘Decadence and Civilisation’, The Hibbert
+Journal, X.1, October 1911, pp. 179–200; idem., ‘Eminence and Heredity’, The
+Nineteenth Century, 69, May 1911, pp. 818–32; idem., ‘The Influence of Race on
+History’, in Problems in Eugenics: Papers Communicated to the First International Eugenics
+Congress held at the University of London, July 24th to 30th, 1912, London: Eugenics
+Education Society, 1912, vol. I, pp. 237–46; idem., *An Introduction to Eugenics*,
+Cambridge: Bowes and Bowes, 1912; idem., *Heredity and Society*, London: Longmans,
+Green, and Co., 1912, among other works.  
+[^5]: Arthur James Balfour, *Decadence*, Cambridge: Cambridge University Press, 1908;
+G. K. Chesterton, *Eugenics and Other Evils*, London: Cassell and Co., 1922.
+[^6]: C. W. Saleeby, *Parenthood and Race Culture: An Outline of Eugenics*, London:
+Cassell and Co., 1909, pp. viii, ix, xiii.
+[^7]: C. W. Saleeby, *The Methods of Race-Regeneration*, London: Cassell and Co., 1911,
+pp. 8 and 22.
+[^8]: C. W. Saleeby, *The Progress of Eugenics*, London: Cassell and Co., 1914, pp.167–68 and 245. Cf. Saleeby’s comments on Galton’s ideas, cited in ‘Eugenics: Its
+Definition, Scope and Aims’, Sociological Papers, 1905, pp. 82–84.
+[^9]: James Marchant, *Social Hygienics: A New Crusade*, London: Swan Sonnenschein,
+published for the National Social Purity Crusade, 1909, pp. 12 and 54.
+[^10]: James Marchant, *Birth-Rate and Empire*, London: Williams and Norgate, 1917,
+pp. 90, 91, 97, 161–62.    
+[^11]: But see George Stocking, ‘The Persistence of Polygenist Thought in Post-
+Darwinian Anthropology’, in his *Race, Culture, and Evolution: Essays in the History
+of Anthropology*, Chicago: University of Chicago Press, 1968, pp. 42–68 for the reasons
+why not all race-thinking was connected to the development of genetics and eugenics.
+[^12]: Karl Pearson and Margaret Moul, ‘The Problem of Alien Immigration into
+Great Britain, Illustrated by an Examination of Russian and Polish Jewish Children’,
+Annals of Eugenics, 1.1&2, 1925, pp. 126 and 124; Eugenics Society, Memorandum on
+Alien Immigration, typescript, n.d., c.1925; Are You an Englishman? Then Read This!,
+n.p, n.d., c.1925, both in the Eugenics Society Archives, SA/EUG/D.103.
+[^13]: Havelock Ellis, *The Problem of Race-Regeneration*, London: Cassell and Co.,
+1911, p. 69.
+[^14]: Havelock Ellis, *The Task of Social Hygiene*, London: Constable and Co., 1912,
+pp. 21, 24 and 24 n2, 196, and 43.
+[^15]: Anthony M. Ludovici, *Who is to be Master of the World? An Introduction to the
+Philosophy of Friedrich Nietzsche*, London: T. N. Foulis, 1909, p. 187.
+[^16]: Anthony M. Ludovici, *Violence, Sacrifice and War*, London: Holders Press for
+the St James’ Kin of the English Mistery, 1933, pp. 11–12 and 15.
+[^17]: Anthony M. Ludovici, *The False Assumptions of ‘Democracy’*, London: Heath
+Cranton, 1921, p. 204.
+[^18]: Arnold White, *Efficiency and Empire*, London: Methuen and Co., 1901, p. 73.
+This book was extremely influential, being the main text for the ‘national efficiency’
+movement.
+[^19]: Mikulásˇ Teich, ‘The Unmastered Past of Human Genetics’, in *Fin de siècle and
+its Legacy*, ed. Mikulásˇ Teich and Roy Porter, Cambridge: Cambridge University Press, 1990, pp. 306–07.
+[^20]: Francis Galton, *Memories of My Life*, London: Methuen and Co., 1908, p. 323.
+[^21]: See, for example, A. C. Pigou, ‘Some Aspects of the Problem of Charity’, in The
+Heart of the Empire, London, 1901.
+[^22]: Valère Fallon, *Eugenics*, trans. Ernest C. Messenger, London: Burns Oates &
+Washbourne, 1923, pp. 33, 36 and 46. Incidentally, the writings of Fallon and others
+disprove the claim that eugenics and Catholicism are mutually incompatible. See
+www.eugenics-watch.com
+[^23]: See, for example, the debate between Michael Freeden and Greta Jones on the
+influence of eugenics on the left: Michael Freeden, ‘Eugenics and Progressive
+Thought’; Greta Jones, ‘Eugenics and Social Policy between the Wars’, The Historical
+Journal, 25.3, 1982, pp. 717–28; Michael Freeden, ‘Eugenics and Ideology’, The
+Historical Journal, 26.4, 1983, pp. 959–62.
+[^24]: Michael Burleigh, *Death and Deliverance: ‘Euthanasia’ in Germany 1900–1945*,
+Cambridge: Cambridge University Press, 1994, chapter 10, ‘Learning from the Past?
+The Singer Debate’, pp. 291–98.
+[^25]: R. G. Collingwood, ‘Fascism and Nazism’, ‘The Utilitarian Civilisation’, and
+‘The Prussian Philosophy’, all in *Essays in Political Philosophy*, ed. David Boucher,
+Oxford: Clarendon Press, 1989, pp. 187–206; Georges Bataille, ‘The Notion of
+Expenditure’ and ‘The Psychological Structure of Fascism’, in *Visions of Excess: Selected
+Writings 1927–1939*, ed. Allan Stoekl, Minneapolis, MN: University of Minnesota
+Press, 1985, pp. 116–29 and 137–60.
+[^26]: For good introductions to the huge literature, see Benno Müller-Hill, ‘Human
+Genetics and the Mass Murder of Jews, Gypsies, and Others’, in *The Holocaust and
+History: The Known, the Unknown, the Disputed, and the Reexamined*, ed. Michael
+Berenbaum and Abraham J. Peck, Bloomington, IN: Indiana University Press, 1998,
+pp. 103–14; Henry Friedlander, *The Origins of Nazi Genocide: From Euthanasia to the
+Final Solution*, Chapel Hill, NC: University of North Carolina Press, 1995. See also
+Paul Weindling, *Epidemics and Genocide in Eastern Europe*, 1890–1945, Oxford: Oxford
+University Press, 2000.
+[^27]: E. Thomas Wood and Stanisl-aw M. Jankowski, *Karski: How One Man Tried to
+Stop the Holocaust*, New York: John Wiley and Sons, 1994, p. 188.
+[^28]: White, Efficiency and Empire, pp. 116–17. Originally published as ‘The Cult of
+Infirmity’, National Review, XXXIV, October 1899, pp. 236–45, here at p. 243.
+[^29]: Arnold White, *The Views of ‘Vanoc’: An Englishman’s Outlook*, London: Kegan
+Paul, Trench, Trübner, and Co., 1910, pp. 282–83.
+[^30]: A. F. Tredgold, ‘Eugenics and the Future Progress of Man’, Eugenics Review,
+III.2, 1911, p. 100. For one of the more noteworthy attacks on eugenics see ‘The
+Danger of Eugenics’, The Nation, IV.24, 13 March 1909, pp. 886–88.
+[^31]: Saleeby, *The Methods of Race-Regeneration*, pp. 46–47.
+[^32]: Karl Pearson, *The Life, Letters and Labours of Francis Galton. Volume IIIA:
+Correlation, Personal Identification and Eugenics*, Cambridge: Cambridge University
+Press, 1930, p. 427.
+[^33]: Birmingham Post, 4 February 1910. This and all the following newspaper citations are to be found in the Eugenics Society Archive, SA/EUG/N.3 (press cuttings).
+[^34]: Daily Express, 4 March 1910.
+[^35]: The Globe, 4 March 1910; Evening News, 4 March 1910; Illustrated London News,
+12 March 1910.
+[^36]: Yorkshire Daily Post, 8 March 1910. See also the Morning Post, 8 March
+1910.
+[^37]: Daily Sketch, 10 March 1910; Manchester Dispatch, 22 March 1910. On Shaw
+and ‘lethal chambers’ see also G. R. Searle, *Eugenics and Politics in Britain 1900–1914*,
+Leyden: Noordhoff International Publishing, 1976, p. 92.
+[^38]: Mathew Thomson, *The Problem of Mental Deficiency: Eugenics, Democracy, and
+Social Policy in Britain*, c.1870–1959, Oxford: Clarendon Press, 1998, chapter 5.
+[^39]: Saleeby, *The Progress of Eugenics*, p. 155.
+[^40]: W. Duncan McKim, *Heredity and Human Progress*, New York and London: G.
+P. Putnam’s Sons, 1900, p. 188.
+[^41]: Evidence of W. J. H. Brodrick to Association for Moral and Social Hygiene
+Committee of Enquiry into Sexual Morality 1918–19, cited in Roy Porter and Lesley
+Hall, *The Facts of Life: The Creation of Sexual Knowledge in Britain*, 1650–1950, New
+Haven, CT: Yale University Press, 1995, pp. 188–89.
+[^42]: George Bernard Shaw, *Prefaces*, London: Constable and Co., 1934, pp. 296,
+297–98.
+[^43]: Leonard Darwin, *The Need for Eugenic Reform*, London: John Murray, 1926, p.
+171. Cf. p. 184: ‘Certain methods of eliminating inferior types, including the lethal
+chamber and imprisonment, are of course to be unhesitatingly condemned, and all
+methods must be used with great circumspection.’ Darwin recommends ‘conception
+control’ on pp. 179–83.  
+[^44]: Charles Wicksteed Armstrong, *The Survival of the Unfittest*, London: The C. W.
+Daniel Company, 1927, pp. 10–11, 75. Incidentally, on p. 31 of this book, Armstrong
+predicts, with some prescience, a future German invasion, ‘for the Germans are always
+ready to make the most of science for advancing national aims and aspirations, whether
+it be by means of forces destructive in war or constructive in eugenics’.
+[^45]: Richard C. Thurlow, *Fascism in Britain: From Oswald Mosley’s Blackshirts to the
+National Front*, London: I. B. Tauris, 2 nd edn, 1998, p. 49.
+[^46]: Searle, *Eugenics and Politics*, p. 92. Cf. Richard A. Soloway, *Demography and
+Degeneration: Eugenics and the Declining Birthrate in Twentieth-Century Britain*, Chapel
+Hill, NC: University of North Carolina Press, 1990, p. 64.
+[^47]: H. G. Wells, *The Shape of Things to Come: The Ultimate Revolution*, London:
+Everyman, 1993 [1933], pp. 201–02. This book reveals the extent of Wells’s obsession
+with poison gas. His description of the bodies ‘bunched together very curiously in
+heaps, as though their last effort had been to climb on to each other for help. This
+attempt to get close to someone seems to be characteristic of death by this particular
+gas’ (p. 202) can be read alongside testimonies provided by Richard Glazar, Filip
+Müller, Zalman Gradowski, and other members of the Treblinka or Auschwitz
+Sonderkommando. Incidentally, Wells’s rebarbative prescience stretched to the Jews,
+when he wrote that it was ‘quite a probable thing now’ that the Jews would be ‘murdered and exterminated’ and went to say that ‘It is quite possible that the Jewish story
+will end in forcible sterilisation and death.’ See *Travels of a Republican Radical in Search of Hot Water*, Harmondsworth: Penguin, 1939, pp. 60–61.
+[^48]: George L. Mosse, *Toward the Final Solution: A History of European Racism*,
+Madison, WI: University of Wisconsin Press, 2 nd edn, 1985, p. 75.
+[^49]: Anthony M. Ludovici, *Religion for Infidels*, London: Holborn Press, 1961, p. 69.  
+[^50]: Ludovici, *Religion for Infidels*, pp. 83, 128 and 129–30.
 
