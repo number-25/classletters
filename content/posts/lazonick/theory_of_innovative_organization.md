@@ -7,8 +7,8 @@ tags: ["organisation", "markets", "capitalism", "business history", "history", "
 draft: false
 ---
 
-An excerpt from William Lazonick's terrific work "**Business Organization and the
-Myth of the Market Economy**", a book that offers a critique of what a 'market
+An excerpt from William Lazonick's terrific work "*Business Organization and the
+Myth of the Market Economy*", a book that offers a critique of what a 'market
 economy' is purported to be, through an evaluation of the strategies and
 economic histories of businesses within what can be called "actually existing
 capitalism".   
@@ -279,7 +279,7 @@ may create the market conditions that encourage it to turn from innovation to ad
 
 ----------------------------------------------------------------------------------------------
 
-[^1]: Christopher Freeman, **The Economics of Industrial Innovation**, 2d ed. (Cambridge, Mass.: MIT Press, 1982), 148-50
-[^2]: See William Lazonick, **Competitive Advantage on the Shop Floor** (Cambridge, Mass.: Harvard University Press, 1990)  
-[^3]: See Chandler. **Scale and Scope** 
+[^1]: Christopher Freeman, *The Economics of Industrial Innovation*, 2d ed. (Cambridge, Mass.: MIT Press, 1982), 148-50
+[^2]: See William Lazonick, *Competitive Advantage on the Shop Floor* (Cambridge, Mass.: Harvard University Press, 1990)  
+[^3]: See Chandler. *Scale and Scope* 
 [^4]: Schumpeter, "The Creative Response in Economic History."
