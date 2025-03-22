@@ -697,7 +697,7 @@ few among them were so impressed by the results that they could still appeal
 to it after the war as the benchmark by which their own projects of biological regeneration should be judged. The ‘lethal chamber’, though it was realised by the Germans, was, like eugenics in general, certainly also a British
 problem.  
 
-** change github commit address 
+-------------------------------------------------------------------------------------
 
 [^1]: Michael Freeden, ‘Eugenics and Progressive Thought: A Study in Ideological
 Affinity’, The Historical Journal, 22.3, 1979, pp. 645–71; Diane Paul, ‘Eugenics and the
