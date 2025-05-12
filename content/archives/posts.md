@@ -1,7 +1,7 @@
 ---
 title: "Posts Archive"
-layout: archives
+layout: "archives"
 hidden: false
-type: posts
+type: section
 summary: This page contains an archive of all posts.
 ---
