@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://classletters.org/tags/chile/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/assorted/aid_as_imperialism_chile/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/foreign-exchange/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/imf/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/imperialism/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/neoliberalism/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/political-economy/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/</loc>
+    <lastmod>2025-05-11T06:20:02+00:00</lastmod>
+  </url><url>
     <loc>https://classletters.org/tags/business-history/</loc>
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/capitalism/</loc>
-    <lastmod>2025-03-16T21:52:32+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/</loc>
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/development/</loc>
@@ -21,12 +48,6 @@
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/organisation/</loc>
-    <lastmod>2025-03-16T21:52:32+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/posts/</loc>
-    <lastmod>2025-03-16T21:52:32+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/</loc>
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/lazonick/theory_of_innovative_organization/</loc>
@@ -101,9 +122,6 @@
     <loc>https://classletters.org/tags/congo/</loc>
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/tags/imperialism/</loc>
-    <lastmod>2024-09-22T01:58:15+00:00</lastmod>
-  </url><url>
     <loc>https://classletters.org/tags/literature/</loc>
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
@@ -126,15 +144,6 @@
     <lastmod>2024-05-08T22:34:24+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/financialisation/</loc>
-    <lastmod>2024-05-08T22:34:24+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/foreign-exchange/</loc>
-    <lastmod>2024-05-08T22:34:24+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/neoliberalism/</loc>
-    <lastmod>2024-05-08T22:34:24+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/political-economy/</loc>
     <lastmod>2024-05-08T22:34:24+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/biology/public_health/cancer_code/cancer_code_pt2/</loc>
@@ -302,9 +311,6 @@
     <loc>https://classletters.org/posts/assorted/neoliberal-africa-global-practice/</loc>
     <lastmod>2023-04-01T22:51:40+00:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/tags/imf/</loc>
-    <lastmod>2023-04-01T22:51:40+00:00</lastmod>
-  </url><url>
     <loc>https://classletters.org/tags/world-bank/</loc>
     <lastmod>2023-04-01T22:51:40+00:00</lastmod>
   </url><url>
@@ -343,5 +349,9 @@
   </url><url>
     <loc>https://classletters.org/tags/pmc/</loc>
     <lastmod>2023-02-12T02:15:15+00:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/archive/</loc>
+  </url><url>
+    <loc>https://classletters.org/archive/posts/</loc>
   </url>
 </urlset>

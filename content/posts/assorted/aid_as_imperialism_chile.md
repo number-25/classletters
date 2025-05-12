@@ -1,0 +1,432 @@
+---
+title: "Chile, an Investigation of Aid as Imperialism by Teresa Hayter"
+date: 2025-05-11T06:20:02Z
+author: "<no value>"
+type: "post"
+tags: ["imperialism", "Foreign Exchange", "IMF", "Neoliberalism", "Chile", "Political Economy"]
+draft: false
+---
+
+Teresa Hayter wrote a book outlining her time and experience as a member of the , one of the - one sense an objective account
+
+
+----------------------
+
+Structuralist Ideas on economics as usually propounded
+purport to provide an alternative to orthodox or monetarist
+ideas without drastically changing the constitutional
+framework. They offer proposals for a programme of
+expansion and redistribution of income, involving gradual
+changes in the structure of the economy, to provide the
+possibility of durable and stable growth. They oppose
+deflationary policies of the IMF variety on the grounds
+that they hurt the poorer sections of the population and
+that they inhibit growth and the restructuring of the
+economy. It is arguable that the Fret government was
+trying to apply these ideas in its first two or three years in
+office (1964-7). It appeared that it might have found a
+middle way in economics, as in politics, between stagnation
+and revolution. Its economic policies had some unorthodox
+features which at first seemed to be rather successful. The
+fact that their success was short-lived may possibly prove
+that the international agencies are, in one sense, right, there
+is no painless way of solving Chile's economic problems,
+without somebody's interests being hurt. The question, of
+course, is whose interests are hurt.
+
+Inflation in Chile had been more or less continuous since
+the end of the nineteenth century. After the Second World 
+War, stabilization programmers of the orthodox variety were tried on several
+occasions, with impermanent effects in 1963 and 1964 the Alessandri government
+was attempting to control inflation with the help of stand-by agreements with
+the IMF and programme loans from the AID, which on this occasion provided the
+main pressure for stabilization.  Chile ran big balance of payments deficits
+and its foreign debt rose rapidly. Alessandri's strategy was to borrow from
+abroad and pay for this out of the growth it was hoped to generate. Apart from
+this, efforts were concentrated on keeping wage and salary increases below
+the rise in the cost of living and on limiting government expenditure;
+admittedly they were not very successful efforts. At any rate, in 1963 and 1964
+growth was barely equal to the= population increase, the rate of inflation
+in 1964 was 38 per cent.
+
+The Frei government came into office in September 1964. The economic authorities, and especially the Finance Minister Molina, had
+clear views on policy. Their control and knowledge of the economy was
+more effective and sophisticated than under the previous government.  Their
+economic programme had several structuralist features. The most important
+general principle of the programme was the intention simultaneously to
+achieve three objectives: to slow down inflation, to increase the rate of
+growth and to redistribute income in a progressive direction. The government's
+emphasis on agrarian reform reflected these objectives. They were considered
+not to be alternatives, as monetarists might argue, but conditions of one
+another, both for political and for economic reasons. 
+
+The government was concerned as a major objective with
+the elimination of inflation. It was not prepared to try to
+achieve stabilization in the short run. The authorities conceded that it would be technically possible to achieve
+stabilization without growth, but from the political point of
+view it was considered impossible. And from the economic
+point of view, it was felt that the results were unlikely to be
+maintained: as soon as growth began again, all the old
+problems would recur, basically because nothing had been
+done to ensure that supply would be any more likely to keep
+up with demand than it had in the past. The Government
+claimed that it was attacking not merely the symptoms but
+also the 'fundamental causes of inflation'. In other words
+It was tackling the failure of the economy to grow, and in
+particular the stagnation of agriculture and the difficulty in
+expanding Chile's exports.   
+
+The authorities also agreed with the monetarist point of
+view to the extent of believing that stabilization programmes
+in the past had failed partly because governments had been
+politically unable to carry them through. Thus part of the
+sophistication of their policy was that they calculated rather
+carefully where the burden of readjustment was to fall. This was done by compensating workers for rises in agricultural
+prices by a fairly liberal wages policy, and devaluing the
+escudo by monthly adjustments, slowly at first, thus to some
+extent avoiding the all-round price increases which had
+usually followed devaluation in the past.
+
+As far as growth was concerned, the government decided
+to concentrate as an immediate objective on an expansion
+in copper production and exports. Successive Chilean
+governments had tried, through incentives such as tax
+reductions and devaluation, to get the US copper companies
+to produce and export more. The Frei government made an
+agreement with the copper companies under which they
+were to double production by 1970, it undertook to provide
+most of the capital, and obtained a loan for this purpose
+from the US Export-Import Bank. Other industrial projects
+were supported through the State-owned CORFO:
+petro-chemicals, paper, a sugar refinery, cellulose. In
+addition government expenditure, both current and investment, expanded considerably, particularly in education ,
+although there were also big tax increases, the budgetary
+deficit at first increased. The industrial sector, which had
+much unutilized capacity, apparently was able to expand
+production to meet the increase in demand and the shift in
+its pattern, some producers of mass-consumption goods in
+particular increased their overall profits, in spite of bigger
+wage and tax bills and reasonably effective price controls,
+as a result of a bigger volume of sales.   
+
+A major policy of the Frei government was land reform.  Like other policies in
+the government's programme, it was supposed to serve several purposes ---
+anti-inflationary, productive, redistributive and social, According to
+structuralist theories one of the main causes of iodation is the slow growth
+of food supplies. Chilean agriculture is inefficient, and a number of large
+farms are under-utilized. It was considered that changes in the system of
+land tenure would not only improve material and social conditions for the
+rural poor but also increase production, in many cases immediately. It seems
+that production on the land expropriated in the first years of the Fret
+government did in fact increase, although the government was not particularly
+successful in expanding the general level of agricultural production. On
+farms which were not expropriated, output also sometimes rose, since their
+owners hoped to escape expropriation in this way, although there appears also
+to have been some precautionary disinvestment. The government's land-reform
+law, which was held up in Congress for over two years, made expropriation
+somewhat easier and the terms for landlords somewhat less favorable.  
+
+In addition, the government had a number of other
+policies of a social and redistributory nature. As has been
+said, the government's expenditure, current as well as
+investment, increased considerably. The land-reform law
+allowed peasants to organize themselves in trade unions,
+which had previously been banned. The minimum wage in
+rural areas was raised. Educational programmes were expanded and reformed, It was claimed that, with its programme of 'promocion popular', the government was laying
+the foundation for a 'communitarian' form of society.
+Unemployment was reduced. In general, the government's
+fiscal policies, its policies on wages and prices, and its
+success in reducing unemployment, constituted
+what the IMF described as 'a sharp redistribution of income', and
+the redistribution in fact went further than had been planned.
+
+All this did amount to considerable innovation along
+what might be described as structuralist lines. In the First
+two years it also seemed a rather triumphant vindication of
+structuralist arguments on growth and inflation. Chile
+achieved the hat-trick: more growth, less iodation, and
+some progressive redistribution of income. In 1965 the rate
+of growth was 5 per cent and the rate of inflation was down To 26 per cent. In 1966, growth was 7 per cent, inflation 17
+per cent. In 1967, inflation was planned to be 10 percent.
+Chile also greatly improved its balance of payments
+position; in 1966 it had a record balance of payments
+surplus of $100 million Commercial arrears were paid off;
+the proportion of short-term high interest debt in Chile's
+total foreign debt declined considerably. For 1967 the
+government was able to decide to do without the AID
+programme loan and the IMF stand-by.   
+
+But much of this success was made possible by high copper prices. In 1965,
+copper prices increased by II per cent, which accounted for most of the export
+increase of 15 per cent, in 1966 copper prices increased by 25 per cent, total
+exports by a third. The share of copper in Child's total exports increased from
+60 per cent in 1964 to nearly 70 per cent in 1966. Increases in copper prices
+are said to have accounted for half the increase in tax receipts. The
+government maintained that it could have adjusted its programme to a lower
+level of copper prices without distorting it, and that it would, in any case,
+have been possible to obtain aid in comparable amounts if copper prices had not
+risen. But the fact that copper prices fell in 1967, although they were still
+high, must be at least partly responsible for the governments failure to
+continue the slowing down of inflation in 1967 and 1968. It also of course contributes to the force of one of the structuralists' main arguments: that the
+difficulties of developing countries are to a considerable extent caused by
+fluctuations in their export prices and deterioration, especially during the
+1950s, in their terms of trade. 
+
+More serious perhaps from a theoretical point of view is that the Chilean
+government, like other governments trying to achieve stabilization, quite
+rapidly found itself faced with the difficulty of increasing investment. By
+1967, existing capacity in the private sector was being fully used and new
+investment was needed for expansion. The limits in taxation had, in the
+governments view, been reached or possibly exceeded. There were some who felt
+that taxation must be reduced in order to allow the private sector to invest.
+The government resorted to a highly controversial alternative: wage-earners,
+instead of receiving their full wage adjustment in cash in proportion to the
+rise in the cost of living, were to receive part of it in the form of ends
+conferring ownership in new industries to be set up by the government. The
+government claimed that, faced with the alternatives of a reduction in the
+level of investment or a reduction in the level of taxation of the private
+sector, it had adopted a solution that would reduce the concentration of
+industrial power, the proposal could in fact be interpreted as quite radical,
+leading to workers' ownership of state industries. But it was strongly attacked
+by the left, who saw it as undermining the standards of living of the workers
+and felt that the bonds were likely to become worthless. The policy had to be
+abandoned amid political crisis, rather like IMF policies before it. Since, in
+an effort to prevent the increase in the rate of inflation, the government also
+decided on restrictions in government expenditure and in the expansion of
+credit in 1968, many of the expansionist aspects of the government's economic
+policies were abandoned.
+
+In general, it could be argued that the government's policies were too
+cautious, and they were quite unrevolutionary. This is particularly apparent in
+the case of the two major planks of the government's political programme:
+'Chileanization' of the copper companies, and land reform. As far as the copper
+companies were concerned, the government, like other governments before it,
+made big concessions to the copper companies in order to get them to agree to
+expand their production.. The companies got a large reduction in their rate of
+taxation. 'Chileanization' meant basically that the Chilean government put up
+most of the capital for expansion. In one case it bought a majority share in a
+compares capital, but acquired comparatively little management control. The
+copper companies were delighted with the arrangement. From an economic point
+of view Chile would almost certainly have gained if the companies had simply
+been nationalized. After their long and fruitful exploitation of Chile's
+mineral resources, and with Chile's almost total dependence on their
+activities, the copper companies no doubt know that they will, one day, be
+nationalized. As an interim arrangement, the Frei government's 'Chileanization'
+is a great boon.
+
+The land reform programme originally aimed at the settling of 100,000 families
+on expropriated land by 1970. This would have been about 40 per cent of the
+existing landless population. Partly because it was over two years before the
+government's new law was passed by Congress, the programme was slow in
+starting. By 1967, about 5,000 families had been settled. It became clear that
+the target would be reduced. The main justification used for reducing it was
+that the programme would be too expensive. About a third of the cost was for
+compensation of land-owners, although much of this was in fixed-term bonds,
+and therefore involved an element of expropriation, it could be argued that
+it was further compressible. The rest was for new housing and roads, machinery,
+working capital, education and research. The government was determined that the
+programme should be thorough and that great efforts should be made to avoid a
+drop in production. But it is possible that part of its determination arose
+from the fact that it underestimated the capabilities of Chilean peasants, and
+that it failed to distinguish between what was essential and what, like
+government housing, was not. Possibly the government's determination also
+arose from the fact that the Cabinet, most of whom were land-owners, had their
+own reasons for time-consuming thoroughness.  Moreover, when land is
+transferred there is likely to be some fall in production on some farms, and
+certainly some increase in local consumption, however cautious the programme, before the undeniable and undenied long-term benefits of land reform
+are translated into higher marketed production. Other things being equal,
+therefore, the sooner the land is transferred, the sooner these benefits are
+likely to materialize. Also, if the period of transfer is short, one of the
+arguments advanced by the critics of land reform, that uncertainty about
+ownership causes land-owners not to invest, disappears.  
+
+What of the attitude of the international agencies? First
+it should be said that it is clear that one of the reasons
+why the copper companies, at least, were not nationalized,
+and why the Christian Democrats were elected rather than
+the FRAP, the Communist-Socialist coalition committed
+to nationalization, was fear of" the United States. Before the
+1964 election, the Christian Democrats had come to an
+understanding with the United States government on
+various issues, including treatment of the copper companies. This was one reason why the United States decided
+to back them. In the absence of such an agreement, or had
+the Christian Democrats been defeated by the FRAP, the
+United States would have had various nears of retaliation
+at its disposal. The economic ones might not have been
+decisive. Forgoing aid and foreign private investment,
+nationalizing United States assets, and defaulting on debts
+could have had major economic advantages for Chile, and
+would presumably not have led to the loss of the 85 per cent
+of Chile's markets for copper which are in Europe. But it
+was clear that the United States would have gone, and still
+would go, to considerable lengths, including possibly
+military intervention, perhaps through the intermediary of
+the Chilean army or of other Latin-American governments,
+to prevent a party or coalition committed to nationalization
+and radical social changes from winning the elections, or,
+if it did, from taking office, or at least from putting its
+policies into effect.    
+
+Once the Christian Democrats were elected, with their commitment to 'revolution
+in liberty", the IMF and the AID were again involved. A Chilean mission went to
+Washington to negotiate a new standby with the IMF. A programme loan was
+negotiated with the AID. A rescheduling of Chile's debts was arranged, mainly
+on the insistence of the United States government. The World Bank was not
+directly involved in negotiations of Chile's general economic policies during
+this period, although it made a large loan for electric power in 1966, but it
+too expressed its views on Chilean policies and, its mission in Chile in 1966
+wrote a general report.
+
+The attitude of the international agencies to the Fret governments economic
+programme was interesting. It consisted mainly in trying to ensure that Chilean
+policies were 'consistent' with one another. A US State Department view was
+that the Chileans had a confused set of policies which were not internally
+consistent, and that programme loan negotiations in the first year had forced
+Chile to reconcile the conflicting objectives of simultaneous income
+redistribution and reduction in inflation. There appeared to he very little
+recognition of, or willingness to discuss, the theories behind Chilean
+policies, particularly the theory that the government's objectives, far from
+being 'inconsistent' or were in fact conditional on one another. A notable
+exception to this failure of understanding was in the AID mission in Chile,
+where, at least in one case, there was considerable sympathy with and
+understanding for Chilean economic and social objectives. Elsewhere officials
+were prepared to admit, at most, that the Chilean authorities, with strong
+leftwing opposition, were justified in their concern with political support.
+There was also some recognition of practical successes. The IMF's 1967 Annual
+Report, for instance, began with a laudatory paragraph on Chile's achievement
+of faster growth, slower inflation, improvement in the balance of payments and
+sharp redistribution of income. The AID was of course prepared to admire some
+of the government's social policies per se.  The World Bank's report was more
+negative. 
+
+At any rate, the IMF and the AID decided, with reasons, to give full financial
+backing to the government's programme. The United States had essential
+political reasons for supporting the Christian Democrats, whatever their
+policies. In so far as the IMF and some US officials praised the government's
+initial economic successes, they tended to ascribe these to what was felt to be
+a more vigorous application of the kinds of anti-inflationary policies which
+the two agencies had rather unsuccessfully been trying to persuade the
+Alessandri government to adopt. The AID was particularly pleased by, and
+apparently felt with very dubious justification responsible for, the
+government's achievement in increasing tax revenues and reforming the budget.
+The IMF was encouraged by some relaxation and simplification of import and
+exchange controls, and by the considerable reduction in the rate of overall
+credit expansions Both in the IMF and in the AID there was praise for
+improvement in the techniques of monetary control. But there is little doubt
+that they also accepted aspects of the programme of which they disapproved, or
+at any rate which they would not themselves have recommended. The Chileans, in
+their presentation of their policies, played down some of their more unorthodox
+aspects and stressed their concern with controlling inflation, but they had at
+least to get acceptance for the notion that the control of inflation should be
+'gradual'   
+
+As far as criticism was concerned the main pressure in the
+reports, advice and negotiations of the three international
+agencies was on controlling public expenditure, especially expenditure for social purposes, and on controlling wage increases. The IMF considered that the gradual control of
+initiation must necessarily involve 'increasingly tighter
+overall financial programmes year after year'. It also felt
+that the policy of income redistribution must be moderated
+if business savings were to be promoted. In the World
+Bank there was concern that the public sector was 'getting
+too large a share of the cake'. The international agencies
+solution for the problem of investment was therefore that
+taxation should be reduced, and they felt that the government's efforts to tax the private sector had gone too far. All three institutions were especially disturbed by the size of
+the government's housing programme: the AID, it should 
+be said, felt that the governments expenditure should be
+reoriented towards agriculture and other directly productive
+purposes, the IMF and the World Bank pressed for general
+limitation on the increase in public expenditure, and were
+alarmed that the budget deficit had not been reduced in the
+government's first year.  
+
+Above all, both the World Bank and the IMF came down strongly on the side of
+reducing the target for land reform, suggesting 20,000 or 30,000 families as
+more suitable targets. Their main reason for doing so was that they considered
+the programme would be too expensive. The World Bank, indeed, on whose 1966
+mission there were agricultural specialists, was of the opinion that the cost
+per family would be even higher than the Chileans had estimated international
+officials were also concerned 'about the short-term effects of land reform on
+production, the perspective in the World Bank was 'the next four or five
+years'. Some still felt that higher prices were the solution for Chilean
+agriculture. At any rate, the decisions of the IMF and the World Bank on land
+reform were taken on the basis of its effect on public finances and of its
+short term effects on production. From both these points of view it was felt,
+rightly or wrongly that land reform was undesirable, and it was therefore
+discouraged. Even though it was recognized at a responsible level in the World
+Bank that Chile's agricultural development in the long term was dependent on
+its basic social conflicts being resolved, it was nevertheless felt that
+Chile 'simply could not afford' a land-reform programme of the size proposed.
+As for the AID, its official attitude was fairly neutral, in the State
+Department it was claimed that the US 'certainly did not hold up land reform.  
+
+For 1967 the Chilean government decided to do without an IMF stand-by and AID
+programme loan. This does not seem to have been because it wanted to avoid the
+conditions attached to them. Negotiations with the AID for a programme loan
+were in fact practically concluded; the Chileans told the AID they would carry
+out the agreed programme, and announced publicly that the loan would still be
+available if, for instance, copper prices fell. Similarly they assured the
+IMF that their decision to forgo the stand-by should not be interpreted as an
+unwillingness to formulate financial and general economic policies within the
+framework of an internally consistent programme. It seems there were several
+reasons for deciding to do without the financial support of the two agencies.
+One was political, it was useful to demonstrate that the government was not
+wholly dependent on external support. There was also doubtless a desire to
+reduce this dependence in fact, Chile's heavy foreign indebtedness was an
+obvious limitation on its freedom of manoeuvre, so long of course as it
+hoped for further credit in the future and was not prepared to take the
+drastic step of defaulting on its debts. There were in addition various
+practical reasons: at a time when there was a boom Io foreign trade, there
+were strong pressures on the government to start new projects and to
+increase wages, especially in the copper industry, and the government wanted
+to put itself in a better position to resist these pressures by appealing
+to a patriotic desire to reduce foreign dependence. Finally of course it
+would have been difficult simply to put the AID loan into the reserves.
+
+The Chilean economic authorities were not particularly bothered by the efforts
+of the international agencies to influence their policies. They tended to say
+that these efforts did no harm, and might even help in Chile's case where the
+authorities had a clear programme of their own which in fact they persuaded the
+agencies to support. They felt that in countries whose economic policies were
+not so clearly formulated the pressure could be more damaging. Besides,
+policies which the agencies supported such as reducing the budget deficit,
+controlling wage increases and improving the management of monetary policy,
+were policies with which the authorities were in any case concerned. Those
+policies of a more expansionist or redistributory nature, which on the whole
+the international agencies opposed, were carried out in spite of them. Some
+Chileans felt not that the international agencies approved of Chilean policies,
+but that, in the political situation immediately after the elections, the
+international agencies 'would have supported anything'; the programme was
+'approved' reluctantly, but the agencies were later, on the whole, convinced by
+its success. As far as taxes were concerned, it was felt in one case that AID
+support might have had a beneficial effect in the sense that the opponents of
+increases in taxation could no longer expect support from the United States 
+the US position was described as 'a sort of green light' for taxation, and even
+for land reform. 
+
+It was also felt by at least one Chilean official that the discussions were
+useful in the sense that they enabled the Chilean authorities to clarify their
+ideas. Some who were concerned with excesses in certain lands of public
+expenditure and in wage increases felt that their position was reinforced. The
+Chilean authorities also felt that the IMF and the AID were changing slowly
+and incoherently when asked whether international officials were capable of
+understanding what the Chileans were trying to do, one answer was that the
+quality of AID economists had gone up sharply, and they could now make a real
+intellectual contribution. IMF officials apparently varied; of some of those
+who came to Chile, the Chileans might afterwards be able to say: 'that was a
+good one, he understood.'  
+
+In any case, the differences between the Chilean economic authorities and the
+international agencies were not really fundamental. There were differences of
+emphasis, differences of method, and differences of understanding. But the
+ultimate goals were similar: both the government and the international agencies
+were basically in favour of financial stability, growth, a more equal
+distribution of income, legality and evolutionary change. The government hoped
+to achieve them all at once, the international agencies said Chile must choose
+between them, and tried to persuade the government to put stability and
+legality first. Whether, given even more political skill and determination,
+the Frei government could have achieved all its goals at once is doubtful. At
+any rate when the crunch came Chile seems to have abandoned many of its
+expansionist and reformist goals, and to have come down on the side of the
+international agencies.
+
+
