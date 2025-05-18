@@ -7,8 +7,23 @@ tags: ["imperialism", "Foreign Exchange", "IMF", "Neoliberalism", "Chile", "Poli
 draft: false
 ---
 
-Teresa Hayter wrote a book outlining her time and experience as a member of the , one of the - one sense an objective account
-
+Teresa Hayter's 'Aid as Imperialism', was one of the first somewhat critical
+texts written about the post world-war II monetary institutions, from a so
+called insider's view. Having spent some time employed at the Overseas
+Development Institute, the World Bank financed Teresa's research on the
+effectiveness of aid packages provided to Third World countries. Given it was
+intended as a publication on behalf of the ODI, one certainly encounters a
+report which offers an objective overview of the various policy approaches that
+these institutions taken. The first half of the text, is an outline, not a
+critique. The second half turns to evaluating the implementation of these
+approaches in several countries. Here is where we find a critical evaluation,
+which best portrays the inflexibility of foreign aid packages, which, Teresa
+believed, were given more so as blanket prescriptions, dogmas even. A standard
+buffet of currency devaluations and austerity measures --- liberalize,
+liberalize, liberalize!  It is for this reason that the Overseas Development
+Institute rejected the original report for publication. Fortunately, it
+eventually made it's way to us common readers. The following is an excerpt from the
+text, focusing on the involvement of these aid agencies in Chile, a country which is emblematic of the deep difficulties of modernization and sovereignty in the global periphery.  
 
 ----------------------
 
