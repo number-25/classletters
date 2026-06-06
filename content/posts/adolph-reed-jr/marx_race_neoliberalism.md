@@ -1,7 +1,7 @@
 ---
 title: "Marx, Race and Neoliberalism by Adolph Reed Jr."
 date: 2023-09-24T02:47:39Z
-author: "<no value>"
+author: "Adolph Reed Jr."
 type: "post"
 tags: ["adolph-reed-jr", "identitarianism", "neoliberalisation",
 "political-philosophy", "race-theory", "marxism", "mythology", "ideology"]
@@ -9,15 +9,15 @@ draft: false
 ---
 
 A Marxist perspective can be most helpful for understanding race and racism
-insofar as it per- ceives capitalism dialectically, as a social total- ity that
+insofar as it perceives capitalism dialectically, as a social totality that
 includes modes of production, relations of production, and the pragmatically
 evolving ensemble of institutions and ideologies that lubricate and propel its
-reproduction. From this perspective, Marxism’s most important contri- bution to
+reproduction. From this perspective, Marxism’s most important contribution to
 making sense of race and racism in the United States may be demystification. A
-histori- cal materialist perspective should stress that “race”—which includes
+historical materialist perspective should stress that “race”—which includes
 “racism,” as one is unthinkable without the other—is a historically specific
 ideology that emerged, took shape, and has evolved as a constitutive element
-within a definite set of social relations anchored to a par- ticular system of
+within a definite set of social relations anchored to a particular system of
 production.    
 
 > **Marxism’s most important contribution to making sense of race and racism in the United States may be demystification.**
@@ -72,7 +72,7 @@ indentured servitude, and the institutional establishment of black and white, or
 African and English, as distinct, mutually exclusive status categories over the
 course of the seventeenth century in colonial Virginia.[^2] Race and racism took
 shape as an ideology and material reality during the following century initially
-in the context of the contest between free- and slave-labor systems and the
+in the context of the contest between free and slave-labor systems and the
 related class struggle that eventually produced the modern notion of free labor
 as the absolute control of a worker over her or his person.[^3] After defeat of the
 Confederate insurrection led to slavery’s abolition, race as white supremacy
@@ -254,7 +254,7 @@ related interpretive pathologies. One is a
 > “systemic racism,” “structural racism,” “color-blind racism,” “post-racial
 > racism,” etc.—intended to graft more complex social dynamics onto a
 > simplistic and frequently psychologically inflected racism/anti-racism
-> political ontology. Indeed, these efforts bring to mind [Thomas S.] Kuhn’s
+> political ontology. Indeed, these efforts bring to mind Thomas S. Kuhn’s
 > account of attempts to accommodate mounting anomalies to salvage an
 > interpretive paradigm in danger of crumbling under a crisis of
 > authority.[^11]    

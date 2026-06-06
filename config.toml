@@ -16,10 +16,10 @@ pagination.pagerSize = 10
 #disqusShortname = ""
 
 [taxonomies]
-  tag = "tags"
+    tag = "tags"
 
-[author]
-    name = ""
+#[author]
+#    name = ""
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
@@ -28,6 +28,7 @@ pagination.pagerSize = 10
 [params]
 	mainSections = ["post"]
 
+    author = ""
 
     math = true
     # Blog description at the top of the homepage. Supports markdown.
