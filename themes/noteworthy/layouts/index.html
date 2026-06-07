@@ -12,9 +12,13 @@
             <h2>
                 <a href="{{ .Permalink }}">
                     {{ .Title }}
-                    {{ .Params.author }}
                 </a>
             </h2>
+            <h3 style="color:#990000;" >
+                {{ if .Params.author }}
+                    <i> {{ .Params.author }} </i>
+                {{ end }}
+            </h3>
             <div>
                 <p>{{ .Summary }}</p>
                 {{ if (and (.Site.Params.showReadMore) (.Truncated)) }}
