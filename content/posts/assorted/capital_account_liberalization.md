@@ -1,7 +1,7 @@
 ---
 title: "Capital Account Liberalization and the Developing Nations, an excerpt from José Antonio Ocampo"
 date: 2024-05-08T22:34:24Z
-author: "<no value>"
+author: "José Antonio Ocampo"
 type: "post"
 tags: ["neoliberalism", "financialisation", "development", "political economy", "foreign exchange"]
 draft: false
