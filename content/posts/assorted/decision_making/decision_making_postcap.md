@@ -3,7 +3,7 @@ title: "Decision-Making in a Good Society: The Case for Nested Councils by Steph
 date: 2024-12-09T06:18:49Z
 author: "Stephen R. Shalom"
 type: "post"
-tags: ["Organization", "Capitalism", "Democracy", "Political Theory"]
+tags: ["organization", "capitalism", "democracy", "political-theory"]
 draft: false
 ---
 

@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -65,7 +66,7 @@
     <loc>https://classletters.org/tags/markets/</loc>
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/tags/organisation/</loc>
+    <loc>https://classletters.org/tags/organization/</loc>
     <lastmod>2025-03-16T21:52:32+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/lazonick/theory_of_innovative_organization/</loc>
@@ -102,9 +103,6 @@
     <lastmod>2024-12-09T06:18:49+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/democracy/</loc>
-    <lastmod>2024-12-09T06:18:49+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/organization/</loc>
     <lastmod>2024-12-09T06:18:49+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/political-theory/</loc>
@@ -281,7 +279,7 @@
     <loc>https://classletters.org/posts/marcel-mauss/conclusion-to-the-gift/</loc>
     <lastmod>2023-06-11T05:03:51+00:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/tags/economy/</loc>
+    <loc>https://classletters.org/tags/economics/</loc>
     <lastmod>2023-06-11T05:03:51+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/marcel-mauss/</loc>

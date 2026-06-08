@@ -54,7 +54,7 @@ article .post-footer>a {
 h1 {
     font-size: 1.9em;
     padding-top: 0.2em;
-    margin: 0.5em 0em 0.75em 0em;
+    margin: 0.5em 0em 0.5em 0em; // Was 0.75em on third entry 
     font-family: $serif;
     font-weight: 600;
     line-height: 1.3em;
@@ -64,10 +64,10 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-    margin: 1.25em 0em 0.75em 0em;
+h6 { // home page article title
+    margin: 1.25em 0em 0.75em 0em; 
     font-family: $serif;
-    font-weight: 600;
+    font-weight: 600; // was 600
 }
 
 h2 {
@@ -106,7 +106,7 @@ h3 {
 }
 
 p {
-    margin: 0em 0 1em 0;
+    margin: 0em 3 1em 0; //second entry was 0
 }
 
 // LINKS AND TAGS
@@ -188,7 +188,7 @@ mark {
 blockquote {
     border-left: 4px solid $color-blockquote-border-left;
     padding-left: 1.3em;
-    margin-left: 0em;
+    margin-left: 1em; // was 0em
     margin-top: 0em;
 
     p {
@@ -254,7 +254,7 @@ nav {
 
     a {
         font-family: $serif;
-        font-size: 1.5em;
+        font-size: 3em; // was 1.5em
         text-decoration: none;
         margin-top: 0.75em;
     }

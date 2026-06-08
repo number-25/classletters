@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Aesthetics on Class Letters</title>
-    <link>https://classletters.org/tags/aesthetics/</link>
-    <description>Recent content in Aesthetics on Class Letters</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Sep 2023 02:07:16 +0000</lastBuildDate>
-    <atom:link href="https://classletters.org/tags/aesthetics/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Studies in European Realism by György Lukács</title>
-      <link>https://classletters.org/posts/lukacs/studies_in_european_realism/</link>
-      <pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
-      <guid>https://classletters.org/posts/lukacs/studies_in_european_realism/</guid>
-      <description>&lt;p&gt;The articles contained in this book were written some ten years ago. Author and reader&#xA;may well ask why they should be republished just now. At first sight they might seem to&#xA;lack all topicality. Subject and tone alike may appear remote to a considerable section of&#xA;public opinion. I believe, however, that they have some topicality in that, without&#xA;entering upon any detailed polemics, they represent a point of view in opposition to&#xA;certain literary and philosophical trends still very much to the fore today.&#xA;Let us begin with the general atmosphere: the clouds of mysticism which once&#xA;surrounded the phenomena of literature with a poetic colour and warmth and created&#xA;an intimate and ‘‘interesting’’ atmosphere around them, have been dispersed. Things&#xA;now face us in a clear, sharp light which to many may seem cold and hard; a light shed&#xA;on them by the teachings of Marx. Marxism searches for the material roots of each&#xA;phenomenon, regards them in their historical connections and movement, ascertains the&#xA;laws of such movement and demonstrates their development from root to flower, and in&#xA;so doing lifts every phenomenon out of a merely emotional, irrational, mystic fog and&#xA;brings it to the bright light of understanding.&lt;/p&gt;</description>
-    </item>
-  </channel>
+	<channel>
+		<title>Aesthetics on Class Letters</title>
+		<link>https://classletters.org/tags/aesthetics/</link>
+		<description>Recent content in Aesthetics on Class Letters</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 29 Sep 2023 02:07:16 +0000</lastBuildDate>
+		
+			<atom:link href="https://classletters.org/tags/aesthetics/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Studies in European Realism by György Lukács</title>
+				<link>https://classletters.org/posts/lukacs/studies_in_european_realism/</link>
+				<pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
+				<guid>https://classletters.org/posts/lukacs/studies_in_european_realism/</guid>
+				<description>&lt;p&gt;The articles contained in this book were written some ten years ago. Author and reader&#xA;may well ask why they should be republished just now. At first sight they might seem to&#xA;lack all topicality. Subject and tone alike may appear remote to a considerable section of&#xA;public opinion. I believe, however, that they have some topicality in that, without&#xA;entering upon any detailed polemics, they represent a point of view in opposition to&#xA;certain literary and philosophical trends still very much to the fore today.&#xA;Let us begin with the general atmosphere: the clouds of mysticism which once&#xA;surrounded the phenomena of literature with a poetic colour and warmth and created&#xA;an intimate and ‘‘interesting’’ atmosphere around them, have been dispersed. Things&#xA;now face us in a clear, sharp light which to many may seem cold and hard; a light shed&#xA;on them by the teachings of Marx. Marxism searches for the material roots of each&#xA;phenomenon, regards them in their historical connections and movement, ascertains the&#xA;laws of such movement and demonstrates their development from root to flower, and in&#xA;so doing lifts every phenomenon out of a merely emotional, irrational, mystic fog and&#xA;brings it to the bright light of understanding.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

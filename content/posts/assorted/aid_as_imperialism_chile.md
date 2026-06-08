@@ -3,7 +3,7 @@ title: "Chile, an Investigation of Aid as Imperialism by Teresa Hayter"
 date: 2025-05-11T06:20:02Z
 author: "Teresa Hayter"
 type: "post"
-tags: ["imperialism", "Foreign Exchange", "IMF", "Neoliberalism", "Chile", "Political Economy"]
+tags: ["imperialism", "foreign-exchange", "IMF", "neoliberalism", "chile", "political-economy"]
 draft: false
 ---
 

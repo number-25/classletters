@@ -3,7 +3,7 @@ title: "Conclusion to the Gift by Marcel Mauss"
 date: 2023-06-11T05:03:51Z
 author: "<no value>"
 type: "post"
-tags: ["anthropology", "marcel mauss", "economy", "political theory"]
+tags: ["anthropology", "marcel-mauss", "economics", "political-theory"]
 draft: false
 ---
 
