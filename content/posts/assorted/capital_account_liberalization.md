@@ -1,5 +1,5 @@
 ---
-title: "Capital Account Liberalization and the Developing Nations, an excerpt from José Antonio Ocampo"
+title: "Capital Account Liberalization and the Developing Nations"
 date: 2024-05-08T22:34:24Z
 author: "José Antonio Ocampo"
 type: "post"

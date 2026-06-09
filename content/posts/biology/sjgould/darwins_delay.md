@@ -7,8 +7,6 @@ tags: ["biology", "evolution", "darwinism", "marx", "gould", "materialism"]
 draft: false
 ---
 
-# Darwin's Delay
-
 Few events inspire more speculation than long and unexplained pauses in the activities of
 famous people. Rossini crowned a brilliant operatic career with William Tell and then wrote
 almost nothing for the next thirty-five years. Dorothy Sayers abandoned Lord Peter Wimsey

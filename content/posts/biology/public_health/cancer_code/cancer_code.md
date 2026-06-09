@@ -13,7 +13,7 @@ severe misanthropic consequences of profit seeking drives in the areas of
 health and medicine, and the second is a remarkable case point in the
 iatrogenic potential of public health interventions which may be completely
 benevolent in intention -- something that all states irrespective of political
-structure must address. Part one is contained below, you can find part two (here)[]
+structure must address. Part one is contained below, you can find part two [here](https://classletters.org/posts/biology/public_health/cancer_code/cancer_code_pt2/).
 
 I encourage everyone to read the entirety of Jason's "The Cancer Code". It's a
 terrific work of 'popular' scientific writing, as much about
@@ -22,7 +22,7 @@ research.
 
 --------------------------------------------------------------------------- 
 
-# A False Dawn 
+## A False Dawn 
 Imatanib, the first drug of the age of personalized, precision cancer
 medicine, was a true game changer. With its introduction, a patient suffering
 from chronic myelogenous leukemia (CML) could reasonably expect to live
@@ -305,7 +305,7 @@ expensive and of higher quality than dollar-store shoes. This does not apply
 to cancer medicine, where a high-priced drug does not necessarily work
 better than a cheaper drug. Many expensive drugs may not even work at all.[^41]
 This is obviously a big problem when drug costs are the single largest cause
-of personal bankruptcy in the United States.^[42]
+of personal bankruptcy in the United States.[^42]
 
 ## Losing the War
 Cancer paradigm 2.0 had hit rock bottom. Cancer was still undefeated, and
