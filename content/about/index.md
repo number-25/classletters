@@ -1,9 +1,9 @@
 ---
 title: "About Class Letters"
 date: 2024-05-16T23:03:17Z
-author: "<no value>"
+author: ""
 type: "post"
-tags: [""]
+tags: ["about"]
 draft: false
 ---
 

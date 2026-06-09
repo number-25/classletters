@@ -1,5 +1,5 @@
 ---
-title: "Marx, Race and Neoliberalism by Adolph Reed Jr."
+title: "Marx, Race and Neoliberalism"
 date: 2023-09-24T02:47:39Z
 author: "Adolph Reed Jr."
 type: "post"

@@ -1,7 +1,7 @@
 ---
-title: "Cancer Prevention and Screening by Jason Fung; The Cancer Code"
+title: "Cancer Prevention and Screening; The Cancer Code"
 date: 2024-03-28T23:41:44Z
-author: "<no value>"
+author: "Jason Fung"
 type: "post"
 tags: ["medicine", "pharma", "capitalism", "neoliberalism", "health", "public health"]
 draft: false

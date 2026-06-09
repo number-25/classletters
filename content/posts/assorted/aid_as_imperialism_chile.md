@@ -1,5 +1,5 @@
 ---
-title: "Chile, an Investigation of Aid as Imperialism by Teresa Hayter"
+title: "Chile, an Investigation of Aid as Imperialism"
 date: 2025-05-11T06:20:02Z
 author: "Teresa Hayter"
 type: "post"

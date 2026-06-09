@@ -1,5 +1,5 @@
 ---
-title: "Soviet Literature by Maxim Gorky"
+title: "Soviet Literature"
 date: 2023-03-22T08:06:39Z
 author: "Maxim Gorky"
 draft: "false"

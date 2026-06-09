@@ -1,7 +1,7 @@
 ---
-title: "Conclusion to the Gift by Marcel Mauss"
+title: "Conclusion to the Gift"
 date: 2023-06-11T05:03:51Z
-author: "<no value>"
+author: "Marcel Mauss"
 type: "post"
 tags: ["anthropology", "marcel-mauss", "economics", "political-theory"]
 draft: false

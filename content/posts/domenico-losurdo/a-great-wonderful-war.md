@@ -1,5 +1,5 @@
 ---
-title: "A Great and  Wonderful War by Domenico Losurdo"
+title: "A Great and  Wonderful War"
 date: 2023-04-08T02:05:49Z
 author: "Domenico Losurdo"
 type: "post"

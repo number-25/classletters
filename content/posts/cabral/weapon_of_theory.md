@@ -1,9 +1,9 @@
 ---
-title: "The Weapon of Theory by Amilcar Cabral"
+title: "The Weapon of Theory"
 date: 2024-11-17T04:17:05Z
-author: "<no value>"
+author: "Amilcar Cabral"
 type: "post"
-tags: ["theory", "periphery", "amilcar-cabral", "marxism", "africa", "periphery"]
+tags: ["theory", "development", "amilcar-cabral", "marxism", "africa", "periphery"]
 ---
 
 Published in 1966. The text speaks for itself -- a terrific contextualisation of the National Liberation Movements. 

@@ -1,7 +1,7 @@
 ---
-title: "Darwin's Delay by Stephen Jay Gould"
+title: "Darwin's Delay"
 date: 2024-01-31T23:28:27Z
-author: "<no value>"
+author: "Stephen Jay Gould"
 type: "post"
 tags: ["biology", "evolution", "darwinism", "marx", "gould", "materialism"]
 draft: false
