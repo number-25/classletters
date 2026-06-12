@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Ideology on Class Letters</title>
-		<link>http://localhost:1313/tags/ideology/</link>
+		<link>https://classletters.org/tags/ideology/</link>
 		<description>Recent content in Ideology on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 24 Sep 2023 02:47:39 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/ideology/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://classletters.org/tags/ideology/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Marx, Race and Neoliberalism</title>
-				<link>http://localhost:1313/posts/adolph-reed-jr/marx_race_neoliberalism/</link>
+				<link>https://classletters.org/posts/adolph-reed-jr/marx_race_neoliberalism/</link>
 				<pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-				<guid>http://localhost:1313/posts/adolph-reed-jr/marx_race_neoliberalism/</guid>
+				<guid>https://classletters.org/posts/adolph-reed-jr/marx_race_neoliberalism/</guid>
 				<description>&lt;p&gt;A Marxist perspective can be most helpful for understanding race and racism&#xA;insofar as it perceives capitalism dialectically, as a social totality that&#xA;includes modes of production, relations of production, and the pragmatically&#xA;evolving ensemble of institutions and ideologies that lubricate and propel its&#xA;reproduction. From this perspective, Marxism’s most important contribution to&#xA;making sense of race and racism in the United States may be demystification. A&#xA;historical materialist perspective should stress that “race”—which includes&#xA;“racism,” as one is unthinkable without the other—is a historically specific&#xA;ideology that emerged, took shape, and has evolved as a constitutive element&#xA;within a definite set of social relations anchored to a particular system of&#xA;production.&lt;/p&gt;</description>
 			</item>
 	</channel>
