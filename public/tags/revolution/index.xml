@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Revolution on Class Letters</title>
-		<link>https://classletters.org/tags/revolution/</link>
+		<link>http://localhost:1313/tags/revolution/</link>
 		<description>Recent content in Revolution on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,19 +12,19 @@
 		
 			<lastBuildDate>Sat, 06 Jun 2026 00:32:17 +0000</lastBuildDate>
 		
-			<atom:link href="https://classletters.org/tags/revolution/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/revolution/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>An interview with historian Clayborne Carson on the New York Times&#39; 1619 Project</title>
-				<link>https://classletters.org/posts/assorted/1619_clayborne_carson/</link>
+				<link>http://localhost:1313/posts/assorted/1619_clayborne_carson/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>https://classletters.org/posts/assorted/1619_clayborne_carson/</guid>
+				<guid>http://localhost:1313/posts/assorted/1619_clayborne_carson/</guid>
 				<description>&lt;p&gt;The following is a copy of an interview given by the American historian Clayborne Carson with the &lt;a href=&#34;https://www.wsws.org/en/articles/2020/01/15/clay-j15.html&#34;&gt;World Socialist Web Site&lt;/a&gt;. I found it illuminating for it&amp;rsquo;s discussion on the demarcation and bracketing of historical movements, those that are latent&amp;hellip; those which are eventually born.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;Clayborne Carson is professor of history at Stanford University and director of its Martin Luther King, Jr., Research and Education Institute. He is the author and editor of numerous books on King and the civil rights movement. Carson was chosen by Coretta Scott King to oversee the publication of &lt;a href=&#34;https://kinginstitute.stanford.edu/publications/king-papers&#34;&gt;The Papers of Martin Luther King, Jr&lt;/a&gt;. Seven of 14 planned volumes have been published under his direction.&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Revolutionary Medicine by Ernesto Che Guevara</title>
-				<link>https://classletters.org/posts/assorted/revolutionarey_medicine_che/</link>
+				<link>http://localhost:1313/posts/assorted/revolutionarey_medicine_che/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>https://classletters.org/posts/assorted/revolutionarey_medicine_che/</guid>
+				<guid>http://localhost:1313/posts/assorted/revolutionarey_medicine_che/</guid>
 				<description>&lt;p&gt;Adapted from &lt;a href=&#34;https://www.marxists.org/archive/guevara/1960/08/19.htm&#34;&gt;https://www.marxists.org/archive/guevara/1960/08/19.htm&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I was put onto this article from the reading of the terrific&#xA;text on the Cuban and Venezuelan healthcare systems and practices by Steven&#xA;Brouwer: &lt;a href=&#34;https://monthlyreview.org/product/revolutionary_doctors/&#34;&gt;&amp;ldquo;Revolutionary Doctors: How Venezuela and Cuba Are Changing the World’s&#xA;Conception of Health Care&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This simple celebration, another among the hundreds of public functions with&#xA;which the Cuban people daily celebrate their liberty, the progress of all their&#xA;revolutionary laws, and their advances along the road to complete independence,&#xA;is of special interest to me.&lt;/p&gt;</description>
 			</item>
 	</channel>

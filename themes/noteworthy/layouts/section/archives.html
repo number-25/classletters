@@ -16,7 +16,7 @@
                   <li class="archives-list-item">
                     <span class="archives-list-item-date">{{ .PublishDate.Format "Jan 2" }}</span>
                     <span>
-                      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a> by <a style="color:#470010;text-decoration:none;"> {{.Params.author }} </a>
                     </span>
                   </li>
               {{ end }}

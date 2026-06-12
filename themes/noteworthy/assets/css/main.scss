@@ -431,12 +431,12 @@ a.footnote-ref {
 
 .archives-list-item {
     display: flex;
-    margin: 0.5em 0em;
+    margin: 0.5em 0.3em; // second entry was 0
 }
 
 .archives-list-item-date {
     width: 60px;
-    margin-right: 0.25em;
+    margin-right: 0.5em;
     color: $color-archives-list-item-date;
 }
 

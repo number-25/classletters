@@ -1,0 +1,33 @@
+{{ define "main" }}
+<!-- https://dongheenam.info/posts/tag-groups-by-first-letter/ -->
+
+<h1>{{ "Tags" }}</h1>
+{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+{{ $pages := .Pages.ByTitle }}
+{{ $by_letter := dict }}
+{{ range $pages }}
+  {{ $page := . }}
+  {{ $first_letter := upper ( substr $page.Name 0 1 ) }}
+  {{ if not (in $letters $first_letter) }}
+    {{ $first_letter = "#" }}
+  {{ end }}
+  {{ $new_list := slice $page }}
+  {{ with index $by_letter $first_letter }}
+    {{ $new_list = . | append $page }}
+  {{ end }}
+  {{ $by_letter = merge $by_letter (dict $first_letter $new_list) }}
+{{ end }}
+<!-- ...rendering happens here -->
+<div class="taxonomy">
+{{ range $key, $items := $by_letter }}
+  <span class="key">{{ $key }}</span>
+  <ul>
+  {{ range $items }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Name }}</a><sup>{{ len .Pages }}</sup>
+    </li>
+  {{ end }}
+  </ul>
+{{ end }}
+</div>
+{{ end }}
