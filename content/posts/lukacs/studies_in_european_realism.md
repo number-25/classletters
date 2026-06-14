@@ -2,6 +2,7 @@
 title: "Studies in European Realism"
 date: 2023-09-29T02:07:16Z
 author: "György Lukács"
+authors: ["György Lukács"]
 type: "post"
 tags: ["realism", "literature", "lukacs", "marxism", "aesthetics"]
 draft: false

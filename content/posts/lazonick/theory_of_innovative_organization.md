@@ -2,6 +2,7 @@
 title: "The Theory of the Innovative Organization"
 date: 2025-03-16T21:52:32Z
 author: "William Lazonick"
+authors: ["William Lazonick"]
 type: "post"
 tags: ["organization", "markets", "capitalism", "business-history", "history", "development"]
 draft: false

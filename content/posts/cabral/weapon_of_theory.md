@@ -2,6 +2,7 @@
 title: "The Weapon of Theory"
 date: 2024-11-17T04:17:05Z
 author: "Amilcar Cabral"
+authors: ["Amilcar Cabral"]
 type: "post"
 tags: ["theory", "development", "amilcar-cabral", "marxism", "africa", "periphery"]
 ---

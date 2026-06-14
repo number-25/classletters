@@ -1,7 +1,7 @@
 ---
 title: "About Class Letters"
 date: 2024-05-16T23:03:17Z
-author: ""
+author: "Class Letters Team"
 type: "post"
 tags: ["about"]
 draft: false
@@ -15,9 +15,7 @@ Alongside more clearly defined political and philosophical texts, Class Letters
 incorporates works from different scientific, and health fields, bound by the
 commitment that communist work can, and should be scientific. Without a doubt,
 there is a purposeful goal of educating, and the goals of the autodidact are
-encouraged -- we have a reverence for education and it's transformative
+encouraged --- we have a reverence for education and it's transformative
 potentials.  
 
-Please reach and if you'd like to contribute in any way: swnt@protonmail.com 
-
-
+Please reach and if you'd like to contribute in any way, following the mail button in the navigation menu.

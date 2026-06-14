@@ -1,5 +1,5 @@
 ---
-title: "Decision-Making in a Good Society: The Case for Nested Councils by Stephen R. Shalom"
+title: "Decision-Making in a Good Society: The Case for Nested Councils"
 date: 2024-12-09T06:18:49Z
 author: "Stephen R. Shalom"
 type: "post"

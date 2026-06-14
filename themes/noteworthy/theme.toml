@@ -8,5 +8,5 @@ features = ["blog", "responsive", "social media"]
 min_version = "0.55.2"
 
 [author]
-    name = "kimcc"
+    name = ["kimcc", "number-25"]
     homepage = "https://github.com/kimcc"

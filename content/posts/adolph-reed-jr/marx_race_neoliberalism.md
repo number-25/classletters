@@ -2,9 +2,9 @@
 title: "Marx, Race and Neoliberalism"
 date: 2023-09-24T02:47:39Z
 author: "Adolph Reed Jr."
+authors: ["Adolph Reed Jr."]
 type: "post"
-tags: ["adolph-reed-jr", "identitarianism", "neoliberalisation",
-"political-philosophy", "race-theory", "marxism", "mythology", "ideology"]
+tags: ["adolph-reed-jr", "identitarianism", "neoliberalisation", "political-philosophy", "race-theory", "marxism", "mythology", "ideology"]
 draft: false
 ---
 

@@ -2,6 +2,7 @@
 title: "Introduction to Class Notes"
 date: 2023-02-12T02:15:15Z
 author: "Adolph Reed Jr."
+authors: ["Adolph Reed Jr."]
 tags: ["adolph-reed-jr", "identitarianism", "political-philosophy", "neoliberalisation", "PMC"]
 type: "post"
 draft: false
@@ -9,19 +10,20 @@ draft: false
 
 *The text here is an extract from Adolph Reed Jr's 2000 work "Class Notes". This publication is the founding inspiration for the theme and title of this site here -- long live Reed.*   
 
+---
  
 This book is built on commentary about current issues and events in american
-politics over most of the 1990s. as such, it expresses an on-going attempt to
-make sense of contemporary american political life from a critical perspective.
+politics over most of the 1990s. As such, it expresses an on-going attempt to
+make sense of contemporary American political life from a critical perspective.
 most of the essays published here appeared originally in substantially the same
 form in my regular columns in the progressive and the village voice, or in
-similar venues. writing in those venues presents a special challenge— to convey
+similar venues. writing in those venues presents a special challenge---to convey
 complex, perhaps unconventional ideas clearly and concisely to a general
-audience. i’ve found this challenge very useful partly because i work out my
+audience. I’ve found this challenge very useful partly because i work out my
 own views on many issues by writing about them; to that extent, these essays
-are much less a set of didactic pronoucements than a sustained attempt to think
+are much less a set of didactic pronouncements than a sustained attempt to think
 things through, and the obligation to communicate those views effectively to
-others encourages preciseness and clarity.  having to ask constantly, “what
+others encourages preciseness and clarity. Having to ask constantly, “what
 would this formulation mean to someone outside my own head or outside a
 narrowly specialized community of discourse?” imposes a requirement to bring
 abstractions down to the ground, to imagine how— if at all— they appear in,
@@ -734,11 +736,3 @@ understanding American politics, and organizing effectively to operate within
 it, requires recognizing the centrality of class forces and dynamics in shaping
 consciousness and establishing both lines of cleavage and possibilities for
 solidarity.   
-
- 
- 
-
-
-
-
-

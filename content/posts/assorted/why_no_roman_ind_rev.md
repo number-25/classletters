@@ -1,5 +1,5 @@
 ---
-title: "Why no Roman Industrial Revolution? by Bret Devereaux"
+title: "Why no Roman Industrial Revolution?"
 date: 2024-02-08T23:20:45Z
 author: "Bret Devereaux"
 type: "post"
