@@ -2,6 +2,7 @@
 title: "Race into Culture: A Critical Genealogy of Cultural Identity"
 date: 2023-03-29T10:59:16Z
 author: "Walter Benn Michaels"
+authors: ["Walter Benn Michaels"]
 type: "post"
 tags: ["race", "culture-critic", "genealogy", "racecraft", "united-states", "literature"]
 draft: false 

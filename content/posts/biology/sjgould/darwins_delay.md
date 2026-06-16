@@ -2,6 +2,7 @@
 title: "Darwin's Delay"
 date: 2024-01-31T23:28:27Z
 author: "Stephen Jay Gould"
+authors: ["Stephen Jay Gould"]
 type: "post"
 tags: ["biology", "evolution", "darwinism", "marx", "gould", "materialism"]
 draft: false

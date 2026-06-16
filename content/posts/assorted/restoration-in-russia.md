@@ -2,6 +2,7 @@
 title: "Introduction: Restoration in Russia"
 date: 2023-05-06T02:35:24Z
 author: "Boris Kagarlitsky"
+authors: ["Boris Kagarlitsky"]
 tags: ["ussr-collapse", "boris-kagarlitsky", "politics", "yeltsin", "bureaucracy"]
 type: "post"  
 draft: false

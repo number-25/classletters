@@ -2,6 +2,7 @@
 title: "Cuacasians Only"
 date: 2023-07-09T07:18:50Z
 author: "Robert Fogelson"
+authors: ["Robert Fogelson"]
 type: "post"
 tags: ["racism", "fascism", "united-states", "suburban", "bourgeoise", "class",
 "segregation"]

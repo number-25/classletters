@@ -2,6 +2,7 @@
 title: "Soviet Literature"
 date: 2023-03-22T08:06:39Z
 author: "Maxim Gorky"
+authors: ["Maxim Gorky"]
 draft: "false"
 type: "post"
 tags: ["maxim-gorky", "ussr", "literature", "soviet-literature", "culture-critic", "bourgeoise"]  

@@ -2,6 +2,7 @@
 title: "An Image of Africa: Racism in Conrad's Heart of Darkness"
 date: 2024-09-22T01:58:15Z
 author: "Chinua Achebe"
+authors: ["Chinua Achebe"]
 type: "post"
 tags: ["racism", "literature", "colonialism", "imperialism", "congo"]
 draft: false

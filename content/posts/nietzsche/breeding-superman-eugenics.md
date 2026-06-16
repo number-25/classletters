@@ -2,6 +2,7 @@
 title: "The 'Lethal Chamber' in Eugenic Thought: an excerpt from Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain"
 date: 2025-02-02T01:51:19Z
 author: "Dan Stone"
+authors: ["Dan Stone"]
 type: "post"
 tags: ["nietzsche", "reactionary", "eugenics", "darwinism", "race", "race-theory", "political-philosophy", "mythology", "irrationalism"]
 draft: false

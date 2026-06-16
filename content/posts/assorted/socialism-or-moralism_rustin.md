@@ -2,6 +2,7 @@
 title: "Socialism or Moralism"
 date: 2023-06-01T03:30:51Z
 author: "Bayard Rustin"
+authors: ["Bayard Rustin"]
 tags: ["socialism", "politics", "moralism", "united-states", "bayard-rustin", "organizing"] 
 type: "post"
 draft: false

@@ -17,7 +17,6 @@ pagination.pagerSize = 15
 [taxonomies]
     tag = "tags"
     author = "authors"
-    #author = "author"
 
 # Set to false to disallow raw HTML in markdown files
 [markup.goldmark.renderer]
@@ -92,11 +91,11 @@ pagination.pagerSize = 15
     url = "/about/"
     weight = 1 # Weight is an integer used to sort the menu items. The sorting goes from smallest to largest numbers. If weight is not defined for each menu entry, Hugo will sort the entries alphabetically.
 
-#[[menu.main]]
-#    name = "Authors"
-#    identifier = "authors"
-#    url = "/authors/"
-#    weight = 2
+[[menu.main]]
+    name = "Authors"
+    identifier = "authors"
+    url = "/authors/"
+    weight = 2
 
 [[menu.main]]
     identifier = "tags"

@@ -2,6 +2,7 @@
 title: "Global Neoliberal Practice: Institutions and Regulation in Africa"
 date: 2023-04-01T22:51:40Z
 author: "Graham Harrison"
+authors: ["Graham Harrison"]
 type: "post"
 tags: ["neoliberalism", "IMF", "world-bank", "imperialism", "africa"] 
 draft: false

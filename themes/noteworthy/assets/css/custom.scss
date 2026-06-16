@@ -16,3 +16,23 @@
     margin-right: 1em;
   }
 }
+
+.authors {
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  align-items: baseline;
+
+  .key {
+    font-style: italic;
+    font-size: 1.7rem;
+  }
+  ul {
+    display: flex;
+    font-weight: 600;
+    flex-wrap: wrap;
+    list-style: none;
+  }
+  li {
+    margin-right: 1em;
+  }
+}

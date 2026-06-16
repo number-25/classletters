@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Tags on Class Letters</title>
-		<link>http://localhost:1313/tags/</link>
+		<link>https://classletters.org/tags/</link>
 		<description>Recent content in Tags on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,642 +12,663 @@
 		
 			<lastBuildDate>Sat, 06 Jun 2026 00:32:17 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://classletters.org/tags/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>American-History</title>
-				<link>http://localhost:1313/tags/american-history/</link>
+				<link>https://classletters.org/tags/american-history/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/american-history/</guid>
+				<guid>https://classletters.org/tags/american-history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>American-Revolution</title>
-				<link>http://localhost:1313/tags/american-revolution/</link>
+				<link>https://classletters.org/tags/american-revolution/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/american-revolution/</guid>
+				<guid>https://classletters.org/tags/american-revolution/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Civil-Rights</title>
-				<link>http://localhost:1313/tags/civil-rights/</link>
+				<link>https://classletters.org/tags/civil-rights/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/civil-rights/</guid>
+				<guid>https://classletters.org/tags/civil-rights/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Race</title>
-				<link>http://localhost:1313/tags/race/</link>
+				<link>https://classletters.org/tags/race/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/race/</guid>
+				<guid>https://classletters.org/tags/race/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Revolution</title>
-				<link>http://localhost:1313/tags/revolution/</link>
+				<link>https://classletters.org/tags/revolution/</link>
 				<pubDate>Sat, 06 Jun 2026 00:32:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/revolution/</guid>
+				<guid>https://classletters.org/tags/revolution/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Chile</title>
-				<link>http://localhost:1313/tags/chile/</link>
+				<link>https://classletters.org/tags/chile/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/chile/</guid>
+				<guid>https://classletters.org/tags/chile/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Foreign-Exchange</title>
-				<link>http://localhost:1313/tags/foreign-exchange/</link>
+				<link>https://classletters.org/tags/foreign-exchange/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/foreign-exchange/</guid>
+				<guid>https://classletters.org/tags/foreign-exchange/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>IMF</title>
-				<link>http://localhost:1313/tags/imf/</link>
+				<link>https://classletters.org/tags/imf/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/imf/</guid>
+				<guid>https://classletters.org/tags/imf/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Imperialism</title>
-				<link>http://localhost:1313/tags/imperialism/</link>
+				<link>https://classletters.org/tags/imperialism/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/imperialism/</guid>
+				<guid>https://classletters.org/tags/imperialism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Neoliberalism</title>
-				<link>http://localhost:1313/tags/neoliberalism/</link>
+				<link>https://classletters.org/tags/neoliberalism/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/neoliberalism/</guid>
+				<guid>https://classletters.org/tags/neoliberalism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Political-Economy</title>
-				<link>http://localhost:1313/tags/political-economy/</link>
+				<link>https://classletters.org/tags/political-economy/</link>
 				<pubDate>Sun, 11 May 2025 06:20:02 +0000</pubDate>
-				<guid>http://localhost:1313/tags/political-economy/</guid>
+				<guid>https://classletters.org/tags/political-economy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Business-History</title>
-				<link>http://localhost:1313/tags/business-history/</link>
+				<link>https://classletters.org/tags/business-history/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/business-history/</guid>
+				<guid>https://classletters.org/tags/business-history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Capitalism</title>
-				<link>http://localhost:1313/tags/capitalism/</link>
+				<link>https://classletters.org/tags/capitalism/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/capitalism/</guid>
+				<guid>https://classletters.org/tags/capitalism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Development</title>
-				<link>http://localhost:1313/tags/development/</link>
+				<link>https://classletters.org/tags/development/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/development/</guid>
+				<guid>https://classletters.org/tags/development/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>History</title>
-				<link>http://localhost:1313/tags/history/</link>
+				<link>https://classletters.org/tags/history/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/history/</guid>
+				<guid>https://classletters.org/tags/history/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Markets</title>
-				<link>http://localhost:1313/tags/markets/</link>
+				<link>https://classletters.org/tags/markets/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/markets/</guid>
+				<guid>https://classletters.org/tags/markets/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Organization</title>
-				<link>http://localhost:1313/tags/organization/</link>
+				<link>https://classletters.org/tags/organization/</link>
 				<pubDate>Sun, 16 Mar 2025 21:52:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/organization/</guid>
+				<guid>https://classletters.org/tags/organization/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Darwinism</title>
-				<link>http://localhost:1313/tags/darwinism/</link>
+				<link>https://classletters.org/tags/darwinism/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/darwinism/</guid>
+				<guid>https://classletters.org/tags/darwinism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Eugenics</title>
-				<link>http://localhost:1313/tags/eugenics/</link>
+				<link>https://classletters.org/tags/eugenics/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/eugenics/</guid>
+				<guid>https://classletters.org/tags/eugenics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Irrationalism</title>
-				<link>http://localhost:1313/tags/irrationalism/</link>
+				<link>https://classletters.org/tags/irrationalism/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/irrationalism/</guid>
+				<guid>https://classletters.org/tags/irrationalism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mythology</title>
-				<link>http://localhost:1313/tags/mythology/</link>
+				<link>https://classletters.org/tags/mythology/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/mythology/</guid>
+				<guid>https://classletters.org/tags/mythology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Nietzsche</title>
-				<link>http://localhost:1313/tags/nietzsche/</link>
+				<link>https://classletters.org/tags/nietzsche/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/nietzsche/</guid>
+				<guid>https://classletters.org/tags/nietzsche/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Political-Philosophy</title>
-				<link>http://localhost:1313/tags/political-philosophy/</link>
+				<link>https://classletters.org/tags/political-philosophy/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/political-philosophy/</guid>
+				<guid>https://classletters.org/tags/political-philosophy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Race-Theory</title>
-				<link>http://localhost:1313/tags/race-theory/</link>
+				<link>https://classletters.org/tags/race-theory/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/race-theory/</guid>
+				<guid>https://classletters.org/tags/race-theory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Reactionary</title>
-				<link>http://localhost:1313/tags/reactionary/</link>
+				<link>https://classletters.org/tags/reactionary/</link>
 				<pubDate>Sun, 02 Feb 2025 01:51:19 +0000</pubDate>
-				<guid>http://localhost:1313/tags/reactionary/</guid>
+				<guid>https://classletters.org/tags/reactionary/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Democracy</title>
-				<link>http://localhost:1313/tags/democracy/</link>
+				<link>https://classletters.org/tags/democracy/</link>
 				<pubDate>Mon, 09 Dec 2024 06:18:49 +0000</pubDate>
-				<guid>http://localhost:1313/tags/democracy/</guid>
+				<guid>https://classletters.org/tags/democracy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Political-Theory</title>
-				<link>http://localhost:1313/tags/political-theory/</link>
+				<link>https://classletters.org/tags/political-theory/</link>
 				<pubDate>Mon, 09 Dec 2024 06:18:49 +0000</pubDate>
-				<guid>http://localhost:1313/tags/political-theory/</guid>
+				<guid>https://classletters.org/tags/political-theory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Africa</title>
-				<link>http://localhost:1313/tags/africa/</link>
+				<link>https://classletters.org/tags/africa/</link>
 				<pubDate>Sun, 17 Nov 2024 04:17:05 +0000</pubDate>
-				<guid>http://localhost:1313/tags/africa/</guid>
+				<guid>https://classletters.org/tags/africa/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Amilcar-Cabral</title>
-				<link>http://localhost:1313/tags/amilcar-cabral/</link>
+				<link>https://classletters.org/tags/amilcar-cabral/</link>
 				<pubDate>Sun, 17 Nov 2024 04:17:05 +0000</pubDate>
-				<guid>http://localhost:1313/tags/amilcar-cabral/</guid>
+				<guid>https://classletters.org/tags/amilcar-cabral/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marxism</title>
-				<link>http://localhost:1313/tags/marxism/</link>
+				<link>https://classletters.org/tags/marxism/</link>
 				<pubDate>Sun, 17 Nov 2024 04:17:05 +0000</pubDate>
-				<guid>http://localhost:1313/tags/marxism/</guid>
+				<guid>https://classletters.org/tags/marxism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Periphery</title>
-				<link>http://localhost:1313/tags/periphery/</link>
+				<link>https://classletters.org/tags/periphery/</link>
 				<pubDate>Sun, 17 Nov 2024 04:17:05 +0000</pubDate>
-				<guid>http://localhost:1313/tags/periphery/</guid>
+				<guid>https://classletters.org/tags/periphery/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Theory</title>
-				<link>http://localhost:1313/tags/theory/</link>
+				<link>https://classletters.org/tags/theory/</link>
 				<pubDate>Sun, 17 Nov 2024 04:17:05 +0000</pubDate>
-				<guid>http://localhost:1313/tags/theory/</guid>
+				<guid>https://classletters.org/tags/theory/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Colonialism</title>
-				<link>http://localhost:1313/tags/colonialism/</link>
+				<link>https://classletters.org/tags/colonialism/</link>
 				<pubDate>Sun, 22 Sep 2024 01:58:15 +0000</pubDate>
-				<guid>http://localhost:1313/tags/colonialism/</guid>
+				<guid>https://classletters.org/tags/colonialism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Congo</title>
-				<link>http://localhost:1313/tags/congo/</link>
+				<link>https://classletters.org/tags/congo/</link>
 				<pubDate>Sun, 22 Sep 2024 01:58:15 +0000</pubDate>
-				<guid>http://localhost:1313/tags/congo/</guid>
+				<guid>https://classletters.org/tags/congo/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Literature</title>
-				<link>http://localhost:1313/tags/literature/</link>
+				<link>https://classletters.org/tags/literature/</link>
 				<pubDate>Sun, 22 Sep 2024 01:58:15 +0000</pubDate>
-				<guid>http://localhost:1313/tags/literature/</guid>
+				<guid>https://classletters.org/tags/literature/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Racism</title>
-				<link>http://localhost:1313/tags/racism/</link>
+				<link>https://classletters.org/tags/racism/</link>
 				<pubDate>Sun, 22 Sep 2024 01:58:15 +0000</pubDate>
-				<guid>http://localhost:1313/tags/racism/</guid>
+				<guid>https://classletters.org/tags/racism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>New-Left</title>
-				<link>http://localhost:1313/tags/new-left/</link>
+				<link>https://classletters.org/tags/new-left/</link>
 				<pubDate>Sat, 29 Jun 2024 04:01:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/new-left/</guid>
+				<guid>https://classletters.org/tags/new-left/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Self-Criticism</title>
-				<link>http://localhost:1313/tags/self-criticism/</link>
+				<link>https://classletters.org/tags/self-criticism/</link>
 				<pubDate>Sat, 29 Jun 2024 04:01:32 +0000</pubDate>
-				<guid>http://localhost:1313/tags/self-criticism/</guid>
+				<guid>https://classletters.org/tags/self-criticism/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historical-Materialism</title>
+				<link>https://classletters.org/tags/historical-materialism/</link>
+				<pubDate>Sun, 16 Jun 2024 05:12:05 +0000</pubDate>
+				<guid>https://classletters.org/tags/historical-materialism/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historicity</title>
+				<link>https://classletters.org/tags/historicity/</link>
+				<pubDate>Sun, 16 Jun 2024 05:12:05 +0000</pubDate>
+				<guid>https://classletters.org/tags/historicity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Historiography</title>
+				<link>https://classletters.org/tags/historiography/</link>
+				<pubDate>Sun, 16 Jun 2024 05:12:05 +0000</pubDate>
+				<guid>https://classletters.org/tags/historiography/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/tags/about/</link>
+				<link>https://classletters.org/tags/about/</link>
 				<pubDate>Thu, 16 May 2024 23:03:17 +0000</pubDate>
-				<guid>http://localhost:1313/tags/about/</guid>
+				<guid>https://classletters.org/tags/about/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Financialisation</title>
-				<link>http://localhost:1313/tags/financialisation/</link>
+				<link>https://classletters.org/tags/financialisation/</link>
 				<pubDate>Wed, 08 May 2024 22:34:24 +0000</pubDate>
-				<guid>http://localhost:1313/tags/financialisation/</guid>
+				<guid>https://classletters.org/tags/financialisation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Health</title>
-				<link>http://localhost:1313/tags/health/</link>
+				<link>https://classletters.org/tags/health/</link>
 				<pubDate>Thu, 28 Mar 2024 23:41:44 +0000</pubDate>
-				<guid>http://localhost:1313/tags/health/</guid>
+				<guid>https://classletters.org/tags/health/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Medicine</title>
-				<link>http://localhost:1313/tags/medicine/</link>
+				<link>https://classletters.org/tags/medicine/</link>
 				<pubDate>Thu, 28 Mar 2024 23:41:44 +0000</pubDate>
-				<guid>http://localhost:1313/tags/medicine/</guid>
+				<guid>https://classletters.org/tags/medicine/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Pharma</title>
-				<link>http://localhost:1313/tags/pharma/</link>
+				<link>https://classletters.org/tags/pharma/</link>
 				<pubDate>Thu, 28 Mar 2024 23:41:44 +0000</pubDate>
-				<guid>http://localhost:1313/tags/pharma/</guid>
+				<guid>https://classletters.org/tags/pharma/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Public Health</title>
-				<link>http://localhost:1313/tags/public-health/</link>
+				<link>https://classletters.org/tags/public-health/</link>
 				<pubDate>Thu, 28 Mar 2024 23:41:44 +0000</pubDate>
-				<guid>http://localhost:1313/tags/public-health/</guid>
+				<guid>https://classletters.org/tags/public-health/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Antiquity</title>
-				<link>http://localhost:1313/tags/antiquity/</link>
+				<link>https://classletters.org/tags/antiquity/</link>
 				<pubDate>Thu, 08 Feb 2024 23:20:45 +0000</pubDate>
-				<guid>http://localhost:1313/tags/antiquity/</guid>
+				<guid>https://classletters.org/tags/antiquity/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Industrial-Revolution</title>
-				<link>http://localhost:1313/tags/industrial-revolution/</link>
+				<link>https://classletters.org/tags/industrial-revolution/</link>
 				<pubDate>Thu, 08 Feb 2024 23:20:45 +0000</pubDate>
-				<guid>http://localhost:1313/tags/industrial-revolution/</guid>
+				<guid>https://classletters.org/tags/industrial-revolution/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Mode-of-Production</title>
-				<link>http://localhost:1313/tags/mode-of-production/</link>
+				<link>https://classletters.org/tags/mode-of-production/</link>
 				<pubDate>Thu, 08 Feb 2024 23:20:45 +0000</pubDate>
-				<guid>http://localhost:1313/tags/mode-of-production/</guid>
+				<guid>https://classletters.org/tags/mode-of-production/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Rome</title>
-				<link>http://localhost:1313/tags/rome/</link>
+				<link>https://classletters.org/tags/rome/</link>
 				<pubDate>Thu, 08 Feb 2024 23:20:45 +0000</pubDate>
-				<guid>http://localhost:1313/tags/rome/</guid>
+				<guid>https://classletters.org/tags/rome/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Biology</title>
-				<link>http://localhost:1313/tags/biology/</link>
+				<link>https://classletters.org/tags/biology/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/tags/biology/</guid>
+				<guid>https://classletters.org/tags/biology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Evolution</title>
-				<link>http://localhost:1313/tags/evolution/</link>
+				<link>https://classletters.org/tags/evolution/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/tags/evolution/</guid>
+				<guid>https://classletters.org/tags/evolution/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Gould</title>
-				<link>http://localhost:1313/tags/gould/</link>
+				<link>https://classletters.org/tags/gould/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/tags/gould/</guid>
+				<guid>https://classletters.org/tags/gould/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marx</title>
-				<link>http://localhost:1313/tags/marx/</link>
+				<link>https://classletters.org/tags/marx/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/tags/marx/</guid>
+				<guid>https://classletters.org/tags/marx/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Materialism</title>
-				<link>http://localhost:1313/tags/materialism/</link>
+				<link>https://classletters.org/tags/materialism/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/tags/materialism/</guid>
+				<guid>https://classletters.org/tags/materialism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Aesthetics</title>
-				<link>http://localhost:1313/tags/aesthetics/</link>
+				<link>https://classletters.org/tags/aesthetics/</link>
 				<pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/aesthetics/</guid>
+				<guid>https://classletters.org/tags/aesthetics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Lukacs</title>
-				<link>http://localhost:1313/tags/lukacs/</link>
+				<link>https://classletters.org/tags/lukacs/</link>
 				<pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/lukacs/</guid>
+				<guid>https://classletters.org/tags/lukacs/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Realism</title>
-				<link>http://localhost:1313/tags/realism/</link>
+				<link>https://classletters.org/tags/realism/</link>
 				<pubDate>Fri, 29 Sep 2023 02:07:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/realism/</guid>
+				<guid>https://classletters.org/tags/realism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Adolph-Reed-Jr</title>
-				<link>http://localhost:1313/tags/adolph-reed-jr/</link>
+				<link>https://classletters.org/tags/adolph-reed-jr/</link>
 				<pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/adolph-reed-jr/</guid>
+				<guid>https://classletters.org/tags/adolph-reed-jr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Identitarianism</title>
-				<link>http://localhost:1313/tags/identitarianism/</link>
+				<link>https://classletters.org/tags/identitarianism/</link>
 				<pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/identitarianism/</guid>
+				<guid>https://classletters.org/tags/identitarianism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ideology</title>
-				<link>http://localhost:1313/tags/ideology/</link>
+				<link>https://classletters.org/tags/ideology/</link>
 				<pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/ideology/</guid>
+				<guid>https://classletters.org/tags/ideology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Neoliberalisation</title>
-				<link>http://localhost:1313/tags/neoliberalisation/</link>
+				<link>https://classletters.org/tags/neoliberalisation/</link>
 				<pubDate>Sun, 24 Sep 2023 02:47:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/neoliberalisation/</guid>
+				<guid>https://classletters.org/tags/neoliberalisation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Che-Guevara</title>
-				<link>http://localhost:1313/tags/che-guevara/</link>
+				<link>https://classletters.org/tags/che-guevara/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>http://localhost:1313/tags/che-guevara/</guid>
+				<guid>https://classletters.org/tags/che-guevara/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Cuba</title>
-				<link>http://localhost:1313/tags/cuba/</link>
+				<link>https://classletters.org/tags/cuba/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>http://localhost:1313/tags/cuba/</guid>
+				<guid>https://classletters.org/tags/cuba/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Healthcare</title>
-				<link>http://localhost:1313/tags/healthcare/</link>
+				<link>https://classletters.org/tags/healthcare/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>http://localhost:1313/tags/healthcare/</guid>
+				<guid>https://classletters.org/tags/healthcare/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Revolutionary-Science</title>
-				<link>http://localhost:1313/tags/revolutionary-science/</link>
+				<link>https://classletters.org/tags/revolutionary-science/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>http://localhost:1313/tags/revolutionary-science/</guid>
+				<guid>https://classletters.org/tags/revolutionary-science/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bourgeoise</title>
-				<link>http://localhost:1313/tags/bourgeoise/</link>
+				<link>https://classletters.org/tags/bourgeoise/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/bourgeoise/</guid>
+				<guid>https://classletters.org/tags/bourgeoise/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Class</title>
-				<link>http://localhost:1313/tags/class/</link>
+				<link>https://classletters.org/tags/class/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/class/</guid>
+				<guid>https://classletters.org/tags/class/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Fascism</title>
-				<link>http://localhost:1313/tags/fascism/</link>
+				<link>https://classletters.org/tags/fascism/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/fascism/</guid>
+				<guid>https://classletters.org/tags/fascism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Segregation</title>
-				<link>http://localhost:1313/tags/segregation/</link>
+				<link>https://classletters.org/tags/segregation/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/segregation/</guid>
+				<guid>https://classletters.org/tags/segregation/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Suburban</title>
-				<link>http://localhost:1313/tags/suburban/</link>
+				<link>https://classletters.org/tags/suburban/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/suburban/</guid>
+				<guid>https://classletters.org/tags/suburban/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>United-States</title>
-				<link>http://localhost:1313/tags/united-states/</link>
+				<link>https://classletters.org/tags/united-states/</link>
 				<pubDate>Sun, 09 Jul 2023 07:18:50 +0000</pubDate>
-				<guid>http://localhost:1313/tags/united-states/</guid>
+				<guid>https://classletters.org/tags/united-states/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Anthropology</title>
-				<link>http://localhost:1313/tags/anthropology/</link>
+				<link>https://classletters.org/tags/anthropology/</link>
 				<pubDate>Sun, 11 Jun 2023 05:03:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/anthropology/</guid>
+				<guid>https://classletters.org/tags/anthropology/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Economics</title>
-				<link>http://localhost:1313/tags/economics/</link>
+				<link>https://classletters.org/tags/economics/</link>
 				<pubDate>Sun, 11 Jun 2023 05:03:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/economics/</guid>
+				<guid>https://classletters.org/tags/economics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Marcel-Mauss</title>
-				<link>http://localhost:1313/tags/marcel-mauss/</link>
+				<link>https://classletters.org/tags/marcel-mauss/</link>
 				<pubDate>Sun, 11 Jun 2023 05:03:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/marcel-mauss/</guid>
+				<guid>https://classletters.org/tags/marcel-mauss/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bayard-Rustin</title>
-				<link>http://localhost:1313/tags/bayard-rustin/</link>
+				<link>https://classletters.org/tags/bayard-rustin/</link>
 				<pubDate>Thu, 01 Jun 2023 03:30:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/bayard-rustin/</guid>
+				<guid>https://classletters.org/tags/bayard-rustin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Moralism</title>
-				<link>http://localhost:1313/tags/moralism/</link>
+				<link>https://classletters.org/tags/moralism/</link>
 				<pubDate>Thu, 01 Jun 2023 03:30:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/moralism/</guid>
+				<guid>https://classletters.org/tags/moralism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Organizing</title>
-				<link>http://localhost:1313/tags/organizing/</link>
+				<link>https://classletters.org/tags/organizing/</link>
 				<pubDate>Thu, 01 Jun 2023 03:30:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/organizing/</guid>
+				<guid>https://classletters.org/tags/organizing/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Politics</title>
-				<link>http://localhost:1313/tags/politics/</link>
+				<link>https://classletters.org/tags/politics/</link>
 				<pubDate>Thu, 01 Jun 2023 03:30:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/politics/</guid>
+				<guid>https://classletters.org/tags/politics/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Socialism</title>
-				<link>http://localhost:1313/tags/socialism/</link>
+				<link>https://classletters.org/tags/socialism/</link>
 				<pubDate>Thu, 01 Jun 2023 03:30:51 +0000</pubDate>
-				<guid>http://localhost:1313/tags/socialism/</guid>
+				<guid>https://classletters.org/tags/socialism/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Boris-Kagarlitsky</title>
-				<link>http://localhost:1313/tags/boris-kagarlitsky/</link>
+				<link>https://classletters.org/tags/boris-kagarlitsky/</link>
 				<pubDate>Sat, 06 May 2023 02:35:24 +0000</pubDate>
-				<guid>http://localhost:1313/tags/boris-kagarlitsky/</guid>
+				<guid>https://classletters.org/tags/boris-kagarlitsky/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Bureaucracy</title>
-				<link>http://localhost:1313/tags/bureaucracy/</link>
+				<link>https://classletters.org/tags/bureaucracy/</link>
 				<pubDate>Sat, 06 May 2023 02:35:24 +0000</pubDate>
-				<guid>http://localhost:1313/tags/bureaucracy/</guid>
+				<guid>https://classletters.org/tags/bureaucracy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ussr-Collapse</title>
-				<link>http://localhost:1313/tags/ussr-collapse/</link>
+				<link>https://classletters.org/tags/ussr-collapse/</link>
 				<pubDate>Sat, 06 May 2023 02:35:24 +0000</pubDate>
-				<guid>http://localhost:1313/tags/ussr-collapse/</guid>
+				<guid>https://classletters.org/tags/ussr-collapse/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Yeltsin</title>
-				<link>http://localhost:1313/tags/yeltsin/</link>
+				<link>https://classletters.org/tags/yeltsin/</link>
 				<pubDate>Sat, 06 May 2023 02:35:24 +0000</pubDate>
-				<guid>http://localhost:1313/tags/yeltsin/</guid>
+				<guid>https://classletters.org/tags/yeltsin/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>World-Bank</title>
-				<link>http://localhost:1313/tags/world-bank/</link>
+				<link>https://classletters.org/tags/world-bank/</link>
 				<pubDate>Sat, 01 Apr 2023 22:51:40 +0000</pubDate>
-				<guid>http://localhost:1313/tags/world-bank/</guid>
+				<guid>https://classletters.org/tags/world-bank/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Culture-Critic</title>
-				<link>http://localhost:1313/tags/culture-critic/</link>
+				<link>https://classletters.org/tags/culture-critic/</link>
 				<pubDate>Wed, 29 Mar 2023 10:59:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/culture-critic/</guid>
+				<guid>https://classletters.org/tags/culture-critic/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Genealogy</title>
-				<link>http://localhost:1313/tags/genealogy/</link>
+				<link>https://classletters.org/tags/genealogy/</link>
 				<pubDate>Wed, 29 Mar 2023 10:59:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/genealogy/</guid>
+				<guid>https://classletters.org/tags/genealogy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Racecraft</title>
-				<link>http://localhost:1313/tags/racecraft/</link>
+				<link>https://classletters.org/tags/racecraft/</link>
 				<pubDate>Wed, 29 Mar 2023 10:59:16 +0000</pubDate>
-				<guid>http://localhost:1313/tags/racecraft/</guid>
+				<guid>https://classletters.org/tags/racecraft/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Maxim-Gorky</title>
-				<link>http://localhost:1313/tags/maxim-gorky/</link>
+				<link>https://classletters.org/tags/maxim-gorky/</link>
 				<pubDate>Wed, 22 Mar 2023 08:06:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/maxim-gorky/</guid>
+				<guid>https://classletters.org/tags/maxim-gorky/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Soviet-Literature</title>
-				<link>http://localhost:1313/tags/soviet-literature/</link>
+				<link>https://classletters.org/tags/soviet-literature/</link>
 				<pubDate>Wed, 22 Mar 2023 08:06:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/soviet-literature/</guid>
+				<guid>https://classletters.org/tags/soviet-literature/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Ussr</title>
-				<link>http://localhost:1313/tags/ussr/</link>
+				<link>https://classletters.org/tags/ussr/</link>
 				<pubDate>Wed, 22 Mar 2023 08:06:39 +0000</pubDate>
-				<guid>http://localhost:1313/tags/ussr/</guid>
+				<guid>https://classletters.org/tags/ussr/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Philosophy</title>
-				<link>http://localhost:1313/tags/philosophy/</link>
+				<link>https://classletters.org/tags/philosophy/</link>
 				<pubDate>Sun, 05 Mar 2023 01:59:10 +0000</pubDate>
-				<guid>http://localhost:1313/tags/philosophy/</guid>
+				<guid>https://classletters.org/tags/philosophy/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>PMC</title>
-				<link>http://localhost:1313/tags/pmc/</link>
+				<link>https://classletters.org/tags/pmc/</link>
 				<pubDate>Sun, 12 Feb 2023 02:15:15 +0000</pubDate>
-				<guid>http://localhost:1313/tags/pmc/</guid>
+				<guid>https://classletters.org/tags/pmc/</guid>
 				<description></description>
 			</item>
 	</channel>

@@ -1,7 +1,8 @@
 ---
 title: "An interview with historian Clayborne Carson on the New York Times' 1619 Project"
 date: 2026-06-06T00:32:17Z
-author: ""
+author: "World Socialist Website"
+authors: ["World Socialist Website"]
 type: "post"
 tags: ["american-revolution", "revolution", "american-history", "race", "civil-rights"]
 draft: false

@@ -1,0 +1,11 @@
+{{ define "main" }}
+<!-- https://dongheenam.info/posts/tag-groups-by-first-letter/ -->
+<h1>{{ "Authors" }}</h1>
+{{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+{{ $authors := slice }}
+{{ range .Site.RegularPages }}
+{{ $authors := .Params.authors }}
+{{ $authors }} 
+{{ end }} 
+</div>
+{{ end }}

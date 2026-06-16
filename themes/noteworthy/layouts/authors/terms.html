@@ -1,9 +1,8 @@
-{{ define "main" }}
+{{define "main" }}
 <!-- https://dongheenam.info/posts/tag-groups-by-first-letter/ -->
-<h1>{{ "Authors" }}</h1>
+<h1>Authors</h1>
 {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
 {{ $pages := .Pages.ByTitle }}
-{{ $pages }}
 {{ $by_letter := dict }}
 {{ range $pages }}
   {{ $page := . }}
@@ -17,14 +16,14 @@
   {{ end }}
   {{ $by_letter = merge $by_letter (dict $first_letter $new_list) }}
 {{ end }}
-<!-- ...rendering happens here -->
-<div class="taxonomy">
+
+<div class="authors">
 {{ range $key, $items := $by_letter }}
   <span class="key">{{ $key }}</span>
   <ul>
-  {{ range $items  }}
+  {{ range $items }}
     <li>
-      <a href="{{ .RelPermalink }}">{{ .Name }}</a>
+      <a href="{{ .RelPermalink }}" style="text-decoration:none">{{ .Name }}</a><sup>{{ len .Pages }}</sup>
     </li>
   {{ end }}
   </ul>

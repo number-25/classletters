@@ -2,6 +2,7 @@
 title: "Why no Roman Industrial Revolution?"
 date: 2024-02-08T23:20:45Z
 author: "Bret Devereaux"
+authors: ["Bret Devereaux"]
 type: "post"
 tags: ["political-economy", "rome", "antiquity", "mode-of-production", "industrial-revolution"]
 draft: false

@@ -2,6 +2,7 @@
 title: "Seven Types of Obloquy: Traversties of Marxism"
 date: 2024-06-29T04:01:32Z
 author: "Norman Geras"
+authors: ["Norman Geras"]
 type: "post"
 tags: ["marxism", "self-criticism", "new-left"]
 draft: false

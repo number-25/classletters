@@ -2,6 +2,7 @@
 title: "Revolutionary Medicine"
 date: 2023-08-03T07:31:37Z
 author: "Ernesto Che Guevara"
+authors: ["Ernesto Che Guevara"]
 type: "post"
 tags: ["medicine", "revolution", "revolutionary-science", "cuba", "healthcare",
 "che-guevara"]

@@ -2,6 +2,7 @@
 title: "A False Dawn; The Cancer Code"
 date: 2024-02-18T23:41:44Z
 author: "Jason Fung"
+authors: ["Jason Fung"]
 type: "post"
 tags: ["medicine", "pharma", "capitalism", "neoliberalism", "health", "public health"]
 draft: false

@@ -1,10 +1,11 @@
 ---
-title: "Notes on 'What is History' by E.H. Carr"
+title: "Notes on 'What is History'"
 date: 2024-06-16T05:12:05Z
 author: "E.H. Carr"
+authors: ["E.H. Carr"]
 type: "post"
 tags: ["history", "historiography", "historical-materialism", "marxism", "historicity"]
-draft: true
+draft: false
 ---
 
 "That elusive entity 'human nature' has varied so much from country to country
@@ -98,8 +99,7 @@ social scientist and his data, between the historian and his facts, is
 continuous, and continuously varies; and that this appears to be a distinctive
 feature of history and of the social sciences."   
 
-"Historians
-condone the nineteenth-century colonisation of Asia and Africa by the western nations on
+"Historians condone the nineteenth-century colonisation of Asia and Africa by the western nations on
 the ground not only of its immediate effects on the world economy, but of its long-term
 consequences for the backward peoples of these continents. After all, it is said, modern
 India is the child of British rule; and modern China is the product of nineteenth-century
