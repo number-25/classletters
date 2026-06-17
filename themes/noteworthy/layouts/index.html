@@ -11,13 +11,17 @@
         <article>
             <h2>
                 <a href="{{ .Permalink }}">
-                    {{ .Title }}
+                    {{ .Title | markdownify }}
                 </a>
             </h2>
             <h3 style="color:#990000;" >
-                {{ if .Params.author }}
-                    <i> {{ .Params.author }} </i>
+            <!-- Author section with links -->
+            {{ with .GetTerms "authors" }}
+                {{ range $index, $author := . }}
+                {{ if gt $index 0 }}, {{ end }}
+          <a style="color:#990000;text-decoration:none;font-style:" href="{{ $author.RelPermalink }}" class="author-link" rel="author">{{ $author.Title }} </a>
                 {{ end }}
+            {{ end }}
             </h3>
             <div>
                 <p>{{ .Summary }}</p>

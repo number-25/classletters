@@ -35,10 +35,8 @@ pagination.pagerSize = 15
     showReadMore = true
 
     # Set enableKofi to true to enable the Ko-fi support button. Add your Ko-fi ID to link to your account.
-    #enableKofi = true
-    #kofi = ""
-
-
+    enableKofi = false
+    kofi = "number-25"
 
     # Add links to your accounts. Remove the ones you don't want to include.
     # Main

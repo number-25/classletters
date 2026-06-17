@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Che-Guevara on Class Letters</title>
-		<link>https://classletters.org/tags/che-guevara/</link>
+		<link>http://localhost:1313/tags/che-guevara/</link>
 		<description>Recent content in Che-Guevara on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 03 Aug 2023 07:31:37 +0000</lastBuildDate>
 		
-			<atom:link href="https://classletters.org/tags/che-guevara/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/che-guevara/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Revolutionary Medicine</title>
-				<link>https://classletters.org/posts/assorted/revolutionarey_medicine_che/</link>
+				<link>http://localhost:1313/posts/assorted/revolutionary_medicine_che/</link>
 				<pubDate>Thu, 03 Aug 2023 07:31:37 +0000</pubDate>
-				<guid>https://classletters.org/posts/assorted/revolutionarey_medicine_che/</guid>
+				<guid>http://localhost:1313/posts/assorted/revolutionary_medicine_che/</guid>
 				<description>&lt;p&gt;Adapted from &lt;a href=&#34;https://www.marxists.org/archive/guevara/1960/08/19.htm&#34;&gt;https://www.marxists.org/archive/guevara/1960/08/19.htm&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I was put onto this article from the reading of the terrific&#xA;text on the Cuban and Venezuelan healthcare systems and practices by Steven&#xA;Brouwer: &lt;a href=&#34;https://monthlyreview.org/product/revolutionary_doctors/&#34;&gt;&amp;ldquo;Revolutionary Doctors: How Venezuela and Cuba Are Changing the World’s&#xA;Conception of Health Care&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This simple celebration, another among the hundreds of public functions with&#xA;which the Cuban people daily celebrate their liberty, the progress of all their&#xA;revolutionary laws, and their advances along the road to complete independence,&#xA;is of special interest to me.&lt;/p&gt;</description>
 			</item>
 	</channel>

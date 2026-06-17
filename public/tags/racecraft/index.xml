@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Racecraft on Class Letters</title>
-		<link>https://classletters.org/tags/racecraft/</link>
+		<link>http://localhost:1313/tags/racecraft/</link>
 		<description>Recent content in Racecraft on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 29 Mar 2023 10:59:16 +0000</lastBuildDate>
 		
-			<atom:link href="https://classletters.org/tags/racecraft/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/racecraft/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Race into Culture: A Critical Genealogy of Cultural Identity</title>
-				<link>https://classletters.org/posts/walter-benn-michaels/geneology-race-into-culture/</link>
+				<link>http://localhost:1313/posts/walter-benn-michaels/geneology-race-into-culture/</link>
 				<pubDate>Wed, 29 Mar 2023 10:59:16 +0000</pubDate>
-				<guid>https://classletters.org/posts/walter-benn-michaels/geneology-race-into-culture/</guid>
+				<guid>http://localhost:1313/posts/walter-benn-michaels/geneology-race-into-culture/</guid>
 				<description>&lt;p&gt;Due to the prolific number of footnotes that Michael&amp;rsquo;s article contains, the&#xA;essay will simply be linked to here. It is an important walk through the&#xA;trajectories that various essentialist concepts have taken in the course of modern&#xA;Northern American history. What surprised me most was this quasi-progess &amp;mdash; where&#xA;it appears that the concept of race has been disposed of, it&amp;rsquo;s kernel is&#xA;carried over into a different, yet sadly, familial form.&lt;/p&gt;</description>
 			</item>
 	</channel>

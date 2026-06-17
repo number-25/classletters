@@ -1,5 +1,5 @@
 ---
-title: "The 'Lethal Chamber' in Eugenic Thought: an excerpt from Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain"
+title: "The 'Lethal Chamber' in Eugenic Thought: an excerpt from *Breeding Superman: Nietzsche, Race and Eugenics in Edwardian and Interwar Britain*"
 date: 2025-02-02T01:51:19Z
 author: "Dan Stone"
 authors: ["Dan Stone"]

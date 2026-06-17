@@ -1,9 +1,15 @@
 {{ define "main" }}
 
-<h1 class="post-title">{{ .Title }}</h1> 
-    {{ if .Params.author }}
-    <h5> {{ .Params.author }} </h5>
+<h1 class="post-title">{{ .Title | markdownify  }}</h1>
+    <!-- Author section with links -->
+    {{ with .GetTerms "authors" }}
+        {{ range $index, $author := . }}
+          {{ if gt $index 0 }}, {{ end }}
+          <h2> <a style="color:#990000" href="{{ $author.RelPermalink }}" class="author-link" rel="author">
+            {{ $author.Title }} </a> </h2>
+        {{ end }}
     {{ end }}
+
     {{ if .Date }}
     <time>{{ .Date.Format "January 2, 2006" }}</time>
     {{ end }}
@@ -19,7 +25,7 @@
         <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script>
         <script type='text/javascript'>
             const kofiId = '{{ .Site.Params.Kofi }}';
-            kofiwidget2.init('Support Us on Ko-fi', '#29abe0', kofiId);
+            kofiwidget2.init('Support Class Letters on Ko-fi', '#990000', kofiId);
             kofiwidget2.draw();
         </script> 
 
