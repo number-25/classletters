@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Historical-Materialism on Class Letters</title>
-		<link>http://localhost:1313/tags/historical-materialism/</link>
+		<link>https://classletters.org/tags/historical-materialism/</link>
 		<description>Recent content in Historical-Materialism on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 16 Jun 2024 05:12:05 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/historical-materialism/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://classletters.org/tags/historical-materialism/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Notes on &#39;What is History&#39;</title>
-				<link>http://localhost:1313/posts/assorted/what_is_history_carr/</link>
+				<link>https://classletters.org/posts/assorted/what_is_history_carr/</link>
 				<pubDate>Sun, 16 Jun 2024 05:12:05 +0000</pubDate>
-				<guid>http://localhost:1313/posts/assorted/what_is_history_carr/</guid>
+				<guid>https://classletters.org/posts/assorted/what_is_history_carr/</guid>
 				<description>&lt;p&gt;&amp;ldquo;That elusive entity &amp;lsquo;human nature&amp;rsquo; has varied so much from country to country&#xA;and from century to century that it is difficult not to regard it as a&#xA;historical phenomenon shaped by prevailing social conditions and conventions.&#xA;There are many differences between, say, Americans, Russians, and Indians. But&#xA;some, and perhaps the most important, of these differences take the form of&#xA;different attitudes to social relations between individuals, or, in other&#xA;words, to the way in which society should be constituted, so that the study of&#xA;differences between American, Russian, and Indian society as a whole may well&#xA;turn out to be the best way of studying differences between individual&#xA;Americans, Russians, and Indians. Civilized man, like primitive man, is moulded&#xA;by society just as effectively as society is moulded by him. You can no more&#xA;have the egg without the hen than you can have the hen without the egg.&amp;rdquo;&lt;/p&gt;</description>
 			</item>
 	</channel>
