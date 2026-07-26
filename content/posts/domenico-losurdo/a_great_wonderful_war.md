@@ -1,7 +1,8 @@
 ---
 title: "A Great and  Wonderful War"
-date: 2023-04-08T02:05:49Z
+date: 2026-06-20T02:05:49Z
 author: "Domenico Losurdo"
+authord: ["Domenico Losurdo"]
 type: "post"
 tags: ["domenico-losurdo", "fascism", "heidegger", "ideology", "war", "idealism"]
 draft: true
@@ -12,31 +13,32 @@ draft: true
 
 The outbreak of the First World War was perceived by more than just a few
 European intellectuals as the confirmation of the irreversible crisis, not only
-of historical materialism, but of every "unilateral, natu- ralisric way of
+of historical materialism, but of every "unilateral, naturalistic way of
 thinking and feeling" as well --- the expression, we will see, is Husserl's. In
 the presence of this conflict, considered by a large political press to be a
-clash of opposed ideals and world visions, even as a reli- gious and holy war,
-a *Glaubenskrieg*{^1}, the economic and material approach to the historical
+clash of opposed ideals and world visions, even as a religious and holy war,
+a *Glaubenskrieg*[^1], the economic and material approach to the historical
 world was revealing its bankruptcy. What point was there in continuing to speak
 of class struggle when faced with a conflict that seemed to transcend every
 material dimension? What were mere material interests when faced with a war
-that seemed to demonstrate the supcrioriry of the spiritual over the
+that seemed to demonstrate the superiority of the spiritual over the
 economical, and how relevant could those material interest be in the presence
 of a national community wonderfully and intimately united in the hour of
-danger?   
-	Such experiences more often than not stray into the mystical. Stefan
+danger?  
+
+Such experiences more often than not stray into the mystical. Stefan
 Zweig provides a very powerful description of the atmosphere in Vienna
 immediately preceding the outbreak of the war:  
 
 > As never before, thousands---hundreds of thousands---felt what they
-should have felt in peacetime; that they belonged to a great nation ....  Each
+should have felt in peacetime; that they belonged to a great nation... Each
 one was called upon to cast his infinitesimal self into the glowing mass, and
 there to be purified of all selfishness. All differences of class, religion and
-language were washed away by the great feeling of fraternity.... Each
+language were washed away by the great feeling of fraternity... Each
 individual experienced an exaltation of his ego; he was no longer the isolated
 person of former times; he felt incorporated into the mass, he was a part of
 the people, and his person, his hitherto unnoticed person had been given
-meaning.2    
+meaning.[^2]    
 
 At this point, we are still far from the atmosphere of Western or
 European decline that will later emerge: Under the spell of the first days
