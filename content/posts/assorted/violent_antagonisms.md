@@ -5,7 +5,7 @@ author: "Tobi Haslett"
 authors: ["Tobi Haslett"]
 type: "post"
 tags: ["literature", "public intellectual", "critique"]
-draft: true
+draft: false
 ---
 
 This interview was taken directly from [*The Point* magazine](https://thepointmag.com/dialogue/violent-antagonisms/). 

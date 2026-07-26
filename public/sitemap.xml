@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://classletters.org/authors/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/critique/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/literature/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/public-intellectual/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/authors/tobi-haslett/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/assorted/violent_antagonisms/</loc>
+    <lastmod>2026-07-26T10:19:39+10:00</lastmod>
+  </url><url>
     <loc>https://classletters.org/tags/africa/</loc>
     <lastmod>2026-06-16T05:27:44+00:00</lastmod>
   </url><url>
@@ -11,22 +38,10 @@
     <loc>https://classletters.org/tags/art/</loc>
     <lastmod>2026-06-16T05:27:44+00:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/authors/</loc>
-    <lastmod>2026-06-16T05:27:44+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/</loc>
-    <lastmod>2026-06-16T05:27:44+00:00</lastmod>
-  </url><url>
     <loc>https://classletters.org/tags/culture/</loc>
     <lastmod>2026-06-16T05:27:44+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/authors/ismail-bala/</loc>
-    <lastmod>2026-06-16T05:27:44+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/posts/</loc>
-    <lastmod>2026-06-16T05:27:44+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/</loc>
     <lastmod>2026-06-16T05:27:44+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/american-history/</loc>
@@ -168,9 +183,6 @@
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/congo/</loc>
-    <lastmod>2024-09-22T01:58:15+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/literature/</loc>
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/racism/</loc>

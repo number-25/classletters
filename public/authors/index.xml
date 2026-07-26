@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 16 Jun 2026 05:27:44 +0000</lastBuildDate>
+			<lastBuildDate>Sun, 26 Jul 2026 10:19:39 +1000</lastBuildDate>
 		
 			<atom:link href="https://classletters.org/authors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Tobi Haslett</title>
+				<link>https://classletters.org/authors/tobi-haslett/</link>
+				<pubDate>Sun, 26 Jul 2026 10:19:39 +1000</pubDate>
+				<guid>https://classletters.org/authors/tobi-haslett/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Ismail Bala</title>
 				<link>https://classletters.org/authors/ismail-bala/</link>
