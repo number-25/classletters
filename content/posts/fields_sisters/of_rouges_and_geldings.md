@@ -4,7 +4,7 @@ date: 2026-08-16T12:17:48+10:00
 author: "Barbara J. Fields"
 authors: ["Barbara J. Fields"]
 type: "post"
-tags: ["race-craft", "racism", "american-history"]
+tags: ["race-craft", "racism", "race", "american-history"]
 draft: fa;se
 ---
 
