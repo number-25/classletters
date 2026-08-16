@@ -19,9 +19,14 @@ pagination.pagerSize = 15
     author = "authors"
 
 # Set to false to disallow raw HTML in markdown files
-[markup.goldmark.renderer]
-    unsafe = true
-
+[markup]
+[markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
+#    [markup.goldmark.parser]
+#        wrapStandAloneImageWithinParagraph = false
+#        [markup.goldmark.parser.attribute]
+#            block = true
 
 [params]
 	mainSections = ["post"]

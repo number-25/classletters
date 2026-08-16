@@ -183,10 +183,7 @@ The picture was painted three hundred years ago. We are looking at it today. The
 
 The image of Hendrickje in bed was preserved thanks to Rembrandt’s art. Yet the need to preserve an image is felt by us all at certain moments.  
 
-<figure>
-    <img src="hendrickje.jpg" alt="A Woman in Bed, Rembrandt, 1647." width="600" height="600" align="center">
-    <figcaption>A Woman in Bed, Rembrandt, 1647.</figcaption>
-</figure>
+{{< figure src="../hendrickje.jpg" title="A Woman in Bed, Rembrandt, 1647." >}}
 
 There is a photograph by the great Hungarian photographer, André Kertesz, in which we see a mother with her child looking very intently at a soldier. We do not, I think, require the caption in order to know that the soldier is about to leave. The great-coat hung over his shoulder, his hat, the rifle, are evidence enough. And the fact that the woman has just walked out of a kitchen and will shortly return to it is indicated by her lack of outdoor clothes. Some of the drama of the moment is already there in the difference between the clothes the two are wearing. His for travelling, for sleeping out, for fighting; hers for staying at home.
 

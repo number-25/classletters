@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Public Intellectual on Class Letters</title>
-		<link>http://localhost:1313/tags/public-intellectual/</link>
+		<link>https://classletters.org/tags/public-intellectual/</link>
 		<description>Recent content in Public Intellectual on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sun, 26 Jul 2026 10:19:39 +1000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/public-intellectual/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://classletters.org/tags/public-intellectual/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Violent Antagonisms: A conversation with Tobi Haslett</title>
-				<link>http://localhost:1313/posts/assorted/violent_antagonisms/</link>
+				<link>https://classletters.org/posts/assorted/violent_antagonisms/</link>
 				<pubDate>Sun, 26 Jul 2026 10:19:39 +1000</pubDate>
-				<guid>http://localhost:1313/posts/assorted/violent_antagonisms/</guid>
+				<guid>https://classletters.org/posts/assorted/violent_antagonisms/</guid>
 				<description>&lt;p&gt;This interview was taken directly from &lt;a href=&#34;https://thepointmag.com/dialogue/violent-antagonisms/&#34;&gt;&lt;em&gt;The Point&lt;/em&gt; magazine&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In his work, Tobi Haslett chooses rough, unpredictable terrain over the well-trodden, direct path. Whether it comes to prose or ideas, he refuses to pander to the status quo, unlike many reviewers, who, he says, fall victim to its traps; and he insists on disclosing, especially at the formal level, how all cultural objects are “shot through with violent antagonisms.” Read his essays on Elizabeth Hardwick, or Susan Sontag, or the George Floyd rebellion, and you’ll see what I mean. Haslett is arguably one of the best, most culturally and socially incisive writers at work today, precisely because he is willing to dissent from what’s “trendy” and critique what’s “vulgar”—namely, what he calls “self-professed aesthetes.”&lt;/p&gt;</description>
 			</item>
 	</channel>

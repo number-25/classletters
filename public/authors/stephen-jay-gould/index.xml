@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Stephen Jay Gould on Class Letters</title>
-		<link>http://localhost:1313/authors/stephen-jay-gould/</link>
+		<link>https://classletters.org/authors/stephen-jay-gould/</link>
 		<description>Recent content in Stephen Jay Gould on Class Letters</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Wed, 31 Jan 2024 23:28:27 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/authors/stephen-jay-gould/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://classletters.org/authors/stephen-jay-gould/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Darwin&#39;s Delay</title>
-				<link>http://localhost:1313/posts/biology/sjgould/darwins_delay/</link>
+				<link>https://classletters.org/posts/biology/sjgould/darwins_delay/</link>
 				<pubDate>Wed, 31 Jan 2024 23:28:27 +0000</pubDate>
-				<guid>http://localhost:1313/posts/biology/sjgould/darwins_delay/</guid>
+				<guid>https://classletters.org/posts/biology/sjgould/darwins_delay/</guid>
 				<description>&lt;p&gt;Few events inspire more speculation than long and unexplained pauses in the activities of&#xA;famous people. Rossini crowned a brilliant operatic career with William Tell and then wrote&#xA;almost nothing for the next thirty-five years. Dorothy Sayers abandoned Lord Peter Wimsey&#xA;at the height of his popularity and turned instead to God. Charles Darwin developed a radical&#xA;theory of evolution in 1838 and published it twenty-one years later only because A. R.&#xA;Wallace was about to scoop him.&lt;/p&gt;</description>
 			</item>
 	</channel>
