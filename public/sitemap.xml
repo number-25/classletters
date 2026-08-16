@@ -2,11 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://classletters.org/tags/american-history/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
     <loc>https://classletters.org/authors/</loc>
-    <lastmod>2026-08-16T10:49:46+10:00</lastmod>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/authors/barbara-j.-fields/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/</loc>
-    <lastmod>2026-08-16T10:49:46+10:00</lastmod>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/fields_sisters/of_rouges_and_geldings/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/race-craft/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/racism/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/</loc>
+    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/assorted/go_ask_the_time/go_ask_the_time/</loc>
     <lastmod>2026-08-16T10:49:46+10:00</lastmod>
@@ -18,12 +39,6 @@
     <lastmod>2026-08-16T10:49:46+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/literature/</loc>
-    <lastmod>2026-08-16T10:49:46+10:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/posts/</loc>
-    <lastmod>2026-08-16T10:49:46+10:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/</loc>
     <lastmod>2026-08-16T10:49:46+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/temporality/</loc>
@@ -55,9 +70,6 @@
   </url><url>
     <loc>https://classletters.org/authors/ismail-bala/</loc>
     <lastmod>2026-06-16T05:27:44+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/american-history/</loc>
-    <lastmod>2026-06-06T00:32:17+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/american-revolution/</loc>
     <lastmod>2026-06-06T00:32:17+00:00</lastmod>
@@ -195,9 +207,6 @@
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/congo/</loc>
-    <lastmod>2024-09-22T01:58:15+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/racism/</loc>
     <lastmod>2024-09-22T01:58:15+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/new-left/</loc>
