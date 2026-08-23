@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://classletters.org/tags/american-history/</loc>
-    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
-  </url><url>
     <loc>https://classletters.org/authors/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/existentialism/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/assorted/existentialism_today_tillich/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/authors/paul-tillich/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/philosophy/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/posts/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/theology/</loc>
+    <lastmod>2026-08-23T15:03:35+10:00</lastmod>
+  </url><url>
+    <loc>https://classletters.org/tags/american-history/</loc>
     <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/authors/barbara-j.-fields/</loc>
     <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
-    <loc>https://classletters.org/</loc>
-    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
-  </url><url>
     <loc>https://classletters.org/posts/fields_sisters/of_rouges_and_geldings/</loc>
-    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/posts/</loc>
     <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/race/</loc>
@@ -27,9 +45,6 @@
     <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/tags/racism/</loc>
-    <lastmod>2026-08-16T12:17:48+10:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/</loc>
     <lastmod>2026-08-16T12:17:48+10:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/assorted/go_ask_the_time/go_ask_the_time/</loc>
@@ -475,9 +490,6 @@
   </url><url>
     <loc>https://classletters.org/tags/ussr/</loc>
     <lastmod>2023-03-22T08:06:39+00:00</lastmod>
-  </url><url>
-    <loc>https://classletters.org/tags/philosophy/</loc>
-    <lastmod>2023-03-05T01:59:10+00:00</lastmod>
   </url><url>
     <loc>https://classletters.org/posts/lukacs/crisis-of-bourgeois-philosophy/</loc>
     <lastmod>2023-03-05T01:59:10+00:00</lastmod>

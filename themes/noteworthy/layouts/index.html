@@ -32,14 +32,15 @@
             <div class="post-footer">
             <time>{{ .Date.Format "January 2, 2006" }}</time>
 
+            </div> 
+            <div>
             <!-- Display tags -->
             {{if .Params.tags}}
                 {{ range .Params.tags }}
                     <a class="tag" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{.}}</a>
                 {{ end }}
             {{ end }}
-            </div> 
-           
+            </div>
         </article>
         {{ end }}
     </div>
