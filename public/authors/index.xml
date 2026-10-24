@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Sun, 23 Aug 2026 15:03:35 +1000</lastBuildDate>
+			<lastBuildDate>Sat, 24 Oct 2026 17:38:30 +1000</lastBuildDate>
 		
 			<atom:link href="https://classletters.org/authors/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Eric Hobsbawm</title>
+				<link>https://classletters.org/authors/eric-hobsbawm/</link>
+				<pubDate>Sat, 24 Oct 2026 17:38:30 +1000</pubDate>
+				<guid>https://classletters.org/authors/eric-hobsbawm/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>Paul Tillich</title>
 				<link>https://classletters.org/authors/paul-tillich/</link>

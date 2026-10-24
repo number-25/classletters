@@ -5,7 +5,7 @@ author: "Eric Hobsbawm"
 authors: ["Eric Hobsbawm"]
 type: "post"
 tags: ["merit", "revolution", "democracy", "equality", "18th-century", "19th-century"]
-draft: true
+draft: false
 ---
 
 Chapter 10 from Eric Hobsbawm's now legendary *The Age of Revolutions: 1789-1848*.
